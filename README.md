@@ -1,5 +1,6 @@
 ## Directory Tree
-<!-- .
+```
+.
 +-- cbrservice (main flask directory)
 |   +-- app (flask sevice)
 |       +-- messages (CBR/Lazy learning part)
@@ -20,8 +21,9 @@
 |       +-- routes.py (flask routes)
 |   +-- cbrobit.py (main flask file)
 +-- LICENSE
-+-- README.md -->
++-- README.md
 ```
+<!-- ```
 |--- cbrservice
 |   |--- app 
 |       |--- messages 
@@ -43,7 +45,7 @@
 |   |--- cbrobit.py
 |--- LICENSE
 |--- README.md
-```
+``` -->
 
 ## Instructions to run
 - Run on windows powershell
