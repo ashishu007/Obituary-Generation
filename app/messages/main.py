@@ -11,15 +11,15 @@ def create_basic_ftrs(diction):
     ftrs = {}
 
     for k, v in diction.items():
-        if v[0] != '':
+        if v != '':
             if k == "demise_date":
-                dobj = datetime.strptime(v[0], "%Y-%m-%d")
-                t = dobj.strftime("%d %B %Y")
+                # dobj = datetime.strptime(v, "%Y-%m-%d")
+                t = v.strftime("%d %B %Y")
                 ftrs[k] = str(t)
             elif k == "age":
-                ftrs[k] = int(v[0])
+                ftrs[k] = int(v)
             else:
-                ftrs[k] = v[0]
+                ftrs[k] = v
 
     for k, v in ftrs.items():
         print(type(v))
