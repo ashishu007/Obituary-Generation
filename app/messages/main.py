@@ -21,6 +21,9 @@ def create_basic_ftrs(diction):
             else:
                 ftrs[k] = v
 
+    if "nick_name" not in list(ftrs.keys()):
+        ftrs["nick_name"] = (ftrs["name"].split(" "))[0]
+
     for k, v in ftrs.items():
         print(type(v))
 

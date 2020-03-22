@@ -29,10 +29,10 @@ def single_component(features):
             elif j == "spouse_name":
                 if df[j][i] != str(0) and (j in features.keys()):
                     score += 1
-            elif j == "spouse_gender":
-                if df[j][i] != str(0) and (j in features.keys()):
-                    if df[j][i] == features[j]:
-                        score += 1
+            # elif j == "spouse_gender":
+            #     if df[j][i] != str(0) and (j in features.keys()):
+            #         if df[j][i] == features[j]:
+            #             score += 1
             # elif j == "flower_score" or j == "guest_score":
             #     if df[j][i] != str(0) and (j in features.keys()):
             #         if df[j][i] == features[j]:

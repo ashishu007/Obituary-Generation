@@ -18,13 +18,15 @@ def add_entry():
         r = result.to_dict(flat=False)
         print(r)
 
-    print(type(r["demise_date"][0]))
+    # print(type(r["demise_date"][0]))
 
     dobj = datetime.strptime(r["demise_date"][0], "%Y-%m-%d")
 
-    print(type(dobj))
+    # print(type(dobj))
 
-    f = Features(name=r["name"][0], demise_place=r["demise_place"][0], demise_date=dobj, age=int(r["age"][0]))
+    f = Features(name = r["name"][0], demise_place = r["demise_place"][0], demise_date = dobj, age = int(r["age"][0]), \
+                    demise_how = r["demise_how"][0], demise_reason = r["demise_reason"][0], home_town = r["home_town"][0])
+
     db.session.add(f)
     db.session.commit()
 
@@ -42,7 +44,10 @@ def add_entry():
             "name": i.name,
             "demise_date": i.demise_date,
             "demise_place": i.demise_place,
-            "age": i.age
+            "age": i.age,
+            "demise_reason": i.demise_reason,
+            "demise_how": i.demise_how,
+            "home_town": i.home_town
         }
 
     lst = return_msgs(r)
