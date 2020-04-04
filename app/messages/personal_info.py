@@ -9,7 +9,7 @@ def personal_info_component(features):
 
     # print(os.getcwd())
 
-    df = pd.read_csv('./messages/data/101_personal_component.csv')
+    df = pd.read_csv('./app/messages/data/101_personal_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)

@@ -7,6 +7,8 @@ def funeral_component(features):
     funeral_strings = []
     # funeral_string = ""
 
+    print(features)
+
     df = pd.read_csv('./app/messages/data/101_funeral_component.csv')
     key_vals = list(df)
     key_vals.remove('text')

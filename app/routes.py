@@ -1,6 +1,6 @@
 from app import app
 from flask import render_template, request
-from app.messages.main import return_msgs
+from app.messages.main import return_comp_messages, return_basic_msgs
 import json, os
 from flask.json import jsonify
 from app.models import Features
@@ -11,7 +11,77 @@ from datetime import datetime
 def hello_world():
     return render_template("index.html")
 
-@app.route('/result', methods = ['POST', 'GET'])
+
+@app.route('/result', methods=['POST','GET'])
+def send_obits():
+    if request.method == 'POST':
+        result = request.form
+        r = result.to_dict(flat=False)
+        print(r)
+
+    ftrs = {}
+
+    for key, val in r.items():
+        if len(val[0]) != 0:
+            if key == "demise_date" or key == "funeral_date":
+                dobj = datetime.strptime(val[0], "%Y-%m-%d")
+                ftrs[key] = dobj
+            elif key == "ret_met":
+                pass
+            else:
+                ftrs[key] = val[0]
+
+    if ftrs["gender"] == "M":
+        print("inside if M")
+        if "spouse_name" in list(ftrs.keys()):
+            ftrs["spouse_gender"] = "husband"
+        if "children_name" in list(ftrs.keys()):
+            ftrs["parent_gender"] = "father"
+        if "grandchildren_name" in list(ftrs.keys()):
+            ftrs["grandparent_gender"] = "papa"
+        if "great_grandchildren_name" in list(ftrs.keys()):
+            ftrs["great_grandparent_gender"] = "great papa"
+        if "children_in_law_name" in list(ftrs.keys()):
+            ftrs["parent_in_law_gender"] = "father in law"
+        if "siblings_name" in list(ftrs.keys()):
+            ftrs["siblings_gender"] = "brother"
+
+    if ftrs["gender"] == "F":
+        print("inside if F")
+        if "spouse_name" in list(ftrs.keys()):
+            ftrs["spouse_gender"] = "wife"
+        if "children_name" in list(ftrs.keys()):
+            ftrs["parent_gender"] = "mother"
+        if "grandchildren_name" in list(ftrs.keys()):
+            ftrs["grandparent_gender"] = "nana"
+        if "great_grandchildren_name" in list(ftrs.keys()):
+            ftrs["great_grandparent_gender"] = "great nana"
+        if "children_in_law_name" in list(ftrs.keys()):
+            ftrs["parent_in_law_gender"] = "mother in law"
+        if "siblings_name" in list(ftrs.keys()):
+            ftrs["siblings_gender"] = "sister"
+
+    print(ftrs)
+
+    if r["ret_met"][0] == "basic":
+        print("Its basic")
+        lst = return_basic_msgs(ftrs)
+    else:
+        print("Its component")
+        lst = return_comp_messages(ftrs)
+
+    return jsonify(
+        [
+            {"Features:": ftrs},
+            {"Option 1:": lst[0]},
+            {"Option 2:": lst[1]},
+            {"Option 3:": lst[2]},
+            {"Option 4:": lst[3]}
+        ]
+    )
+
+
+@app.route('/resultdb', methods = ['POST', 'GET'])
 def add_entry():
     if request.method == 'POST':
         result = request.form
@@ -39,7 +109,11 @@ def add_entry():
     print("resId", resId)
 
     ftrs = Features.query.filter_by(id=resId)
+    ctr = 0
+
     for i in ftrs:
+        print(ctr)
+        ctr += 1
         r = {
             "name": i.name,
             "demise_date": i.demise_date,
@@ -50,17 +124,15 @@ def add_entry():
             "home_town": i.home_town
         }
 
-    lst = return_msgs(r)
-    op1 = lst[0]
-    op2 = lst[1]
-    op3 = lst[2]
-    op4 = lst[3]
+    lst = return_basic_msgs(r)
+
     return jsonify(
         [
-            {"Option 1:": op1},
-            {"Option 2:": op2},
-            {"Option 3:": op3},
-            {"Option 4:": op4}
+            {"Features:": ftrs},
+            {"Option 1:": lst[0]},
+            {"Option 2:": lst[1]},
+            {"Option 3:": lst[2]},
+            {"Option 4:": lst[3]}
         ]
     )
 

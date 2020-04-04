@@ -7,7 +7,7 @@ def relations_component(features):
     # relations_string = ""
     relations_strings = []
 
-    df = pd.read_csv('./messages/data/101_relations_component.csv')
+    df = pd.read_csv('./app/messages/data/101_relations_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)

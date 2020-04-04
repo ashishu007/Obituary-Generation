@@ -2,25 +2,117 @@
 <html lang="en">
  
 <head>
-    <title>Obituary App</title> 
+    <title>Obituary App</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+    * {
+      box-sizing: border-box;
+    }
+    
+    /* Create two equal columns that floats next to each other */
+    .column {
+      float: left;
+      width: 33%;
+      padding: 10px;
+      /* height: 300px;  */
+      /* Should be removed. Only for demonstration */
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    </style>    
 </head>
  
 <body>
-    <form action = "http://localhost:5000/result" method = "POST">
-        <p>Name <input type = "text" name = "name" /></p>
-        <p>Place of death <input type = "text" name = "demise_place" /></p>
-        <p>Date of death <input type = "date" name = "demise_date" /></p>
-        <p>Age <input type ="number" name = "age" /></p>
-        <label for="demise_how">Demise how</label>
-        <select id="demise_how" name="demise_how">
-          <option value="peacefully">Peacefully</option>
-          <option value="suddenly">Suddenly</option>
-          <option value="peacefully but suddenly">Peacefully but suddenly</option>
-        </select>      
-        <p>Demise Reason <input type ="text" name = "demise_reason" /></p>
-        <p>Home town <input type ="text" name = "home_town" /></p>
-        <p><input type = "submit" value = "submit" /></p>
-     </form>
+  <h2>
+    Please enter the values
+  </h2>
+
+  <form action = "http://localhost:5000/result" method = "POST">
+  <div class="row">
+    <div class="column" style="background-color:#aaa;">
+      <!-- Personal Information Component -->
+      <!-- p = ["name", "age", "demise_place", "demise_date", "demise_how", "home_town", "gender", "nick_name"] -->
+
+      <p>Name <input type = "text" name = "name" /></p>
+      <p>Nick Name <input type = "text" name = "nick_name" /></p>
+      <label for="gender">Gender</label>
+      <select id="gender" name="gender">
+        <option value="M">Male</option>
+        <option value="F">Female</option>
+        <option value="O">Other</option>
+      </select>
+      <p>Place of death <input type = "text" name = "demise_place" /></p>
+      <p>Date of death <input type = "date" name = "demise_date" /></p>
+      <p>Age <input type ="number" name = "age" /></p>
+      <label for="demise_how">Demise how</label>
+      <select id="demise_how" name="demise_how">
+        <option value="peacefully">Peacefully</option>
+        <option value="suddenly">Suddenly</option>
+        <option value="peacefully but suddenly">Peacefully but suddenly</option>
+      </select>      
+      <p>Demise Reason <input type ="text" name = "demise_reason" /></p>
+      <p>Home town <input type ="text" name = "home_town" /></p>  
+    </div>
+
+    <div class="column" style="background-color: #ccc;">
+      <!-- Relationship Component -->
+      <!-- r = ["parent_gender", "spouse_name", "spouse_gender", "grandparent_gender", "children_name", "grandchildren_name", "great_grandchildren_name", "great_grandparent_gender",
+        "siblings_name", "siblings_gender", "children_in_law_name", "parent_in_law_gender", "siblings_in_law_name", "siblings_in_law_gender", "other_relations_names",
+        "other_relations_types", "friends_name"] -->
+      
+      <p>Spouse Name <input type="text" name="spouse_name" /></p>
+      <p>Children Name <input type="text" name="children_name" /></p>
+      <p>Grand Children Name <input type="text" name="grandchildren_name" /></p>
+      <p>Great Grand Children Name <input type="text" name="great_grandchildren_name" /></p>
+      <p>Children-in-law Name <input type="text" name="children_in_law_name" /></p>
+      <p>Siblings Name <input type="text" name="siblings_name" /></p>
+      <p>Siblings-in-law Name <input type="text" name="siblings_in_law_name" /></p>
+      <p>Friends Name <input type="text" name="friends_name" /></p>
+      <p>Other Relations Name <input type="text" name="other_relations_names" /></p>
+    </div>
+
+    <div class="column" style="background-color:#bbb;">
+      <!-- Funeral Component -->
+      <!-- f = ["funeral_place", "funeral_date", "funeral_time", "cemetery_place", "cemetery_time", "flowers", "guests_list", "funeral_attire", "charity_name", "reception_place",
+              "reception_time", "reception_date", "funeral_message"] -->
+
+      <p>Funeral Place <input type="text" name="funeral_place" /></p>
+      <p>Funeral Date <input type="date" name="funeral_date" /></p>
+      <p>Funeral Time <input type="time" name="funeral_time" /></p>
+      <p>Cemetery Place <input type="text" name="cemetery_place" /></p>
+      <p>Cemetery Time <input type="time" name="cemetery_time" /></p>
+      <p>Funeral Message <input type="text" name="funeral_message" /></p>
+      <label for="guests_list">Guests' List</label>
+      <select id="guests_list" name="guests_list">
+        <option value="private">Private</option>
+        <option value="friends and family">Freinds and family</option>
+        <option value="all">All</option>
+      </select>      
+      <label for="flowers">Flowers</label>
+      <select id="flowers" name="flowers">
+        <option value="family flowers only">Family flowers only</option>
+        <option value="everybody bring flowers">Everybody</option>
+      </select>
+      <p>Attire Request <input type="text" name="funeral_attire" /></p>
+      <p>Charity Name <input type="text" name="charity_name" /></p>
+    </div>
+  </div> 
+
+  <!-- Retrieval method -->
+    <label for="ret_met">Retrieval Method</label>
+    <select id="ret_met" name="ret_met">
+      <option value="component">Component</option>
+      <option value="basic">Basic</option>
+    </select>
+
+  <!-- Submit Button -->
+    <p><input type = "submit" value = "submit" /></p>
+  </form>
 </body>
  
 </html>
