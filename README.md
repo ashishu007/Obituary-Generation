@@ -52,5 +52,11 @@
     - ```flask run```
 
 ## TODO
-- Fix format for component features.
-- 
+- Similarity measure in component retrieval.
+- Edge cases:
+   - Orthology: Things like one full stops only.
+   - Morphology: Things like appropriate use of 'he' or 'she'.
+- Modify the feature list to handle edge-cases.
+   - Special care for relations section.
+- Maybe break the obituary into two sections, 'funeral' and 'non-funeral', for sending it back.
+- Try to add message about previous life.
