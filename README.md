@@ -60,3 +60,8 @@
    - Special care for relations section.
 - Maybe break the obituary into two sections, 'funeral' and 'non-funeral', for sending it back.
 - Try to add message about previous life.
+
+## Longer Goal
+- Add more data.
+- Add the framework for data labelling.
+- Add Active Learning for data labelling.
