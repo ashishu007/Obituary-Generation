@@ -32,6 +32,11 @@ def personal_info_component(features):
                     age_val = 1 - (np.sqrt(np.square(int_val_age - features["age"]))/110)
                     score += age_val
 
+            # Now check if there are some features which are present in train but not in test, then reduce the score
+            # for those train samples
+            if df[j][i] != str(0) and (j not in features.keys()):
+                score -= 1
+
         scores.append(score)
     
     tops = sorted(range(len(scores)), key=lambda i: scores[i])[-4:]
