@@ -3,6 +3,7 @@
 
 ## Process
 - First use `doccano` to manually label the data and download it in `.jsonl (json lines)` format.
+    - `doccano` is found [here](https://github.com/doccano/doccano).
 - Then use `...` script to convert `.jsonl` into `.xml`.
 - Finally use `...` script to convert `.xml` into `.csv`.
 
