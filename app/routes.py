@@ -11,13 +11,6 @@ from datetime import datetime
 def hello_world():
     return render_template("index.html")
 
-# @app.route('/json')
-# def show_json():
-#     with open('C:/Users/User/Downloads/rotowire/valid.json') as json_file:
-#         data = json.load(json_file)
-#     return jsonify(data)
-
-
 @app.route('/result', methods=['POST','GET'])
 def send_obits():
     if request.method == 'POST':

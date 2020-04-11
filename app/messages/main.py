@@ -6,6 +6,7 @@ from app.messages.single_comp import single_component
 from app.messages.errors import gender_errors
 import numpy as np
 from datetime import datetime
+import pandas as pd
 
 def create_basic_ftrs(diction):
 
@@ -36,12 +37,26 @@ def create_comp_ftrs(diction):
     relations = {}
     funeral = {}
 
-    p = ["name", "age", "demise_place", "demise_date", "demise_how", "home_town", "gender", "nick_name"]
-    r = ["parent_gender", "spouse_name", "spouse_gender", "grandparent_gender", "children_name", "grandchildren_name", "great_grandchildren_name", "great_grandparent_gender",
-            "siblings_name", "siblings_gender", "children_in_law_name", "parent_in_law_gender", "siblings_in_law_name", "siblings_in_law_gender", "other_relations_names",
-            "other_relations_types", "friends_name"]
-    f = ["funeral_place", "funeral_date", "funeral_time", "cemetery_place", "cemetery_time", "flowers", "guests_list", "funeral_attire", "charity_name", "reception_place",
-            "reception_time", "reception_date", "funeral_message"]
+    df = pd.read_csv("./app/messages/resources/feature_list.csv")
+
+    p = []
+    r = []
+    f = []
+
+    for id, row in df.iterrows():
+        if row["Feature Component"] == "Personal Info":
+            p.append(row["Feature Name"])
+        elif row["Feature Component"] == "Relations":
+            r.append(row["Feature Name"])
+        else:
+            f.append(row["Feature Name"])
+
+    # p = ["name", "age", "demise_place", "demise_date", "demise_how", "home_town", "gender", "nick_name"]
+    # r = ["parent_gender", "spouse_name", "spouse_gender", "grandparent_gender", "children_name", "grandchildren_name", "great_grandchildren_name", "great_grandparent_gender",
+    #         "siblings_name", "siblings_gender", "children_in_law_name", "parent_in_law_gender", "siblings_in_law_name", "siblings_in_law_gender", "other_relations_names",
+    #         "other_relations_types", "friends_name"]
+    # f = ["funeral_place", "funeral_date", "funeral_time", "cemetery_place", "cemetery_time", "flowers", "guests_list", "funeral_attire", "charity_name", "reception_place",
+    #         "reception_time", "reception_date", "funeral_message"]
 
     for k, v in diction.items():
         

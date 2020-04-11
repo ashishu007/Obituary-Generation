@@ -17,6 +17,7 @@
    - First manual labelling in Doccano.
    - Second, conversion of Doccano's format into XML.
    - Third, conversion of XML into tabular form, i.e., CSV.
+- ~~Add a list of features categorised in component type.~~ **Done**
 
 ## Longer Goal
 - Add more data.
