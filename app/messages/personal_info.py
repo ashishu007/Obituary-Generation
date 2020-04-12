@@ -9,7 +9,7 @@ def personal_info_component(features):
 
     # print(os.getcwd())
 
-    df = pd.read_csv('./app/messages/data/101_personal_component.csv')
+    df = pd.read_csv('./app/messages/data/personal_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)
@@ -64,6 +64,11 @@ def personal_info_component(features):
                     i.string = str(features[i.name]) + " years"
                 else:
                     i.string = features[i.name]
+            # Remove the tags/features from generated text which are not in input
+            elif i.name == "personal_info_component" or i.name == "html" or i.name == "body":
+                pass
+            elif i.name not in features.keys():
+                i.string = ""
         
         gen_str = top_val_soup.text
         gen_str = ' '.join(gen_str.split())

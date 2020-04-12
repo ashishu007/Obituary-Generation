@@ -3,11 +3,11 @@ import numpy as np
 from bs4 import BeautifulSoup
 import re
 
-def single_component(features):
+def basic_generation(features):
     # single_component_strings = ""
-    single_component_strings = []
+    basic_strings = []
 
-    df = pd.read_csv('./app/messages/data/101_single_component.csv')
+    df = pd.read_csv('./app/messages/data/basic.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)
@@ -69,22 +69,20 @@ def single_component(features):
         for i in top_val_soup.find_all():
             # print(i.name, i.string)
             if i.name in features.keys():
-                # print("features[i]", features[i.name])
-                # print("features[i]", features[i.name], i.string)
-                # print("i.name", i.name)
-                # print(i.name == "age")
                 if i.name == "age":
                     i.string = str(features[i.name]) + " years"
-                # elif i.name == "flowers" or i.name == "guests_list":
-                #     i.string = i.string
                 else:
-                    # print("features[i]", features[i.name], i.string, i.name)
                     i.string = features[i.name]
+            # Remove the tags/features from generated text which are not in input
+            elif i.name == "obit" or i.name == "html" or i.name == "body":
+                pass
+            elif i.name not in features.keys():
+                i.string = ""
         
         gen_str = top_val_soup.text
         gen_str = ' '.join(gen_str.split())
 
         # personal_info_string = gen_str
-        single_component_strings.append(gen_str)
+        basic_strings.append(gen_str)
 
-    return single_component_strings
+    return basic_strings

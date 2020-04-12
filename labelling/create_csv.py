@@ -3,7 +3,7 @@ import numpy as np
 import jsonlines, re, string
 from bs4 import BeautifulSoup
 
-infile = open("./data/xml-tagged.xml","r")
+infile = open("./resources/xml-tagged.xml","r")
 contents = infile.read()
 soup = BeautifulSoup(contents,'lxml')
 

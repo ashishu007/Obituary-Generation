@@ -18,14 +18,14 @@
 - On `https://localhost:5000` there will be a form for different feature values.
 - After submitting the form you will get a `json` file with a dictionary of features given as input and four possible obituaries.
 - An example of obituaries generated from `basic-retrieval` method.
-![Basic Retrieval](basic.png)
+![Basic Retrieval](/labelling/resources/basic.png)
 - An example of obituaries generated from `component-retrieval` method.
-![Component Retrieval](comp.png)
+![Component Retrieval](/labelling/resources/comp.png)
 
 ## TODO
 - ~~Similarity measure in component retrieval.~~ **Done**
 - Edge cases:
-   - Orthology: Things like one full stops only.
+   - Orthology: Things like one full stops only (mostly occurs in `component-retrieval`).
    - ~~Morphology: Things like appropriate use of 'he' or 'she'.~~ **Done**
 - Modify the feature list to handle edge-cases.
    - Special care for relations section.
@@ -37,6 +37,7 @@
    - ~~Third, conversion of XML into tabular form, i.e., CSV.~~
    - **Imp.**: Right now automated conversion is only supported for `basic-retrieval` method.
 - ~~Add a list of features categorised in component type.~~ **Done**
+- ~~Remove the tags from generated text which are not given in input.~~ **Done**
 
 ## Longer Goal
 - Add more data.
@@ -59,7 +60,7 @@
       +-- main.py
       +-- personal_info.py
       +-- relations.py
-      +-- single_comp.py
+      +-- basic.py
       +-- README.md
    +-- templates (HTML templates)
          +-- index.html
@@ -69,9 +70,15 @@
 +-- labelling (data labelling framewrok)
    +-- data
       +-- basic.csv
+      +-- personal_info_component.csv
+      +-- funeral_component.csv
+      +-- relations_component.csv
+   +-- resources
       +-- tagged.json1
-      +-- xm-tagged.xml
+      +-- xml-tagged.xml
+      +-- xml-tagged-comps.xml
    +-- create_csv.py
+   +-- create_csv_comps.py
    +-- create_xml.py
    +-- README.md
 

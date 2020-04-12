@@ -1,0 +1,301 @@
+reception_date,great_grandchildren_name,siblings_gender,reception_time,parent_gender,siblings_in_law_gender,grandchildren_name,great_grandparent_gender,friends_name,parent_in_law_gender,reception_place,mother_name,children_in_law_name,name,father_name,siblings_name,nick_name,spouse_gender,other_relations_names,spouse_name,other_relations_types,grandparent_gender,children_gender,funeral_message,children_name,siblings_in_law_name,text
+0,0,0,0,mum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,nana,0,0,Paul and Lee,0,"<relations_component>
+loving <parent_gender>mum</parent_gender> of <children_name>Paul and Lee</children_name>, and a much loved <grandparent_gender>nana</grandparent_gender>.
+</relations_component>"
+0,Rowan,0,0,dad,0,"Naomi, Reice, Rhea, Ethan, Mackenzie, Ellice, Imogine and Aidan",great-grandpa,0,0,0,0,0,0,0,0,0,0,0,0,0,grandpa,0,0,"Jamie, Shaun, Ann, Christine and her husband Scott",0,"<relations_component>
+devoted <parent_gender>dad</parent_gender> to <children_name>Jamie, Shaun, Ann, Christine and her husband Scott</children_name>, doting <grandparent_gender>grandpa</grandparent_gender> to <grandchildren_name>Naomi, Reice, Rhea, Ethan, Mackenzie, Ellice, Imogine and Aidan</grandchildren_name>, <great_grandparent_gender>great-grandpa</great_grandparent_gender> to <great_grandchildren_name>Rowan</great_grandchildren_name>.
+</relations_component>"
+0,0,0,0,mum,0,0,great-gran,0,mother-in-law,0,0,0,0,0,0,0,0,0,0,0,gran,0,She will be sadly missed by all who knew her,"Edith, Ann, Edward, James, Richard, Tracey and Laura",0,"<relations_component>
+devoted and caring <parent_gender>mum</parent_gender> of <children_name>Edith, Ann, Edward, James, Richard, Tracey and Laura</children_name>, a much loved <parent_in_law_gender>mother-in-law</parent_in_law_gender>, <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great-gran</great_grandparent_gender> of the family. <funeral_message>She will be sadly missed by all who knew her</funeral_message>. 
+</relations_component>"
+0,0,sister,0,mum,0,0,great gran,0,mother-in-law,0,0,0,0,0,"Grace, Cathie and Meg",0,0,0,0,0,gran,0,0,"Carol, Michael, Catherine and Stephen",0,"<relations_component>
+special <parent_gender>mum</parent_gender> of <children_name>Carol, Michael, Catherine and Stephen</children_name>, dearly loved <siblings_gender>sister</siblings_gender> to <siblings_name>Grace, Cathie and Meg</siblings_name>, a much loved <parent_in_law_gender>mother-in-law</parent_in_law_gender>, <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great gran</great_grandparent_gender>.""
+</relations_component>"
+0,0,0,0,mother ,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,granny,0,She will be sadly missed,Edward and Caroline,0,"<relations_component>
+dearly loved <parent_gender>mother </parent_gender>of <children_name>Edward and Caroline</children_name> and a much loved <grandparent_gender>granny</grandparent_gender>. <funeral_message>She will be sadly missed</funeral_message>. 
+</relations_component>"
+0,0,0,0,mother,0,0,great grandmother,0,0,0,0,0,0,0,0,0,0,great great grandmother,0,0,grandmother,0,0,"Sally, Nessie and Fiona",0,"<relations_component>
+a loving <parent_gender>mother</parent_gender> of <children_name>Sally, Nessie and Fiona</children_name>, a dear <grandparent_gender>grandmother</grandparent_gender>, <great_grandparent_gender>great grandmother</great_grandparent_gender> and <other_relations_names>great great grandmother</other_relations_names>
+</relations_component>"
+0,0,brother,0,father,0,0,0,0,father-in-law,0,0,0,0,0,0,0,0,0,0,uncle ,papa,0,0,0,0,"<relations_component>
+and a dearly loved <parent_gender>father</parent_gender>, <parent_in_law_gender>father-in-law</parent_in_law_gender>, <grandparent_gender>papa</grandparent_gender>, <siblings_gender>brother</siblings_gender>, <other_relations_types>uncle </other_relations_types>and friend.
+</relations_component>"
+0,0,0,0,mother,0,0,great gran,0,mother-in-law,0,0,0,0,0,0,0,0,0,0,aunt,gran,0,0,0,0,"<relations_component>
+dearly loved <parent_gender>mother</parent_gender>, <parent_in_law_gender>mother-in-law</parent_in_law_gender>, <grandparent_gender>gran</grandparent_gender>, <great_grandparent_gender>great gran</great_grandparent_gender>, <other_relations_types>aunt</other_relations_types> and friend to many.
+</relations_component>"
+0,0,0,0,mother,0,0,Nan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Margaret, Craig and Gordon",0,"<relations_component>
+Loving <parent_gender>mother</parent_gender> to <children_name>Margaret, Craig and Gordon</children_name> and <great_grandparent_gender>Nan</great_grandparent_gender> to grandchildren and great-grandchildren. 
+</relations_component>"
+0,0,sister,0,mum,0,"Kyle, Robyn and Ceira",0,0,0,0,0,Jan,0,0,0,0,0,0,0,aunt,gran,0,0,Adrian,0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> to <children_name>Adrian</children_name> and partner <children_in_law_name>Jan</children_in_law_name>, <grandparent_gender>gran</grandparent_gender> to <grandchildren_name>Kyle, Robyn and Ceira</grandchildren_name>, loving <other_relations_types>aunt</other_relations_types>, <siblings_gender>sister</siblings_gender> and a friend to all. 
+</relations_component>"
+0,0,0,0,dad,0,0,popo,0,father-in-law,0,0,Gina and Deborah,0,0,0,0,0,0,0,0,0,0,0,"Alan, Derek and Steven",0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> of <children_name>Alan, Derek and Steven</children_name>, much loved <parent_in_law_gender>father-in-law</parent_in_law_gender> to <children_in_law_name>Gina and Deborah</children_in_law_name>, loving <great_grandparent_gender>popo</great_grandparent_gender> to all the grandchildren and great-grandchildren.
+</relations_component>"
+0,0,0,0,mum,0,0,great gran,0,0,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,"Anne, Brian, Karen and the late Billy",0,"<relations_component>
+Devoted <parent_gender>mum</parent_gender> of <children_name>Anne, Brian, Karen and the late Billy</children_name>. A much loved <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great gran</great_grandparent_gender>
+</relations_component>"
+0,0,0,0,dad,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jim and Anne, Moira and John and Dye of Laura, David and Megan",0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> of <children_name>Jim and Anne, Moira and John and Dye of Laura, David and Megan</children_name>
+</relations_component>"
+0,0,0,0,mother,0,Catriona and Hannah,0,0,mother-in-law,0,0,Michael,0,0,0,0,0,0,0,0,grandma,0,0,Senga,0,"<relations_component>
+loving <parent_gender>mother</parent_gender> and <parent_in_law_gender>mother-in-law</parent_in_law_gender> of <children_name>Senga</children_name> and <children_in_law_name>Michael</children_in_law_name> and a much loved <grandparent_gender>grandma</grandparent_gender> of <grandchildren_name>Catriona and Hannah</grandchildren_name>. 
+</relations_component>"
+0,0,0,0,dad,0,0,great grandad,many,0,0,0,0,0,0,0,0,0,0,0,0,granda,0,0,0,0,"<relations_component>
+a loving <parent_gender>dad</parent_gender>, <grandparent_gender>granda</grandparent_gender>, <great_grandparent_gender>great grandad</great_grandparent_gender> and friend to <friends_name>many</friends_name>. 
+</relations_component>"
+0,0,0,0,dad,0,Andrew,0,0,father-in-law,0,0,Daine and Mandy,0,0,0,0,0,0,0,0,papa,0,0,Ian and Alan,0,"<relations_component>
+dearly loved <parent_gender>dad</parent_gender> of <children_name>Ian and Alan</children_name>, <parent_in_law_gender>father-in-law</parent_in_law_gender> of <children_in_law_name>Daine and Mandy</children_in_law_name> and loved <grandparent_gender>papa</grandparent_gender> of <grandchildren_name>Andrew</grandchildren_name>. 
+</relations_component>"
+0,0,0,0,mum,0,0,0,0,0,0,the late Ellen,0,0,Terrance,0,0,0,0,0,"daughter in law, sister, sister in law and aunt",0,daughter,0,Gabriel,0,"<relations_component>
+a devoted, loving <parent_gender>mum</parent_gender> of <children_name>Gabriel</children_name>, a beloved <children_gender>daughter</children_gender> of <father_name>Terrance</father_name> and <mother_name>the late Ellen</mother_name>, <other_relations_types>daughter in law, sister, sister in law and aunt</other_relations_types> to the family, and a great friend to those who knew her. 
+</relations_component>"
+0,0,0,0,Mum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nana,0,0,"Mary, John, Steven, Peter, Ann Marie, Aileen, Eilish and the late David",0,"<relations_component>
+treasured <parent_gender>Mum</parent_gender> of <children_name>Mary, John, Steven, Peter, Ann Marie, Aileen, Eilish and the late David</children_name> and much loved <grandparent_gender>Nana</grandparent_gender> to all the family. 
+</relations_component>"
+0,0,0,0,mother,0,0,great grandmother,0,0,0,0,0,0,0,0,0,0,0,0,0,grandmother,0,0,0,0,"<relations_component>
+a very loving <parent_gender>mother</parent_gender>, <grandparent_gender>grandmother</grandparent_gender> and <great_grandparent_gender>great grandmother</great_grandparent_gender> of all the family. Will be sorely missed by all. 
+</relations_component>"
+0,0,brother,0,dad,0,Rebecca and James,0,0,0,0,0,0,0,0,0,0,0,0,0,"son-in-law, father-in-law, brother-in-law and uncle",Grandpa ,0,0,"Jacqueline, Carole, Louise, David and Laura",0,"<relations_component>
+dearly loved <parent_gender>dad</parent_gender> of <children_name>Jacqueline, Carole, Louise, David and Laura</children_name>, a loved <grandparent_gender>Grandpa </grandparent_gender>of <grandchildren_name>Rebecca and James</grandchildren_name>, a dear <siblings_gender>brother</siblings_gender>, <other_relations_types>son-in-law, father-in-law, brother-in-law and uncle</other_relations_types>. 
+</relations_component>"
+0,Alexander and Hunter,sister,0,mum,0,"Gregor, Bruce, Andrew, Iain, Kerr and Mark",Great Gran,0,mother-in-law,0,Dora,Kenny and the late Bryan,0,the late Alexander,"the late Norrie, James and Alex",Irene (nee Stewart),wife,0,the late Andy,0,Gran,daughter,0,Louise and the late Andrena,0,"<relations_component>
+<nick_name>Irene (nee Stewart)</nick_name>, <children_gender>daughter</children_gender> of <father_name>the late Alexander</father_name> and <mother_name>Dora</mother_name>, beloved <spouse_gender>wife</spouse_gender> of <spouse_name>the late Andy</spouse_name> much loved <parent_gender>mum</parent_gender> of <children_name>Louise and the late Andrena</children_name>, dearly loved <grandparent_gender>Gran</grandparent_gender> of <grandchildren_name>Gregor, Bruce, Andrew, Iain, Kerr and Mark</grandchildren_name>, a loved <great_grandparent_gender>Great Gran</great_grandparent_gender> of <great_grandchildren_name>Alexander and Hunter</great_grandchildren_name>, a dear <siblings_gender>sister</siblings_gender> of <siblings_name>the late Norrie, James and Alex</siblings_name>, a dear <parent_in_law_gender>mother-in-law</parent_in_law_gender> of <children_in_law_name>Kenny and the late Bryan</children_in_law_name> and a good friend to many. 
+</relations_component>"
+0,0,brother,0,dad,brother-in-law,0,0,0,0,0,Margaret,0,0,the late Robert,0,0,0,0,0,"uncle, great-uncle, son-in-law",0,son,0,Lauren,0,"<relations_component>
+beloved <parent_gender>dad</parent_gender> of <children_name>Lauren</children_name>, much loved <children_gender>son</children_gender> of <mother_name>Margaret</mother_name> and <father_name>the late Robert</father_name>, loved <siblings_gender>brother</siblings_gender>, <other_relations_types>uncle, great-uncle, son-in-law</other_relations_types> and <siblings_in_law_gender>brother-in-law</siblings_in_law_gender> who will be sadly missed by all who knew him. 
+</relations_component>"
+0,0,0,0,mum,0,0,great nana,0,mother-in-law,0,0,0,0,0,0,0,0,0,0,0,nana,0,0,"Linda, Fred, Eleanor, Val and John",0,"<relations_component>
+dearly loved <parent_gender>mum</parent_gender> of <children_name>Linda, Fred, Eleanor, Val and John</children_name>, a proud and loving <grandparent_gender>nana</grandparent_gender> and <great_grandparent_gender>great nana</great_grandparent_gender>, a dear <parent_in_law_gender>mother-in-law</parent_in_law_gender> and a good friend and neighbour. 
+</relations_component>"
+0,Margot,0,0,mother,0,Pauline and Alan,great-gran,0,mother-in-law,0,0,Edith,0,0,0,0,0,0,0,0,grandmother,0,0,the late Stanley,0,"<relations_component>
+much loved <grandparent_gender>grandmother</grandparent_gender> to <grandchildren_name>Pauline and Alan</grandchildren_name>, devoted <parent_gender>mother</parent_gender> to <children_name>the late Stanley</children_name> and <parent_in_law_gender>mother-in-law</parent_in_law_gender> to <children_in_law_name>Edith</children_in_law_name>, also a proud <great_grandparent_gender>great-gran</great_grandparent_gender> to <great_grandchildren_name>Margot</great_grandchildren_name>. 
+</relations_component>"
+0,"Ryan, Danielle, Sean and Natalie",0,0,mother,0,0,0,0,0,0,0,0,May Johnston,0,0,0,0,0,0,0,grandmother,0,0,"Garry, Steven and Lynne",0,"<relations_component>
+<name>May Johnston</name>, <parent_gender>mother</parent_gender> of <children_name>Garry, Steven and Lynne</children_name> and proud <grandparent_gender>grandmother</grandparent_gender> to <great_grandchildren_name>Ryan, Danielle, Sean and Natalie</great_grandchildren_name>. 
+</relations_component>"
+0,0,0,0,mum,0,0,great-gran,0,0,0,0,0,0,0,0,0,0,0,0,0,nana,0,0,Kim and Mark,0,"<relations_component>
+dearly loved <parent_gender>mum</parent_gender> of <children_name>Kim and Mark</children_name>, a loving <grandparent_gender>nana</grandparent_gender> and <great_grandparent_gender>great-gran</great_grandparent_gender>. 
+</relations_component>"
+0,all her grandchildren,0,0,mum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,"William, Jan and belated son Bobby",0,"<relations_component>
+a loving <parent_gender>mum</parent_gender> to <children_name>William, Jan and belated son Bobby</children_name>. Also a loving <grandparent_gender>gran</grandparent_gender> to <great_grandchildren_name>all her grandchildren</great_grandchildren_name>. 
+</relations_component>"
+0,0,0,0,dad,0,0,great-papa,0,0,0,0,0,0,0,0,0,0,0,0,0,papa,0,0,0,0,"<relations_component>
+much loved and devoted <parent_gender>dad</parent_gender>, <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great-papa</great_grandparent_gender> who will be sadly missed. 
+</relations_component>"
+0,great grandmother,0,0,mother,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandmother,0,0,0,0,"<relations_component>
+Beloved <parent_gender>mother</parent_gender>, <grandparent_gender>grandmother</grandparent_gender> and <great_grandchildren_name>great grandmother</great_grandchildren_name> of the family. 
+</relations_component>"
+0,Noah,0,0,mum,0,Harry and Finn,nana,0,0,0,0,0,0,0,0,0,0,0,0,0,granny,0,0,Pamela and Lyn,0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> to <children_name>Pamela and Lyn</children_name>, loving <grandparent_gender>granny</grandparent_gender> to <grandchildren_name>Harry and Finn</grandchildren_name> and <great_grandparent_gender>nana</great_grandparent_gender> to <great_grandchildren_name>Noah</great_grandchildren_name>. 
+</relations_component>"
+0,0,sister,0,mother,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandmother,0,0,0,0,"<relations_component>
+and a much loved <parent_gender>mother</parent_gender>, <grandparent_gender>grandmother</grandparent_gender> and <siblings_gender>sister</siblings_gender>. 
+</relations_component>"
+0,0,0,0,mum,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,granny,0,0,"Patricia, Elspeth and Kenneth",0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> of <children_name>Patricia, Elspeth and Kenneth</children_name> and a loving <grandparent_gender>granny</grandparent_gender>. 
+</relations_component>"
+0,0,sister,0,mother,0,James & Cameron,0,0,0,0,0,0,0,0,Mary,0,0,0,0,0,great granny,0,0,"Sarah & Alan, granny to Scott & Clare, Darren & Laura",0,"<relations_component>
+a dear <siblings_gender>sister</siblings_gender> of <siblings_name>Mary</siblings_name> a much loved <parent_gender>mother</parent_gender> of <children_name>Sarah &amp; Alan, granny to Scott &amp; Clare, Darren &amp; Laura</children_name> and <grandparent_gender>great granny</grandparent_gender> to <grandchildren_name>James &amp; Cameron</grandchildren_name>. 
+</relations_component>"
+0,0,0,0,mum,0,0,0,0,0,0,0,0,0,0,0,Ann,0,0,0,0,0,0,0,"Ian, gran to Ryan",0,"<relations_component>
+loving <parent_gender>mum</parent_gender> of <children_name>Ian, gran to Ryan</children_name> and family. <nick_name>Ann</nick_name> will always be sadly missed. God Bless.
+</relations_component>"
+0,0,0,0,dad,0,"Jackson, Leah, Emily and Aneurin",0,0,father-in-law,0,0,"Alan, Scott, Rob and Sarah",0,0,0,0,0,0,0,0,grandad,0,0,"Ailsa, Morna, Rona and Innes",0,"<relations_component>
+dearly loved <parent_gender>dad</parent_gender> of <children_name>Ailsa, Morna, Rona and Innes</children_name>, much loved <grandparent_gender>grandad</grandparent_gender> of <grandchildren_name>Jackson, Leah, Emily and Aneurin</grandchildren_name> and a dear <parent_in_law_gender>father-in-law</parent_in_law_gender> of <children_in_law_name>Alan, Scott, Rob and Sarah</children_in_law_name>. 
+</relations_component>"
+0,0,0,0,mum,0,Megan and Sam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandma,0,0,Stephen,0,"<relations_component>
+a dear <parent_gender>mum</parent_gender> to <children_name>Stephen</children_name> and <grandparent_gender>grandma</grandparent_gender> to <grandchildren_name>Megan and Sam</grandchildren_name>.  
+</relations_component>"
+0,0,sister,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,aunt,0,0,0,0,0,"<relations_component>
+a much loved <siblings_gender>sister</siblings_gender> and <other_relations_types>aunt</other_relations_types>. 
+</relations_component>"
+0,0,0,0,Dad,0,Magali and Anne-Laure,0,0,father-in-law,0,0,Tom,0,0,0,0,0,0,0,0,Grandpa,0,0,Andrea and the late Dawn,0,"<relations_component>
+a much loved <parent_gender>Dad</parent_gender> of <children_name>Andrea and the late Dawn</children_name>, devoted <grandparent_gender>Grandpa</grandparent_gender> of <grandchildren_name>Magali and Anne-Laure</grandchildren_name> and a dear <parent_in_law_gender>father-in-law</parent_in_law_gender> to <children_in_law_name>Tom</children_in_law_name>. 
+</relations_component>"
+0,0,0,0,mother,0,0,great granny,0,mother-in-law,0,0,0,0,0,0,0,0,0,0,0,granny,0,0,Eddie and Billy,0,"<relations_component>
+a much loved <parent_gender>mother</parent_gender> of <children_name>Eddie and Billy</children_name>, dear <parent_in_law_gender>mother-in-law</parent_in_law_gender>, <grandparent_gender>granny</grandparent_gender> and <great_grandparent_gender>great granny</great_grandparent_gender>. 
+</relations_component>"
+0,and great-grandchildren,0,0,father,0,his grandchildren,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chris, Alan and Tracey",0,"<relations_component>
+<parent_gender>father</parent_gender> to <children_name>Chris, Alan and Tracey</children_name>. Adored by <grandchildren_name>his grandchildren</grandchildren_name> <great_grandchildren_name>and great-grandchildren</great_grandchildren_name>. He will be loved and remembered fondly by all his family and friends. What a wonderful life he had. 
+</relations_component>"
+0,0,0,0,Dad,0,"Chloe, Louise, Jack, Emma, Camryn and Jasmine",0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grandad,0,0,"Shona, Carol and Iain",0,"<relations_component>
+much loved <parent_gender>Dad</parent_gender> to <children_name>Shona, Carol and Iain</children_name> and a proud <grandparent_gender>Grandad</grandparent_gender> to <grandchildren_name>Chloe, Louise, Jack, Emma, Camryn and Jasmine</grandchildren_name>. 
+</relations_component>"
+0,0,0,0,father,0,0,great-papa,0,father-in-law,0,0,Hazel and Lynn,0,0,0,0,0,0,0,0,papa,0,0,Stewart and Andrew,0,"<relations_component>
+dearly loved <parent_gender>father</parent_gender> of <children_name>Stewart and Andrew</children_name>, <parent_in_law_gender>father-in-law</parent_in_law_gender> of <children_in_law_name>Hazel and Lynn</children_in_law_name> and a much loved <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great-papa</great_grandparent_gender>. 
+</relations_component>"
+Wednesday 13th March,0,sister,6pm,0,0,0,0,0,0,Vigil at St. James RC Church Paisley,0,0,0,0,Mary and Elizabeth,0,0,0,0,0,0,0,0,0,0,"<relations_component>
+<siblings_gender>sister</siblings_gender> to <siblings_name>Mary and Elizabeth</siblings_name> and a friend to many. Reception and <reception_place>Vigil at St. James RC Church Paisley</reception_place> on <reception_date>Wednesday 13th March</reception_date> at <reception_time>6pm</reception_time>. 
+</relations_component>"
+0,0,0,0,mum,0,0,great gran,0,0,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,Tommy,0,"<relations_component>
+dearly loved <parent_gender>mum</parent_gender> of <children_name>Tommy</children_name> and a much loved <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great gran</great_grandparent_gender>. 
+</relations_component>"
+0,0,0,0,father,0,0,great papa,0,0,0,0,0,0,0,0,0,0,0,0,0,papa,0,0,0,0,"<relations_component>
+<parent_gender>father</parent_gender>, <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great papa</great_grandparent_gender>. 
+</relations_component>"
+0,0,brother,0,dad,0,0,0,0,0,0,0,0,0,0,Hazel,0,0,0,0,0,0,0,0,Wendy and Elise,0,"<relations_component>
+much-loved <parent_gender>dad</parent_gender> of <children_name>Wendy and Elise</children_name> and a dear <siblings_gender>brother</siblings_gender> of <siblings_name>Hazel</siblings_name>. 
+</relations_component>"
+0,0,0,0,Father,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Grumpy ,0,0,"Joseph, Christina, Andrew, Graham, Karen and Fiona",0,"<relations_component>
+much loved <parent_gender>Father</parent_gender> of <children_name>Joseph, Christina, Andrew, Graham, Karen and Fiona</children_name> and adored <grandparent_gender>Grumpy </grandparent_gender>to all his Grandchildren. 
+</relations_component>"
+0,0,brother,0,dad,0,"Alexandra, Lisa and Charlotte",0,0,0,0,0,0,0,0,Linda Combes,0,0,0,0,0,grandpa,0,0,"Rhoda, Stuart and Nicholas",0,"<relations_component>
+loving <parent_gender>dad</parent_gender> of <children_name>Rhoda, Stuart and Nicholas</children_name>. Much loved <grandparent_gender>grandpa</grandparent_gender> of <grandchildren_name>Alexandra, Lisa and Charlotte</grandchildren_name> and <siblings_gender>brother</siblings_gender> of <siblings_name>Linda Combes</siblings_name>. 
+</relations_component>"
+0,0,0,0,mother,0,0,great-granny,0,0,0,0,0,0,0,0,0,0,0,0,0,granny,0,0,"Ann, Susan and the late Janet",0,"<relations_component>
+loving <parent_gender>mother</parent_gender> of <children_name>Ann, Susan and the late Janet</children_name>, also a cherished <grandparent_gender>granny</grandparent_gender> and <great_grandparent_gender>great-granny</great_grandparent_gender>. She will be greatly missed. 
+</relations_component>"
+0,0,0,0,dad,0,"Claire, Ryan, Gary, Cleo, Eva and Louis",0,0,father-in-law,0,0,"Julie, Debbie and Stevie",0,0,0,0,0,0,"Steven, Kevin and Lee",0,grandad,0,0,0,0,"<relations_component>
+loving <parent_gender>dad</parent_gender> to <spouse_name>Steven, Kevin and Lee</spouse_name>, cherished <grandparent_gender>grandad</grandparent_gender> to <grandchildren_name>Claire, Ryan, Gary, Cleo, Eva and Louis</grandchildren_name> and <parent_in_law_gender>father-in-law</parent_in_law_gender> to <children_in_law_name>Julie, Debbie and Stevie</children_in_law_name>. Sadly missed by all the family. 
+</relations_component>"
+0,0,0,0,dad,0,Andrew and Rhona,0,0,father-in-law,0,0,Stuart,0,0,0,0,0,0,0,0,grandpop,0,0,Elaine,0,"<relations_component>
+Treasured <parent_gender>dad</parent_gender> of <children_name>Elaine</children_name>. Dearest <parent_in_law_gender>father-in-law</parent_in_law_gender> of <children_in_law_name>Stuart</children_in_law_name> and a cherished <grandparent_gender>grandpop</grandparent_gender> to <grandchildren_name>Andrew and Rhona</grandchildren_name>. Much loved and sadly missed by his family and many friends. 
+</relations_component>"
+0,0,0,0,dad,0,0,great papa,0,father in law,0,0,"Kenny, Sue and Billy",0,0,0,0,0,0,0,0,papa,0,0,"Lorna, Graham and Anne Marie",0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> of <children_name>Lorna, Graham and Anne Marie</children_name>, <parent_in_law_gender>father in law</parent_in_law_gender> of <children_in_law_name>Kenny, Sue and Billy</children_in_law_name> and a devoted <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great papa</great_grandparent_gender>. 
+</relations_component>"
+0,0,0,0,mum,0,0,0,0,0,0,0,0,0,0,0,Betty,0,0,0,0,nanna,0,0,"Maryanne, Alexander, James, Lorraine and Andrea",0,"<relations_component>
+<nick_name>Betty</nick_name>, loving <parent_gender>mum</parent_gender> of <children_name>Maryanne, Alexander, James, Lorraine and Andrea</children_name> and beloved <grandparent_gender>nanna</grandparent_gender>. Will be sorely missed. 
+</relations_component>"
+0,0,0,0,mum,0,Lewis and Mirrin,0,0,0,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,Norrie,0,"<relations_component>
+a much loved <parent_gender>mum</parent_gender> of <children_name>Norrie</children_name>, a devoted and loving <grandparent_gender>gran</grandparent_gender> to <grandchildren_name>Lewis and Mirrin</grandchildren_name>. Sadly missed by all her family and friends. 
+</relations_component>"
+0,0,sister,0,step-mum,0,0,great-granma,0,0,0,0,0,0,0,0,0,0,0,0,aunt,granma,daughter,0,0,0,"<relations_component>
+much cherished <children_gender>daughter</children_gender>, <siblings_gender>sister</siblings_gender>, <parent_gender>step-mum</parent_gender>, <grandparent_gender>granma</grandparent_gender>, <great_grandparent_gender>great-granma</great_grandparent_gender>, <other_relations_types>aunt</other_relations_types>, friend and neighbour. 
+</relations_component>"
+0,0,0,0,"dad, stepdad",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,papa,0,0,0,0,"<relations_component>
+a dearly loved <parent_gender>dad, stepdad</parent_gender> and <grandparent_gender>papa</grandparent_gender>. 
+</relations_component>"
+0,0,sister,0,mother,0,0,0,0,0,0,0,0,0,0,Betty Watson and late brother Andrew Wilson,0,0,0,0,aunt,0,0,0,"the late Allan, Elizabeth and Joyce",0,"<relations_component>
+dearly loved <parent_gender>mother</parent_gender> of <children_name>the late Allan, Elizabeth and Joyce</children_name>, loved <siblings_gender>sister</siblings_gender> of <siblings_name>Betty Watson and late brother Andrew Wilson</siblings_name>, and loving and much loved <other_relations_types>aunt</other_relations_types>. 
+</relations_component>"
+0,0,0,0,father,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandfather,0,0,Claire and Suzanne,0,"<relations_component>
+loving <parent_gender>father</parent_gender> to <children_name>Claire and Suzanne</children_name>, dearly beloved <grandparent_gender>grandfather</grandparent_gender> and family member to all.
+</relations_component>"
+0,0,0,0,mother,0,0,great-granny,0,0,0,0,0,0,0,0,0,0,0,0,0,granny,0,0,James and Shona,0,"<relations_component>
+a much loved <parent_gender>mother</parent_gender> of <children_name>James and Shona</children_name> and a loving <grandparent_gender>granny</grandparent_gender> and <great_grandparent_gender>great-granny</great_grandparent_gender>. 
+</relations_component>"
+"today, Friday 9th February",0,0,9.30am,dad,0,0,0,0,0,"William Jardine Chapel of Rest, 23 Terregles Street, Dumfries",0,0,0,0,0,0,0,0,0,0,grandad,0,0,Keith,0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> of <children_name>Keith</children_name> and cherished <grandparent_gender>grandad</grandparent_gender>. Service at <reception_place>William Jardine Chapel of Rest, 23 Terregles Street, Dumfries</reception_place> <reception_date>today, Friday 9th February</reception_date>, at <reception_time>9.30am</reception_time>. 
+</relations_component>"
+0,0,sister,0,mum,0,"Tuesday, Charley, Scott, Cerys and Logan",0,0,mum-in-law,0,0,Evan,0,0,"Gilbert, Betty, Brian, Sandra, Elaine, Jim and Isabel",0,0,0,0,0,gran,0,0,Marnie and Lara,0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> of <children_name>Marnie and Lara</children_name>, <parent_in_law_gender>mum-in-law</parent_in_law_gender> to <children_in_law_name>Evan</children_in_law_name>, proud <grandparent_gender>gran</grandparent_gender> of <grandchildren_name>Tuesday, Charley, Scott, Cerys and Logan</grandchildren_name>, treasured <siblings_gender>sister</siblings_gender> of <siblings_name>Gilbert, Betty, Brian, Sandra, Elaine, Jim and Isabel</siblings_name>. Sadly missed by all her nieces, nephews, friends and neighbours. 
+</relations_component>"
+0,three,brother,0,dad,father-in-law,five,great granda,0,0,0,0,0,0,0,0,0,0,0,0,0,granda,0,0,"Isabelle, William, Jeanette and Robert",0,"<relations_component>
+a loving <parent_gender>dad</parent_gender> to <children_name>Isabelle, William, Jeanette and Robert</children_name>. A much loved <grandparent_gender>granda</grandparent_gender> to <grandchildren_name>five</grandchildren_name> and <great_grandparent_gender>great granda</great_grandparent_gender> to <great_grandchildren_name>three</great_grandchildren_name> and also a dear <siblings_in_law_gender>father-in-law</siblings_in_law_gender> and <siblings_gender>brother</siblings_gender> who will be sadly missed. 
+</relations_component>"
+0,"Leah, Bobby, Kacie, Freya, Fallon and Hunter",0,0,mother,0,Christine and Michael,great grandmother,0,0,0,0,0,0,0,0,0,0,0,0,0,grandmother,0,0,Mary,0,"<relations_component>
+Much loved <parent_gender>mother</parent_gender> of <children_name>Mary</children_name>, <grandparent_gender>grandmother</grandparent_gender> to <grandchildren_name>Christine and Michael</grandchildren_name> and <great_grandparent_gender>great grandmother</great_grandparent_gender> to <great_grandchildren_name>Leah, Bobby, Kacie, Freya, Fallon and Hunter</great_grandchildren_name>. 
+</relations_component>"
+0,0,sister,0,0,0,0,0,0,0,0,Agnes,0,0,the late Ronnie,the late Derek and Lorna,0,0,Craig,0,aunt,0,daughter,0,0,0,"<relations_component>
+loved <children_gender>daughter</children_gender> of <father_name>the late Ronnie</father_name> and <mother_name>Agnes</mother_name>, loving <siblings_gender>sister</siblings_gender> of <siblings_name>the late Derek and Lorna</siblings_name> and <other_relations_types>aunt</other_relations_types> to <other_relations_names>Craig</other_relations_names>. 
+</relations_component>"
+0,"Lisa, Sophie, Abigail, Olivia and Oliver",0,0,Mum,0,"Gillian, Jennifer, Laura, Louise",Great Gran,0,0,0,0,0,0,0,0,0,0,0,0,0,Gran,0,0,"Gordon, Neil, Aileen and Fiona",0,"<relations_component>
+much loved <parent_gender>Mum</parent_gender> of <children_name>Gordon, Neil, Aileen and Fiona</children_name>, a devoted <grandparent_gender>Gran</grandparent_gender> and <great_grandparent_gender>Great Gran</great_grandparent_gender> to <grandchildren_name>Gillian, Jennifer, Laura, Louise</grandchildren_name>, <great_grandchildren_name>Lisa, Sophie, Abigail, Olivia and Oliver</great_grandchildren_name>. 
+</relations_component>"
+0,0,0,0,father,brother-in-law,Natalie and Melissa,0,0,father-in-law,0,0,Ross,0,0,0,0,0,0,0,uncle,pop,0,0,Angela and Mandy,0,"<relations_component>
+loving <parent_gender>father</parent_gender> of <children_name>Angela and Mandy</children_name>, <parent_in_law_gender>father-in-law</parent_in_law_gender> and best <grandparent_gender>pop</grandparent_gender> in the world to <children_in_law_name>Ross</children_in_law_name>, <grandchildren_name>Natalie and Melissa</grandchildren_name>, a dear <siblings_in_law_gender>brother-in-law</siblings_in_law_gender>, <other_relations_types>uncle</other_relations_types> and good friend to many. 
+</relations_component>"
+0,0,0,0,dad,0,"Craig, Caitlin, Jamie, Nicole, Chloe, Natalie and Richard",0,0,0,0,0,0,0,0,0,Ray,0,0,0,0,granda,0,0,Richard,0,"<relations_component>
+<nick_name>Ray</nick_name>, much loved <parent_gender>dad</parent_gender> of <children_name>Richard</children_name>, loving <grandparent_gender>granda</grandparent_gender> of <grandchildren_name>Craig, Caitlin, Jamie, Nicole, Chloe, Natalie and Richard</grandchildren_name>. 
+</relations_component>"
+0,0,sister,0,0,0,0,0,0,0,0,the late Pat,0,0,Betty,"Carole, Mark",0,0,0,0,"aunt, niece",0,daughter,0,0,Cathie,"<relations_component>
+treasured <children_gender>daughter</children_gender> of <father_name>Betty</father_name> and <mother_name>the late Pat</mother_name>, caring <siblings_gender>sister</siblings_gender> of <siblings_name>Carole, Mark</siblings_name> and his partner <siblings_in_law_name>Cathie</siblings_in_law_name>, a sadly missed <other_relations_types>aunt, niece</other_relations_types> and friend to all who knew her. R.I.P. 
+</relations_component>"
+0,0,brother,0,dad,brother-in-law,Joshua,0,0,0,0,0,0,0,0,Christeen and the late Evelyn,0,0,0,0,uncle,grandad,0,0,"Jodi, Sarah and John",0,"<relations_component>
+Loving <parent_gender>dad</parent_gender> of <children_name>Jodi, Sarah and John</children_name>, much loved <grandparent_gender>grandad</grandparent_gender> of <grandchildren_name>Joshua</grandchildren_name>, dearly loved <siblings_gender>brother</siblings_gender> of <siblings_name>Christeen and the late Evelyn</siblings_name> and a dear <siblings_in_law_gender>brother-in-law</siblings_in_law_gender>, <other_relations_types>uncle</other_relations_types> and friend to many. 
+</relations_component>"
+0,0,brother,0,0,0,0,0,0,0,0,0,0,0,0,"Alistair, Billy and the late Maisie and the late Arthur",0,0,0,0,0,0,0,0,0,0,"<relations_component>
+Beloved <siblings_gender>brother</siblings_gender> of <siblings_name>Alistair, Billy and the late Maisie and the late Arthur</siblings_name>. 
+</relations_component>"
+0,0,brother,0,father,0,0,great-grandfather,0,0,0,0,0,0,0,0,0,0,0,0,0,grandfather,0,0,0,0,"<relations_component>
+loving <parent_gender>father</parent_gender>, <grandparent_gender>grandfather</grandparent_gender>, <great_grandparent_gender>great-grandfather</great_grandparent_gender> and <siblings_gender>brother</siblings_gender>. 
+</relations_component>"
+0,0,0,0,mum,0,0,great gran,0,0,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,0,0,"<relations_component>
+and a much-loved <parent_gender>mum</parent_gender>, <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great gran</great_grandparent_gender> of the family, will be sadly missed by all. 
+</relations_component>"
+0,0,"sister, aunty",0,mother,0,0,great-grandmother,0,0,0,0,0,0,0,0,0,0,0,0,great-great-grandmother,grandmother,0,0,"Colin, Raymond and Alice",0,"<relations_component>
+Dearly beloved <parent_gender>mother</parent_gender> of <children_name>Colin, Raymond and Alice</children_name>, loving <siblings_gender>sister, aunty</siblings_gender>, <grandparent_gender>grandmother</grandparent_gender>, <great_grandparent_gender>great-grandmother</great_grandparent_gender> and <other_relations_types>great-great-grandmother</other_relations_types>. A friend to all who knew her. 
+</relations_component>"
+0,0,0,0,father,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Alexa and Andrew,0,"<relations_component>
+and a much loved <parent_gender>father</parent_gender> of <children_name>Alexa and Andrew</children_name>. 
+</relations_component>"
+0,0,0,0,dad,0,0,great grandpa,0,0,0,0,0,0,0,0,0,0,0,0,0,papa,0,0,"Gary, Mark and Debbie",0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> to <children_name>Gary, Mark and Debbie</children_name>, devoted <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great grandpa</great_grandparent_gender>, he will be dearly missed by all who knew him. 
+</relations_component>"
+0,0,sister,0,0,sister-in-law,0,0,0,0,0,0,0,0,0,Mary,0,0,0,0,aunt,0,0,0,0,Janet and Allan,"<relations_component>
+<siblings_gender>sister</siblings_gender> of <siblings_name>Mary</siblings_name>, <siblings_in_law_gender>sister-in-law</siblings_in_law_gender> of <siblings_in_law_name>Janet and Allan</siblings_in_law_name> and a loving <other_relations_types>aunt</other_relations_types> of the family. 
+</relations_component>"
+0,0,sister,0,0,0,0,0,0,0,0,0,0,0,0,"Hughie, Jim, Jean, Joe and of the late Helen, Alex, Ann and William",0,0,0,0,aunt and great aunt,0,0,0,0,0,"<relations_component>
+much loved <siblings_gender>sister</siblings_gender> to <siblings_name>Hughie, Jim, Jean, Joe and of the late Helen, Alex, Ann and William</siblings_name>, a loving <other_relations_types>aunt and great aunt</other_relations_types>. 
+</relations_component>"
+0,0,0,0,dad,0,Abby,0,0,father-in-law,0,0,Alex and Andrew,0,0,0,0,0,0,0,0,papa,0,0,Yvonne and Laura,0,"<relations_component>
+a dearly loved <parent_gender>dad</parent_gender> of <children_name>Yvonne and Laura</children_name>, <parent_in_law_gender>father-in-law</parent_in_law_gender> of <children_in_law_name>Alex and Andrew</children_in_law_name>, a doting <grandparent_gender>papa</grandparent_gender> to <grandchildren_name>Abby</grandchildren_name> and a friend to many. Our hearts are broken. 
+</relations_component>"
+0,0,0,0,mum,0,0,great-grandma,0,0,0,0,0,0,0,0,0,0,0,0,0,grandma,0,0,0,0,"<relations_component>
+Much loved <parent_gender>mum</parent_gender>, <grandparent_gender>grandma</grandparent_gender>, <great_grandparent_gender>great-grandma</great_grandparent_gender> and friend to many. 
+</relations_component>"
+0,0,0,0,mum,0,0,great grandmother,0,0,0,0,0,0,0,0,0,0,0,0,0,grandmother,0,0,"Robert, Ian, Bernard and the late Ann",0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> to <children_name>Robert, Ian, Bernard and the late Ann</children_name> and loving <grandparent_gender>grandmother</grandparent_gender> and <great_grandparent_gender>great grandmother</great_grandparent_gender> to all the family. 
+</relations_component>"
+0,0,0,0,0,brother-In-law,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"uncle, great-uncle",0,0,0,0,0,"<relations_component>
+much loved <siblings_in_law_gender>brother-In-law</siblings_in_law_gender>, <other_relations_types>uncle, great-uncle</other_relations_types> and friend to many. 
+</relations_component>"
+0,0,sister,0,mum,0,"Craig, Caitlin and J.J",0,0,0,0,0,0,0,0,"Joseph, Tom and Robert",0,0,0,0,0,gran,0,0,"Peter, John Thomas and Margaret",0,"<relations_component>
+Beloved <parent_gender>mum</parent_gender> to <children_name>Peter, John Thomas and Margaret</children_name>, devoted <grandparent_gender>gran</grandparent_gender> to <grandchildren_name>Craig, Caitlin and J.J</grandchildren_name>. Loving <siblings_gender>sister</siblings_gender> to <siblings_name>Joseph, Tom and Robert</siblings_name> and friend to many. 
+</relations_component>"
+0,0,0,0,mum,0,0,great gran,0,mother-in-law,0,0,0,0,0,0,0,0,0,0,0,gran,0,0,Lynn and Frances,0,"<relations_component>
+loving <parent_gender>mum</parent_gender> to <children_name>Lynn and Frances</children_name>, <parent_in_law_gender>mother-in-law</parent_in_law_gender>, <grandparent_gender>gran</grandparent_gender> and <great_grandparent_gender>great gran</great_grandparent_gender>. Sadly missed. 
+</relations_component>"
+0,0,0,0,Mother,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Granny,0,0,"Allan, Kenneth and Gordon",0,"<relations_component>
+<parent_gender>Mother</parent_gender> of <children_name>Allan, Kenneth and Gordon</children_name> and a much loved <grandparent_gender>Granny</grandparent_gender>. 
+</relations_component>"
+0,"Harry, Jack and Oliver",0,0,mum,0,"Ryan, Andrea, Kimberley and Alyn",great gran,0,0,0,0,0,0,0,0,0,0,0,0,0,Gran,0,0,Bill and Ann,0,"<relations_component>
+much loved <parent_gender>mum</parent_gender> to <children_name>Bill and Ann</children_name>, <grandparent_gender>Gran</grandparent_gender> to <grandchildren_name>Ryan, Andrea, Kimberley and Alyn</grandchildren_name> and <great_grandparent_gender>great gran</great_grandparent_gender> to <great_grandchildren_name>Harry, Jack and Oliver</great_grandchildren_name>. 
+</relations_component>"
+0,0,0,0,dad,0,Rowan and Ernie,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandpa,0,0,Craig and Carol,0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> of <children_name>Craig and Carol</children_name> and a dear <grandparent_gender>grandpa</grandparent_gender> to <grandchildren_name>Rowan and Ernie</grandchildren_name>. 
+</relations_component>"
+0,Daisy,0,0,dad,0,"Laura, Rachael and Dylan",great grandad,0,0,0,0,0,0,0,0,0,0,0,0,0,grandad,0,0,Isabel,0,"<relations_component>
+loving <parent_gender>dad</parent_gender> to <children_name>Isabel</children_name>, a proud <grandparent_gender>grandad</grandparent_gender> to <grandchildren_name>Laura, Rachael and Dylan</grandchildren_name> and <great_grandparent_gender>great grandad</great_grandparent_gender> to <great_grandchildren_name>Daisy</great_grandchildren_name>. 
+</relations_component>"
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,the late Janet Chalmers,0,James,0,0,0,0,0,son,0,0,0,"<relations_component>
+beloved <children_gender>son</children_gender> of <father_name>the late Janet Chalmers</father_name>. <nick_name>James</nick_name> will be sadly missed by all his family and friends. 
+</relations_component>"
+0,0,0,0,mother,0,Duncan,0,0,mother-in-law,0,0,Lesley,0,0,0,0,0,0,0,0,grandmother,0,0,Steven Livingstone,0,"<relations_component>
+<parent_gender>mother</parent_gender> of <children_name>Steven Livingstone</children_name>, <parent_in_law_gender>mother-in-law</parent_in_law_gender> of <children_in_law_name>Lesley</children_in_law_name> and <grandparent_gender>grandmother</grandparent_gender> of <grandchildren_name>Duncan</grandchildren_name>. Will be sadly missed by all of the families and her many friends. 
+</relations_component>"
+0,0,0,0,father,0,0,great papa,0,father-in-law,0,0,0,0,0,0,0,0,0,0,0,papa,0,0,Tony and Dawn,0,"<relations_component>
+much loved <parent_gender>father</parent_gender> of <children_name>Tony and Dawn</children_name>, and a loved <parent_in_law_gender>father-in-law</parent_in_law_gender>, <grandparent_gender>papa</grandparent_gender> and <great_grandparent_gender>great papa</great_grandparent_gender>. 
+</relations_component>"
+0,0,sister,0,mum,0,0,great gran,0,0,0,0,0,0,0,0,0,0,0,0,auntie,gran,0,0,0,0,"<relations_component>
+much loved <parent_gender>mum</parent_gender>, <grandparent_gender>gran</grandparent_gender>, <great_grandparent_gender>great gran</great_grandparent_gender>, <other_relations_types>auntie</other_relations_types>, <siblings_gender>sister</siblings_gender> and friend. 
+</relations_component>"
+0,0,brother,0,dad,0,0,0,0,0,0,the late Anna,0,0,Jim,0,0,0,0,0,0,0,only son,0,"Aaron, Ross and Emily",0,"<relations_component>
+caring and dearly loved <parent_gender>dad</parent_gender> of <children_name>Aaron, Ross and Emily</children_name>, <children_gender>only son</children_gender> of <father_name>Jim</father_name> and <mother_name>the late Anna</mother_name>, special <siblings_gender>brother</siblings_gender> and great friend to many. 
+</relations_component>"
+0,Logan,brother,0,0,0,"Susan, Rosy and Rhona",G-pops,0,0,0,0,0,0,0,0,0,0,0,0,uncle,pops,0,0,0,0,"<relations_component>
+dearly loved <grandparent_gender>pops</grandparent_gender> of <grandchildren_name>Susan, Rosy and Rhona</grandchildren_name>, treasured <great_grandparent_gender>G-pops</great_grandparent_gender> of <great_grandchildren_name>Logan</great_grandchildren_name>, much loved <siblings_gender>brother</siblings_gender> and <other_relations_types>uncle</other_relations_types> of the family. 
+</relations_component>"
+0,0,brother,0,0,0,0,0,0,0,0,Mia,0,0,0,"David, Kenneth, Tricia and Margaret",0,0,0,0,0,0,son,0,0,0,"<relations_component>
+A beloved <children_gender>son</children_gender> of <mother_name>Mia</mother_name> and <children_gender>the late Tommy</children_gender> and a much loved <siblings_gender>brother</siblings_gender> of <siblings_name>David, Kenneth, Tricia and Margaret</siblings_name>. Will be sadly missed by all family and friends. 
+</relations_component>"
+0,0,0,0,dad,0,0,0,0,0,0,Audrey,0,0,0,0,0,0,Etta,0,son-in-law,0,son,0,Rachel and Joshua,0,"<relations_component>
+treasured <parent_gender>dad</parent_gender> of <children_name>Rachel and Joshua</children_name>, a loving <children_gender>son</children_gender> of <mother_name>Audrey</mother_name> and <mother_name>the late David (Davy)</mother_name>, dearest <other_relations_types>son-in-law</other_relations_types> to <other_relations_names>Etta</other_relations_names>. He will be sadly missed by his family and many friends. 
+</relations_component>"
+0,0,0,0,mother,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Sarah-Jane and Rebecca-Lee,0,"<relations_component>
+Much loved <parent_gender>mother</parent_gender> of <children_name>Sarah-Jane and Rebecca-Lee</children_name>, and a dear friend to many. 
+</relations_component>"
+0,0,0,0,father,0,ten,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandad,0,0,"Sean, Marie-Louise, Michael, Damian and Emma",0,"<relations_component>
+loving and much much loved <parent_gender>father</parent_gender> of <children_name>Sean, Marie-Louise, Michael, Damian and Emma</children_name>, doting <grandparent_gender>grandad</grandparent_gender> of <grandchildren_name>ten</grandchildren_name>. 
+</relations_component>"
+0,"Ritchie, Ryan, Charley and Chloe",0,0,dad,0,"Stuart, Lynsey and Leigh",great grandpa,0,0,0,0,0,0,0,0,0,0,0,0,0,grandpa,0,0,Margo,0,"<relations_component>
+much loved <parent_gender>dad</parent_gender> to <children_name>Margo</children_name>, dear <grandparent_gender>grandpa</grandparent_gender> of <grandchildren_name>Stuart, Lynsey and Leigh</grandchildren_name>, doting <great_grandparent_gender>great grandpa</great_grandparent_gender> of <great_grandchildren_name>Ritchie, Ryan, Charley and Chloe</great_grandchildren_name>. 
+</relations_component>"
+0,0,brother,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,grandson,0,son,0,0,0,"<relations_component>
+Much loved <children_gender>son</children_gender>, <siblings_gender>brother</siblings_gender>, <other_relations_types>grandson</other_relations_types> and friend. 
+</relations_component>"
+0,"Rebecca, Daniel, Jake, Cassie, Maddison, Tori-Leigh, Brogan, Faith and Robyn",sister,0,mother,0,"Fiona, David, Alan, Emma, Jillanne, Leanne, Lynsey and Lauren",great grandmother,0,mother in law,0,0,"Marion, Irene, Roseanne and the late Jean",0,0,0,0,0,0,0,Aunt,Grandmother,0,0,"John, Adam, Albert and the late David",0,"<relations_component>
+much loved <parent_gender>mother</parent_gender> of <children_name>John, Adam, Albert and the late David</children_name>. Loving <parent_in_law_gender>mother in law</parent_in_law_gender> to <children_in_law_name>Marion, Irene, Roseanne and the late Jean</children_in_law_name>. Devoted <grandparent_gender>Grandmother</grandparent_gender> to <grandchildren_name>Fiona, David, Alan, Emma, Jillanne, Leanne, Lynsey and Lauren</grandchildren_name>. Cherished <great_grandparent_gender>great grandmother</great_grandparent_gender> to <great_grandchildren_name>Rebecca, Daniel, Jake, Cassie, Maddison, Tori-Leigh, Brogan, Faith and Robyn</great_grandchildren_name> and a dear <siblings_gender>sister</siblings_gender> and <other_relations_types>Aunt</other_relations_types> of the family. 
+</relations_component>"

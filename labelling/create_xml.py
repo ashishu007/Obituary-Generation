@@ -4,7 +4,7 @@ import jsonlines, re, string
 from bs4 import BeautifulSoup
 
 objs = []
-with jsonlines.open('./data/tagged.json1') as reader:
+with jsonlines.open('./resources/tagged.json1') as reader:
     for obj in reader:
         objs.append(obj)
 
@@ -32,6 +32,6 @@ for i in li:
 # Save as basic retrieval method
 for i in new_list:
     sn = "<obit>\n" + i + "\n" + "</obit>\n"
-    with open("./data/xml-tagged.xml", "a+") as f:
+    with open("./resources/xml-tagged.xml", "a+") as f:
         f.write(sn)
     f.close()

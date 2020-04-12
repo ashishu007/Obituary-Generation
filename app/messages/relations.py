@@ -7,7 +7,7 @@ def relations_component(features):
     # relations_string = ""
     relations_strings = []
 
-    df = pd.read_csv('./app/messages/data/101_relations_component.csv')
+    df = pd.read_csv('./app/messages/data/relations_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)
@@ -49,11 +49,12 @@ def relations_component(features):
         for i in top_val_soup.find_all():
             # print(i.name, i.string)
             if i.name in features.keys():
-                # print("features[i]", features[i.name])
-                # if i.name == "age":
-                #     i.string = str(features[i.name]) + " years"
-                # else:
                 i.string = features[i.name]
+            # Remove the tags/features from generated text which are not in input
+            elif i.name == "relations_component" or i.name == "html" or i.name == "body":
+                pass
+            elif i.name not in features.keys():
+                i.string = ""
     
         gen_str = top_val_soup.text
         gen_str = ' '.join(gen_str.split())

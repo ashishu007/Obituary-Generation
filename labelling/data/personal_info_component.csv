@@ -1,0 +1,301 @@
+home_town,name,occupation,demise_place,work_place,demise_date,demise_reason,nick_name,age,demise_how,text
+"Clarencefield, formerly of Dumfries",DUNCAN-PARKER JOYA,0,home,0,27th August 2018,0,Joyce Parker,69 years,suddenly,"<personal_info_component>
+<name>DUNCAN-PARKER JOYA</name> On the <demise_date>27th August 2018</demise_date>, <demise_how>suddenly</demise_how> at <demise_place>home</demise_place>, <name>Joya Duncan-Parker</name> (<nick_name>Joyce Parker</nick_name>), aged <age>69 years</age>, of <home_town>Clarencefield, formerly of Dumfries</home_town>
+</personal_info_component>"
+Cornton,STEWART James,0,0,0,Sunday 14th April 2019,0,Jimmy,69 years,Peacefully,"<personal_info_component>
+<name>STEWART James</name> (<nick_name>Jimmy</nick_name>) <demise_how>Peacefully</demise_how> passed away on <demise_date>Sunday 14th April 2019</demise_date>, <nick_name>Jimmy</nick_name> aged <age>69 years</age>, of <home_town>Cornton</home_town>.
+</personal_info_component>"
+Bannockburn and formerly of Cowie,McCAFFERY Isabella,0,F.V.R.H,0,Monday 7th October 2019,0,0,88 years,Peacefully ,"<personal_info_component>
+<name>McCAFFERY Isabella</name> <demise_how>Peacefully </demise_how>at <demise_place>F.V.R.H</demise_place> on <demise_date>Monday 7th October 2019</demise_date>, <name>Isabella McCaffery (nee Johnstone)</name> aged <age>88 years</age> of <home_town>Bannockburn and formerly of Cowie</home_town>. 
+</personal_info_component>"
+Whins of Milton,MORE MOIRA,0,home,0,"Monday 17th October, 2016",0,Moira (nee Russell),78 years,"Suddenly, but peacefully","<personal_info_component>
+""<name>MORE MOIRA</name> <demise_how>Suddenly, but peacefully</demise_how> at <demise_place>home</demise_place> on <demise_date>Monday 17th October, 2016</demise_date>, <nick_name>Moira (nee Russell)</nick_name>, aged <age>78 years</age> of <home_town>Whins of Milton</home_town>. 
+</personal_info_component>"
+0,THOMSON Mary (ne Lawson),0,"St Michael's Hospital, Linlithgow",0,"Monday, April 1, 2019",0,Mary,83 years,Peacefully,"<personal_info_component>
+<name>THOMSON Mary (ne Lawson)</name> (Linlithgow) <demise_how>Peacefully</demise_how>, at <demise_place>St Michael's Hospital, Linlithgow</demise_place>, on <demise_date>Monday, April 1, 2019</demise_date>, <nick_name>Mary</nick_name>, aged <age>83 years</age>
+</personal_info_component>"
+0,VIVERS Jean,0,Bankfoot House Moffat,0,24th July 2019,0,Jean,100th year,peacefully,"<personal_info_component>
+""<name>VIVERS Jean</name> On <demise_date>24th July 2019</demise_date> <demise_how>peacefully</demise_how> at <demise_place>Bankfoot House Moffat</demise_place>, <nick_name>Jean</nick_name> in her <age>100th year</age>
+</personal_info_component>"
+"Criffel Road, Dumfries",McCLURG THOMAS,0,Dumfries Infirmary,0,9th February 2017,0,0,0,peacefully,"<personal_info_component>
+<name>McCLURG THOMAS</name> On the <demise_date>9th February 2017</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, <name>Thomas Landers McClurg (Tam),</name> of <home_town>Criffel Road, Dumfries</home_town>
+</personal_info_component>"
+"Martinton Road, Heathhall",WALKER Margaret,0,home,0,4th March 2019,0,0,0,suddenly but peacefully,"<personal_info_component>
+""<name>WALKER Margaret</name> On the <demise_date>4th March 2019</demise_date>, <demise_how>suddenly but peacefully</demise_how> at <demise_place>home</demise_place>, <name>Margaret McGarrie Walker, nee Allan</name>, of <home_town>Martinton Road, Heathhall</home_town>
+</personal_info_component>"
+Kilmaurs,STEVENSON MARGARET (NEE CRAIG) ,0,Crosshouse Hospital,0,1st December 2016,0,Margaret,88,0,"<personal_info_component>
+<name>STEVENSON MARGARET (NEE CRAIG) </name>On <demise_date>1st December 2016</demise_date>, <nick_name>Margaret</nick_name> of <home_town>Kilmaurs</home_town> passed away at <demise_place>Crosshouse Hospital</demise_place> aged <age>88</age>. 
+</personal_info_component>"
+Callander,RUSSELL CATHERINE,0,home,0,18th June 2017,0,Catherine,0,Peacefully,"<personal_info_component>
+<name>RUSSELL CATHERINE</name> <demise_how>Peacefully</demise_how> on the <demise_date>18th June 2017</demise_date> at <demise_place>home</demise_place>, <nick_name>Catherine</nick_name> of <home_town>Callander</home_town>. 
+</personal_info_component>"
+Bannockburn,KEIR IAN,0,home,0,Friday October 7th 2016,0,Ian,84 years,Peacefully,"<personal_info_component>
+<name>KEIR IAN</name> <demise_how>Peacefully</demise_how>, at <demise_place>home</demise_place> on <demise_date>Friday October 7th 2016</demise_date>, <nick_name>Ian</nick_name> aged <age>84 years</age> of <home_town>Bannockburn</home_town>.
+</personal_info_component>"
+0,DOCHERTY ANNE CAMPBELL,0,home,0,Saturday 22nd October 2016,0,0,0,Peacefully,"<personal_info_component>
+<name>DOCHERTY ANNE CAMPBELL</name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place> on <demise_date>Saturday 22nd October 2016</demise_date>. 
+</personal_info_component>"
+0,CROSS,0,Wishaw General Hospital,0,3rd February 2018,0,David,86 years,0,"<personal_info_component>
+<name>CROSS</name> At <demise_place>Wishaw General Hospital</demise_place> on <demise_date>3rd February 2018</demise_date>, <nick_name>David</nick_name> aged <age>86 years</age>
+</personal_info_component>"
+"Brooms Road, Dumfries",HORNELL ANN,0,Lochmaben Hospital,0,2nd September 2016,0,0,85 years,peacefully,"<personal_info_component>
+<name>HORNELL ANN</name> On the <demise_date>2nd September 2016</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Lochmaben Hospital</demise_place>, <name>Ann Hornell nee Wilson</name>, aged <age>85 years</age> of <home_town>Brooms Road, Dumfries</home_town>.
+</personal_info_component>"
+Stirling,BLACK DUNCAN,0,Edinburgh Hospital,0,"2nd January, 2017",sudden heart failure,Duncan (wee Dunc) Black,59 years,Suddenly,"<personal_info_component>
+<name>BLACK DUNCAN</name> <demise_how>Suddenly</demise_how> on <demise_date>2nd January, 2017</demise_date> at <demise_place>Edinburgh Hospital</demise_place> after <demise_reason>sudden heart failure</demise_reason>, <nick_name>Duncan (wee Dunc) Black</nick_name>, aged <age>59 years</age> of <home_town>Stirling</home_town>. 
+</personal_info_component>"
+"Islesteps, formerly of Castlewigg, Whithorn",PEDEN WILLIAM,0,Dumfries Infirmary,0,30th November 2017,0,William David Peden,0,peacefully,"<personal_info_component>
+<name>PEDEN WILLIAM</name> On the <demise_date>30th November 2017</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, <nick_name>William David Peden</nick_name> of <home_town>Islesteps, formerly of Castlewigg, Whithorn</home_town>
+</personal_info_component>"
+0,GIANNANDREA MARGARET,0,home,0,Friday 12th May 2017,0,Margaret (nee Kelly),53 years,Unexpectedly,"<personal_info_component>
+<name>GIANNANDREA MARGARET</name> <demise_how>Unexpectedly</demise_how> at <demise_place>home</demise_place> on <demise_date>Friday 12th May 2017</demise_date>, <nick_name>Margaret (nee Kelly)</nick_name>, aged <age>53 years</age>. 
+</personal_info_component>"
+0,O'HARE MARY,0,F.V.R.H.,0,"Monday 24th July, 2017",0,Mary (nee Ferguson),88 years,Peacefully,"<personal_info_component>
+<name>O'HARE MARY</name> <demise_how>Peacefully</demise_how> at <demise_place>F.V.R.H.</demise_place> on <demise_date>Monday 24th July, 2017</demise_date>, <nick_name>Mary (nee Ferguson)</nick_name>, aged <age>88 years</age>. 
+</personal_info_component>"
+0,HUGHSON JESSIE,0,home,0,"Saturday 18th June, 2016",short illness,Jessie (nee Campbell),85 years,surrounded by family,"<personal_info_component>
+<name>HUGHSON JESSIE</name> After a <demise_reason>short illness</demise_reason> courageously borne, <demise_how>surrounded by family</demise_how>, <nick_name>Jessie (nee Campbell)</nick_name>, aged <age>85 years</age> passed away at <demise_place>home</demise_place> on <demise_date>Saturday 18th June, 2016</demise_date>. 
+</personal_info_component>"
+"Stagecoach, Perth",SIMPSON DAVID,0,"Cornhill Macmillan Centre, Perth",0,Sunday 20th November 2016,0,David William,0,Peacefully,"<personal_info_component>
+<name>SIMPSON DAVID</name> <demise_how>Peacefully</demise_how> with his family at <demise_place>Cornhill Macmillan Centre, Perth</demise_place> on <demise_date>Sunday 20th November 2016</demise_date>, <nick_name>David William</nick_name> (of <home_town>Stagecoach, Perth</home_town>)
+</personal_info_component>"
+0,HILSON IRENE,0,Perth Royal Infirmary,0,Friday 23rd September 2016,0,0,0,0,"<personal_info_component>
+<name>HILSON IRENE</name> At <demise_place>Perth Royal Infirmary</demise_place> on <demise_date>Friday 23rd September 2016</demise_date>
+</personal_info_component>"
+0,McMILLAN Robert,0,0,0,17th January 2019,tragic accident in East Kilbride,Rab (Robert),55 years,Suddenly,"<personal_info_component>
+<name>McMILLAN Robert</name> <demise_how>Suddenly</demise_how> on <demise_date>17th January 2019</demise_date> as the result of a <demise_reason>tragic accident in East Kilbride</demise_reason>, <nick_name>Rab (Robert)</nick_name> aged <age>55 years</age>. 
+</personal_info_component>"
+Newrow,MEIKLEM WINN,0,"Ochil Care Home, Perth",0,"Friday, January 26th, 2018",0,Winn,92 years,Peacefully,"<personal_info_component>
+<name>MEIKLEM WINN</name> <demise_how>Peacefully</demise_how>, at <demise_place>Ochil Care Home, Perth</demise_place>, on <demise_date>Friday, January 26th, 2018</demise_date>, <nick_name>Winn</nick_name>, aged <age>92 years</age> (formerly of the <home_town>Newrow</home_town>)
+</personal_info_component>"
+Elderslie,MEGSON ELIZABETH,0,0,0,16th February 2018,0,0,0,Peacefully,"<personal_info_component>
+<name>MEGSON ELIZABETH</name> <demise_how>Peacefully</demise_how>, at <demise_how>home</demise_how> in <home_town>Elderslie</home_town>, on <demise_date>16th February 2018</demise_date>. 
+</personal_info_component>"
+0,JOHNSTON MARY,0,Wishaw General Hospital,0,Thursday 24th October 2019,0,0,0,Peacefully,"<personal_info_component>
+<name>JOHNSTON MARY</name> <demise_how>Peacefully</demise_how> on <demise_date>Thursday 24th October 2019</demise_date> within <demise_place>Wishaw General Hospital</demise_place>, surrounded by her loving family, 
+</personal_info_component>"
+"Yew Tree Place, Mouswald",COLLINS ISABEL (BEL) ,0,Dumfries Infirmary,0,8th March 2018,0,0,0,peacefully,"<personal_info_component>
+<name>COLLINS ISABEL (BEL) </name>On the <demise_date>8th March 2018</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, in the presence of her family, <name>Isabel (Bel) Collins</name> of <home_town>Yew Tree Place, Mouswald</home_town>
+</personal_info_component>"
+0,SHARPE Wilma Sadly,0,Crosshouse Hospital,0,16th February 2019,0,Wilma,0,0,"<personal_info_component>
+<name>SHARPE Wilma Sadly</name> at <demise_place>Crosshouse Hospital</demise_place> on <demise_date>16th February 2019</demise_date>, <nick_name>Wilma</nick_name> passed away. 
+</personal_info_component>"
+0,ROY William,0,home,0,"Sunday, 19th May 2019",0,0,0,Suddenly,"<personal_info_component>
+<name>ROY William</name> <demise_how>Suddenly</demise_how> at <demise_place>home</demise_place> on <demise_date>Sunday, 19th May 2019</demise_date>. 
+</personal_info_component>"
+0,TONNER,0,home,0,Friday 7th April 2017,0,0,71 years,Peacefuly,"<personal_info_component>
+<name>TONNER</name> <demise_how>Peacefuly</demise_how> at <demise_place>home</demise_place> on <demise_date>Friday 7th April 2017</demise_date>, <name>Agnes Tonner (Watt)</name> aged <age>71 years</age>. 
+</personal_info_component>"
+0,DRYNAN ISOBEL,0,"Alexandra Unit, Isobel May Drynan, ne Parker, New Abbey Road, Dumfries",0,18th February 2019,0,0,0,peacefully,"<personal_info_component>
+<name>DRYNAN ISOBEL</name> On the <demise_date>18th February 2019</demise_date>, <demise_how>peacefully</demise_how> in the <demise_place>Alexandra Unit, Isobel May Drynan, ne Parker, New Abbey Road, Dumfries</demise_place>. 
+</personal_info_component>"
+0,MURIE JESSIE,0,"Summerlee House, Coatbridge",0,25th February 2017,0,Jessie,90 years,Peacefully,"<personal_info_component>
+<name>MURIE JESSIE</name> <demise_how>Peacefully</demise_how>, at <demise_place>Summerlee House, Coatbridge</demise_place>, on <demise_date>25th February 2017</demise_date>, <nick_name>Jessie</nick_name>, aged <age>90 years</age>. 
+</personal_info_component>"
+"St. Andrew Drive, Castle Douglas",Margaret Kathleen (Marleen) Jardine,0,0,0,27th September 2017,0,JARDINE,0,suddenly,"<personal_info_component>
+<nick_name>JARDINE</nick_name> On <demise_date>27th September 2017</demise_date>, <demise_how>suddenly</demise_how>, <name>Margaret Kathleen (Marleen) Jardine</name>, <home_town>St. Andrew Drive, Castle Douglas</home_town>. 
+</personal_info_component>"
+Dryfesdale Court Lockerbie,DOBBIE ELIZABETH,0,Dumfries & Galloway Royal Infirmary,0,17th July 2017,0,Elizabeth (Betty) nee Bell,0,peacefully,"<personal_info_component>
+<name>DOBBIE ELIZABETH</name> On <demise_date>17th July 2017</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries &amp; Galloway Royal Infirmary</demise_place>, <nick_name>Elizabeth (Betty) nee Bell</nick_name>, of <home_town>Dryfesdale Court Lockerbie</home_town>
+</personal_info_component>"
+0,BEGGS,0,0,0,4th June 2016,tragic accident,Ann,74 years,Suddenly,"<personal_info_component>
+<name>BEGGS</name> <demise_how>Suddenly</demise_how>, result of a <demise_reason>tragic accident</demise_reason>, <nick_name>Ann</nick_name> passed away on the <demise_date>4th June 2016</demise_date>, surrounded by her loving family. <nick_name>Ann</nick_name>, aged <age>74 years</age>
+</personal_info_component>"
+0,MACKINTOSH DEREK,0,Craigieknowes Care Home Perth,0,Sunday 2nd October 2016,0,Derek,70 years,0,"<personal_info_component>
+<name>MACKINTOSH DEREK</name> Sadly at <demise_place>Craigieknowes Care Home Perth</demise_place>, on <demise_date>Sunday 2nd October 2016</demise_date>, <nick_name>Derek</nick_name>, aged <age>70 years</age>
+</personal_info_component>"
+0,JARVIE YVONNE Boghall,playground supervisor,home,Boghall Primary School,5th November 2017,0,Yvonne,72 years,Peacefully,"<personal_info_component>
+<name>JARVIE YVONNE Boghall</name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place>, on <demise_date>5th November 2017</demise_date>, <nick_name>Yvonne</nick_name>, aged <age>72 years</age>. <nick_name>Yvonne</nick_name> was previously <occupation>playground supervisor</occupation> at <work_place>Boghall Primary School</work_place>
+</personal_info_component>"
+Durisdeer,HADLEY MARGARET,0,Dumfries Infirmary,0,14th March 2019,0,Margaret Hadley,0,peacefully,"<personal_info_component>
+<name>HADLEY MARGARET</name> On <demise_date>14th March 2019</demise_date> <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, <nick_name>Margaret Hadley</nick_name> of <home_town>Durisdeer</home_town>
+</personal_info_component>"
+0,SNEDDON TOM Boghall,0,St. John's Hospital,0,29th October,0,Tom,86 years,Peacefully,"<personal_info_component>
+<name>SNEDDON TOM Boghall</name> <demise_how>Peacefully</demise_how> at <demise_place>St. John's Hospital</demise_place> on <demise_date>29th October</demise_date>, <nick_name>Tom</nick_name> aged <age>86 years</age>
+</personal_info_component>"
+"Lilac Cottage, Wamphray",COPLAND SARAH AGNES,0,Singleton Lodge,0,11th March 2017,0,0,0,peacefully,"<personal_info_component>
+<name>COPLAND SARAH AGNES</name> On <demise_date>11th March 2017</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Singleton Lodge</demise_place>, <name>Sarah Agnes Copland (Nancy) nee Fergusson</name> formerly of <home_town>Lilac Cottage, Wamphray</home_town>. 
+</personal_info_component>"
+Dundonald,WATSON Geoff Watson,0,0,0,Wednesday 20th June 2018,0,0,0,suddenly,"<personal_info_component>
+<name>WATSON Geoff Watson</name> of <home_town>Dundonald</home_town>, died <demise_how>suddenly</demise_how> on <demise_date>Wednesday 20th June 2018</demise_date>. 
+</personal_info_component>"
+0,WATSON John,0,Forth Valley Royal Hospital,0,Friday 2nd November 2018,a short illness,John,76 years,Peacefully,"<personal_info_component>
+<name>WATSON John</name> <demise_how>Peacefully</demise_how> after <demise_reason>a short illness</demise_reason> on <demise_date>Friday 2nd November 2018</demise_date> at <demise_place>Forth Valley Royal Hospital</demise_place>, <nick_name>John</nick_name> aged <age>76 years</age>. 
+</personal_info_component>"
+"Brownrigg Loaning, Dumfries, formerly of Bloomfield",GOODWIN DOUGLAS,ICI,Dumfries Infirmary,0,24th January 2018,0,0,0,peacefully,"<personal_info_component>
+<name>GOODWIN DOUGLAS</name> On <demise_date>24th January 2018</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, in the presence of his family, <name>Douglas Goodwin (Dougie)</name>, Ex <occupation>ICI</occupation>, of <home_town>Brownrigg Loaning, Dumfries, formerly of Bloomfield</home_town>. 
+</personal_info_component>"
+0,CASSIDY Margaret,0,the Royal Alexandra Hospital,0,6th March 2019,0,0,0,Peacefully,"<personal_info_component>
+<name>CASSIDY Margaret</name> <demise_how>Peacefully</demise_how> at <demise_place>the Royal Alexandra Hospital</demise_place> on <demise_date>6th March 2019</demise_date>
+</personal_info_component>"
+"Merse Drive, Kirkcudbright",FERGUSON ISA,0,Dumfries and Galloway Royal Infirmary,0,15th March 2018,0,0,0,peacefully,"<personal_info_component>
+<name>FERGUSON ISA</name> On <demise_date>15th March 2018</demise_date>, <demise_how>peacefully</demise_how> in <demise_place>Dumfries and Galloway Royal Infirmary</demise_place>, <name>Isa Ferguson</name>, <home_town>Merse Drive, Kirkcudbright</home_town>. 
+</personal_info_component>"
+0,KNOX DAVID (MCGIBBON),0,home,0,Friday 12th October 2018,0,0,0,Peacefully,"<personal_info_component>
+<name>KNOX DAVID (MCGIBBON)</name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place> on <demise_date>Friday 12th October 2018</demise_date>, surrounded by his loving family. 
+</personal_info_component>"
+0,RANKIN JOHN John,0,Cornhill Macmillan Centre,0,Sunday 8th January 2017,0,0,83,peacefully,"<personal_info_component>
+<name>RANKIN JOHN John</name>, aged <age>83</age>, died <demise_how>peacefully</demise_how>, at <demise_place>Cornhill Macmillan Centre</demise_place>, on <demise_date>Sunday 8th January 2017</demise_date>
+</personal_info_component>"
+0,McDADE JOSEPH,0,the Royal Alexandra Hospital,0,"Sunday, 12th November, 2017",0,0,0,Suddenly but peacefully,"<personal_info_component>
+<name>McDADE JOSEPH</name> <demise_how>Suddenly but peacefully</demise_how> at <demise_place>the Royal Alexandra Hospital</demise_place>, surrounded by his family on <demise_date>Sunday, 12th November, 2017</demise_date>
+</personal_info_component>"
+0,COMBES JOHN CYRIL MASON,0,the Royal Alexandra Hospital,0,Wednesday 2nd November 2016,0,0,0,Peacefully,"<personal_info_component>
+<name>COMBES JOHN CYRIL MASON</name> <demise_how>Peacefully</demise_how> at <demise_place>the Royal Alexandra Hospital</demise_place> on <demise_date>Wednesday 2nd November 2016</demise_date>. 
+</personal_info_component>"
+Buxton and formerly of Kirkcudbright,LITTLEJOHNS Margaret,0,The Haddon Hall Care Home,0,14th February 2019,0,Margaret,93 years,peacefully,"<personal_info_component>
+<name>LITTLEJOHNS Margaret</name> On <demise_date>14th February 2019</demise_date>, <nick_name>Margaret</nick_name> of <home_town>Buxton and formerly of Kirkcudbright</home_town>, passed away <demise_how>peacefully</demise_how> at <demise_place>The Haddon Hall Care Home</demise_place>, aged <age>93 years</age>. 
+</personal_info_component>"
+0,CAMPBELL JOHN,0,Forth Valley Royal Hospital,0,"22nd November, 2017",0,0,72 years,Peacefully,"<personal_info_component>
+<name>CAMPBELL JOHN</name> <demise_how>Peacefully</demise_how> at <demise_place>Forth Valley Royal Hospital</demise_place> on <demise_date>22nd November, 2017</demise_date>, surrounded by his loving family, <name>John Campbell</name>, aged <age>72 years</age>. 
+</personal_info_component>"
+Stirling,STEWART David,0,F.V.R.H.,0,Saturday 2nd February 2019,0,David McAuslan Stewart,86 years,Peacefully,"<personal_info_component>
+<name>STEWART David</name> <demise_how>Peacefully</demise_how> at <demise_place>F.V.R.H.</demise_place> on <demise_date>Saturday 2nd February 2019</demise_date>, <nick_name>David McAuslan Stewart</nick_name> aged <age>86 years</age> of <home_town>Stirling</home_town>. 
+</personal_info_component>"
+Burnhead,STEWART JIM,0,Thornhill Hospital,0,26th March 2018,0,0,0,peacefully,"<personal_info_component>
+<name>STEWART JIM</name> On <demise_date>26th March 2018</demise_date> <demise_how>peacefully</demise_how> at <demise_place>Thornhill Hospital</demise_place>, <name>Jim Stewart</name> of <home_town>Burnhead</home_town>
+</personal_info_component>"
+Uphall,RICHARDSON ELIZABETH MARTIN,0,the home of her daughter Lorraine,0,15th December 2017,0,0,0,Peacefully,"<personal_info_component>
+<name>RICHARDSON ELIZABETH MARTIN</name> <home_town>Uphall</home_town> <demise_how>Peacefully</demise_how>, at <demise_place>the home of her daughter Lorraine</demise_place>, on <demise_date>15th December 2017</demise_date>
+</personal_info_component>"
+0,MCPHEE Nancy,0,the Royal Alexandra Hospital,0,28th January 2019,0,0,0,Suddenly,"<personal_info_component>
+<name>MCPHEE Nancy</name> <demise_how>Suddenly</demise_how> at <demise_place>the Royal Alexandra Hospital</demise_place> on <demise_date>28th January 2019</demise_date>
+</personal_info_component>"
+0,KEELING Sarah (Sadie) Nee Fulton,0,Crosshouse Hospital,0,Thursday 22nd August 2019,a short illness,0,77,peacefully,"<personal_info_component>
+<name>KEELING Sarah (Sadie) Nee Fulton</name> Aged <age>77</age>, passed away <demise_how>peacefully</demise_how> at <demise_place>Crosshouse Hospital</demise_place> on <demise_date>Thursday 22nd August 2019</demise_date> after <demise_reason>a short illness</demise_reason>, bravely borne. 
+</personal_info_component>"
+0,KERR ROBERT,0,his own home,0,the 4th July 2017,0,0,0,peacefully ,"<personal_info_component>
+<name>KERR ROBERT</name> On <demise_date>the 4th July 2017</demise_date>, <demise_how>peacefully </demise_how>at <demise_place>his own home</demise_place>, in the presence of his family
+</personal_info_component>"
+"Barhill Road, Dalbeattie",STODDART (NEE WILSON) JEAN,0,"Alma House, Dalbeattie",0,Thursday 2nd February 2017,0,0,0,0,"<personal_info_component>
+<name>STODDART (NEE WILSON) JEAN</name> On <demise_date>Thursday 2nd February 2017</demise_date>, in the loving care of <demise_place>Alma House, Dalbeattie</demise_place>, formerly of <home_town>Barhill Road, Dalbeattie</home_town>, <name>Jean Stoddart (nee Wilson)</name>
+</personal_info_component>"
+0,O'HALLORAN JACK,0,Udston Hospital,0,10th June 2017,0,Jack,0,Peacefully,"<personal_info_component>
+<name>O'HALLORAN JACK</name> <demise_how>Peacefully</demise_how>, at <demise_place>Udston Hospital</demise_place>, on the <demise_date>10th June 2017</demise_date>, <nick_name>Jack</nick_name>
+</personal_info_component>"
+"Kinnell Street, Thornhill",MOFFAT Mary,0,Dumfries Infirmary,0,19th May 2017,0,Mary Moffat nee Richardson,0,peacefully,"<personal_info_component>
+<name>MOFFAT Mary</name> On <demise_date>19th May 2017</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, <nick_name>Mary Moffat nee Richardson</nick_name> of <home_town>Kinnell Street, Thornhill</home_town>
+</personal_info_component>"
+0,CROALL JOHN,0,Dumfries Infirmary,0,1st February 2018,0,0,0,peacefully,"<personal_info_component>
+<name>CROALL JOHN</name> On <demise_date>1st February 2018</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Dumfries Infirmary</demise_place>, <name>John Croall</name>
+</personal_info_component>"
+0,MURDOCH NINA Armadale,0,St. John's Hospital,0,23rd April 2017,0,Nina,0,Peacefully,"<personal_info_component>
+<name>MURDOCH NINA Armadale</name> <demise_how>Peacefully</demise_how>, at <demise_place>St. John's Hospital</demise_place>, on <demise_date>23rd April 2017</demise_date>, surrounded by her family, <nick_name>Nina</nick_name>
+</personal_info_component>"
+0,WHITE,0,home,0,2nd January 2018,0,John,0,Suddenly,"<personal_info_component>
+<name>WHITE</name> <demise_how>Suddenly</demise_how> at <demise_place>home</demise_place> on <demise_date>2nd January 2018</demise_date>, <nick_name>John</nick_name>
+</personal_info_component>"
+"Dalry, Margaret Corrie",CORRIE Margaret,0,Barlochan House Care Home,0,24th March 2019,0,0,0,peacefully,"<personal_info_component>
+<name>CORRIE Margaret</name> On the <demise_date>24th March 2019</demise_date>, <demise_how>peacefully</demise_how> in <demise_place>Barlochan House Care Home</demise_place> and formerly of <home_town>Dalry, Margaret Corrie</home_town>. 
+</personal_info_component>"
+"Craignair Park, Annan",ALLEN JENNIFER,0,Dumfries Infirmary,0,13th May 2018,a long illness,Jennifer Allen nee Johnston,56 years,peacefully,"<personal_info_component>
+<name>ALLEN JENNIFER</name> On <demise_date>13th May 2018</demise_date>, at <demise_place>Dumfries Infirmary</demise_place>, <demise_how>peacefully</demise_how> after <demise_reason>a long illness</demise_reason>, <nick_name>Jennifer Allen nee Johnston</nick_name>, aged <age>56 years</age> of <home_town>Craignair Park, Annan</home_town>
+</personal_info_component>"
+0,ANDERSON ELIZABETH,0,home,0,8th January 2019,0,Elizabeth nee (Neil),0,Peacefully,"<personal_info_component>
+<name>ANDERSON ELIZABETH</name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place> on <demise_date>8th January 2019</demise_date>. <nick_name>Elizabeth nee (Neil)</nick_name> died surrounded by her loving family. 
+</personal_info_component>"
+0,JONES Hugh Thomas,Tayside Fire Brigade,Ninewells Hospital,0,Monday 29th October 2018,0,"Hugh Thomas, (Shug)",78,0,"<personal_info_component>
+<name>JONES Hugh Thomas</name> At <demise_place>Ninewells Hospital</demise_place> on <demise_date>Monday 29th October 2018</demise_date>, <nick_name>Hugh Thomas, (Shug)</nick_name>, aged <age>78</age>, formerly <occupation>Tayside Fire Brigade</occupation>
+</personal_info_component>"
+0,McGOOKIN RAYMOND,0,home,0,Tuesday 19th December 2017,0,0,0,Peacefully,"<personal_info_component>
+<name>McGOOKIN RAYMOND</name> <demise_how>Peacefully</demise_how>, at <demise_place>home</demise_place>, on <demise_date>Tuesday 19th December 2017</demise_date>. 
+</personal_info_component>"
+Cowie,QUINN SHIRLEY,0,F.V.R.H.,0,"Friday 12th January, 2018",0,0,51 years,"Unexpectedly, but peacefully","<personal_info_component>
+<name>QUINN SHIRLEY</name> <demise_how>Unexpectedly, but peacefully</demise_how> at <demise_place>F.V.R.H.</demise_place> on <demise_date>Friday 12th January, 2018</demise_date>, <name>Shirley Quinn</name>, aged <age>51 years</age> of <home_town>Cowie</home_town>. 
+</personal_info_component>"
+0,DUNCAN Dave,retired administrator Guide Dogs for the Blind,"Ochil Care Home, Perth",0,Thursday 24th January 2019,0,Dave,73 years,0,"<personal_info_component>
+<name>DUNCAN Dave</name> At <demise_place>Ochil Care Home, Perth</demise_place> on <demise_date>Thursday 24th January 2019</demise_date>, <nick_name>Dave</nick_name>, aged <age>73 years</age>, <occupation>retired administrator Guide Dogs for the Blind</occupation>. 
+</personal_info_component>"
+0,HAGGARTY DAVID,Prince Rajah the Magician,the Royal Alexandra Hospital,0,13th June 2019,0,David,0,Peacefully,"<personal_info_component>
+<name>HAGGARTY DAVID</name> <demise_how>Peacefully</demise_how> on the <demise_date>13th June 2019</demise_date> at <demise_place>the Royal Alexandra Hospital</demise_place>, <nick_name>David</nick_name> (<occupation>Prince Rajah the Magician</occupation>). 
+</personal_info_component>"
+"Kirkpatrick Court, Dumfries",POTTS DAVID,0,home,0,10th August 2017,0,0,0,suddenly,"<personal_info_component>
+<name>POTTS DAVID</name> On the <demise_date>10th August 2017</demise_date>, <demise_how>suddenly</demise_how> at his <demise_place>home</demise_place>, <name>David Potts</name> of <home_town>Kirkpatrick Court, Dumfries</home_town>
+</personal_info_component>"
+0,Annie McMaster Speirs,0,home,0,26th May 2018,0,SPEIRS,83 years,Peacefully,"<personal_info_component>
+<nick_name>SPEIRS</nick_name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place> on <demise_date>26th May 2018</demise_date>, <name>Annie McMaster Speirs</name>, died aged <age>83 years</age>
+</personal_info_component>"
+Crieff,GALBRAITH JESSIE,0,"Richmond House, Crieff",0,Thursday 22nd June 2017,0,Jessie (nee Aitken),89 years,Peacefully,"<personal_info_component>
+<name>GALBRAITH JESSIE</name> <demise_how>Peacefully</demise_how>, in the tender care of <demise_place>Richmond House, Crieff</demise_place>, on <demise_date>Thursday 22nd June 2017</demise_date>, <nick_name>Jessie (nee Aitken)</nick_name> aged <age>89 years</age>, of <home_town>Crieff</home_town>. 
+</personal_info_component>"
+0,SEAGRAVE David,former Chief Inspector of Police and retired solicitor,the Alexandra Unit,0,30th September 2019,0,David Robert Seagrave,0,peacefully,"<personal_info_component>
+<name>SEAGRAVE David</name> On the <demise_date>30th September 2019</demise_date>, <demise_how>peacefully</demise_how> in the dedicated care of <demise_place>the Alexandra Unit</demise_place>, <nick_name>David Robert Seagrave</nick_name>, <occupation>former Chief Inspector of Police and retired solicitor</occupation>
+</personal_info_component>"
+0,HAYMARCH Hugh,0,0,0,31st July 2019,0,Hugh,74 years,Suddenly,"<personal_info_component>
+<name>HAYMARCH Hugh</name> <demise_how>Suddenly</demise_how> on <demise_date>31st July 2019</demise_date>, <nick_name>Hugh</nick_name> aged <age>74 years</age>
+</personal_info_component>"
+0,SHAW DOROTHY ELIZABETH,"Administrator at Ayrshire Post in the late 70's, also former Booking Clerk at Butlin's Holiday Camp",Glenfairn Care Home,0,Wednesday 26th October 2016,0,Dorothy,0,Peacefully,"<personal_info_component>
+<name>SHAW DOROTHY ELIZABETH</name> <demise_how>Peacefully</demise_how> at <demise_place>Glenfairn Care Home</demise_place> on <demise_date>Wednesday 26th October 2016</demise_date>, <nick_name>Dorothy</nick_name>. She was a former <occupation>Administrator at Ayrshire Post in the late 70's, also former Booking Clerk at Butlin's Holiday Camp</occupation>
+</personal_info_component>"
+"Alloway Drive, Cowie",MUNDY KATE,0,0,0,"Thursday 22nd December, 2016",long illness,Kate (nee Milne),0,Peacefully,"<personal_info_component>
+<name>MUNDY KATE</name> <demise_how>Peacefully</demise_how> after a <demise_reason>long illness</demise_reason> on <demise_date>Thursday 22nd December, 2016</demise_date>, <nick_name>Kate (nee Milne)</nick_name>, of <home_town>Alloway Drive, Cowie</home_town>. 
+</personal_info_component>"
+0,SHIELDS Thomas,0,home,0,Thursday 2nd May 2019,0,Tam,0,Suddenly,"<personal_info_component>
+<name>SHIELDS Thomas</name> (<nick_name>Tam</nick_name>) <demise_how>Suddenly</demise_how> at <demise_place>home</demise_place> on <demise_date>Thursday 2nd May 2019</demise_date>
+</personal_info_component>"
+0,HARRIS MAGGIE HELEN BEATEN (PEGGIE) (n?e Telfer),0,"Lennel House, Coldstream",0,25th October 2017,long illness,0,0,0,"<personal_info_component>
+<name>HARRIS MAGGIE HELEN BEATEN (PEGGIE) (n?e Telfer)</name> After a <demise_reason>long illness</demise_reason>, on <demise_date>25th October 2017</demise_date>, in the care of <demise_place>Lennel House, Coldstream</demise_place>. 
+</personal_info_component>"
+0,HAMILL Agnes,0,home,0,29th March 2019,0,Agnes nee Corrigan,0,Peacefully,"<personal_info_component>
+<name>HAMILL Agnes</name> <demise_how>Peacefully</demise_how>, at <demise_place>home</demise_place>, surrounded by her family, on <demise_date>29th March 2019</demise_date>, <nick_name>Agnes nee Corrigan</nick_name>
+</personal_info_component>"
+"Newmilns, Kilmarnock and Ayr",YOUNG Hugh,0,Ayr Hospital,0,Saturday 13th October 2018,0,Hugh,0,Suddenly but Peacefully,"<personal_info_component>
+<name>YOUNG Hugh</name> <demise_how>Suddenly but Peacefully</demise_how> at <demise_place>Ayr Hospital</demise_place> on <demise_date>Saturday 13th October 2018</demise_date>. <nick_name>Hugh</nick_name>, formerly of <home_town>Newmilns, Kilmarnock and Ayr</home_town>
+</personal_info_component>"
+0,CONNELL MARION,0,Crosshouse Hospital,0,Monday 18th December 2017,0,Marion,70 years,Peacefully,"<personal_info_component>
+<name>CONNELL MARION</name> <demise_how>Peacefully</demise_how>, at <demise_place>Crosshouse Hospital</demise_place>, on <demise_date>Monday 18th December 2017</demise_date>, <nick_name>Marion</nick_name>, aged <age>70 years</age>. 
+</personal_info_component>"
+0,MONTGOMERY ANNA,0,0,0,30th September 2019,0,Anna,81 years,Peacefully,"<personal_info_component>
+<name>MONTGOMERY ANNA</name> <demise_how>Peacefully</demise_how> on <demise_date>30th September 2019</demise_date>, <nick_name>Anna</nick_name> aged <age>81 years</age>. 
+</personal_info_component>"
+0,CLYNE JOAN,0,Ayr Hospital,0,Sunday 22 April 2018,0,Joan,83 years,Peacefully,"<personal_info_component>
+<name>CLYNE JOAN</name> <demise_how>Peacefully</demise_how> at <demise_place>Ayr Hospital</demise_place> on <demise_date>Sunday 22 April 2018</demise_date>, <nick_name>Joan</nick_name> aged <age>83 years</age>.
+</personal_info_component>"
+0,PEDEN MARGARET,0,Stonehouse Hospital,0,"Sunday, 26th June, 2016",0,0,0,Peacefully,"<personal_info_component>
+<name>PEDEN MARGARET</name> <demise_how>Peacefully</demise_how>, at <demise_place>Stonehouse Hospital</demise_place>, on <demise_date>Sunday, 26th June, 2016</demise_date>. 
+</personal_info_component>"
+0,DOUGLAS STEWART DANIEL (MR CARLTON),0,"The Royal Alexandra Hospital, Paisley",0,22nd November 2018,0,0,0,Peacefully,"<personal_info_component>
+<name>DOUGLAS STEWART DANIEL (MR CARLTON)</name> <demise_how>Peacefully</demise_how> at <demise_place>The Royal Alexandra Hospital, Paisley</demise_place> on <demise_date>22nd November 2018</demise_date>
+</personal_info_component>"
+"Braehead Road, St. Ninians",JACK PETER FRANCIS,0,Fairview Nursing Home,0,"Wednesday 9th May, 2018",0,Peter,87 years,Peacefully,"<personal_info_component>
+<name>JACK PETER FRANCIS</name> <demise_how>Peacefully</demise_how> at <demise_place>Fairview Nursing Home</demise_place> on <demise_date>Wednesday 9th May, 2018</demise_date>, <nick_name>Peter</nick_name>, aged <age>87 years</age>, formerly of <home_town>Braehead Road, St. Ninians</home_town>. 
+</personal_info_component>"
+"Fergus Walk, Dumfries",CHALMERS James,0,home,0,Wednesday 15th May 2019,0,James,0,0,"<personal_info_component>
+<name>CHALMERS James</name> On <demise_date>Wednesday 15th May 2019</demise_date> at <demise_place>home</demise_place>, <home_town>Fergus Walk, Dumfries</home_town>, <nick_name>James</nick_name>
+</personal_info_component>"
+0,WILSON SUZAN Suzan (nee Miller),0,0,0,"27th April, 2017",0,0,79 years,peacefully,"<personal_info_component>
+<name>WILSON SUZAN Suzan (nee Miller)</name> passed away <demise_how>peacefully</demise_how> on <demise_date>27th April, 2017</demise_date>, aged <age>79 years</age>. 
+</personal_info_component>"
+"Glentrool Road, Lochside",ADAMS Jim,0,Allanbank Care Home,0,20th June 2019,0,Jumbo,85 years,peacefully,"<personal_info_component>
+<name>ADAMS Jim</name> On the <demise_date>20th June 2019</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>Allanbank Care Home</demise_place>, <name>Jim Adams</name> R.I.P. (<nick_name>Jumbo</nick_name>), aged <age>85 years</age> of <home_town>Glentrool Road, Lochside</home_town>. 
+</personal_info_component>"
+0,EVANS EUPHEMIA,0,Redmill Care Home,0,11th June 2017,0,EFFIE,0,Peacefully,"<personal_info_component>
+<name>EVANS EUPHEMIA</name> (<nick_name>EFFIE</nick_name>) <demise_how>Peacefully</demise_how>, at <demise_place>Redmill Care Home</demise_place>, on <demise_date>11th June 2017</demise_date>, <nick_name>Effie</nick_name>
+</personal_info_component>"
+"Beannie Farm, Braco",DAWSON,0,home,0,August 4th 2017,0,Jamie,55 years,Peacefully,"<personal_info_component>
+<name>DAWSON</name> <demise_how>Peacefully</demise_how> at <demise_place>home</demise_place>, <home_town>Beannie Farm, Braco</home_town> on <demise_date>August 4th 2017</demise_date>, <nick_name>Jamie</nick_name>, aged <age>55 years</age>. 
+</personal_info_component>"
+0,HUME IAN,0,Forth Valley Royal Hospital,0,31st December 2017,short illness,0,0,Peacefully,"<personal_info_component>
+<name>HUME IAN</name> <demise_how>Peacefully</demise_how> after a <demise_reason>short illness</demise_reason>, in the company of his loving family at <demise_place>Forth Valley Royal Hospital</demise_place> on <demise_date>31st December 2017</demise_date>. 
+</personal_info_component>"
+0,McLAREN THOMAS (TOM),0,home,0,Friday 21st September 2018,0,Thomas (Tom),0,Suddenly,"<personal_info_component>
+<name>McLAREN THOMAS (TOM)</name> <demise_how>Suddenly</demise_how> at <demise_place>home</demise_place>, <nick_name>Thomas (Tom)</nick_name> passed away on <demise_date>Friday 21st September 2018</demise_date>. 
+</personal_info_component>"
+"Bannockburn, formerly of Enniskillen, Northern Ireland",McCLENAGHAN DAVID,0,0,0,"Sunday 26th August, 2018",0,0,57 years,Suddenly,"<personal_info_component>
+<name>McCLENAGHAN DAVID</name> <demise_how>Suddenly</demise_how> on <demise_date>Sunday 26th August, 2018</demise_date>, <name>David McClenaghan</name>, aged <age>57 years</age> of <home_town>Bannockburn, formerly of Enniskillen, Northern Ireland</home_town>. 
+</personal_info_component>"
+"Burnett Avenue, Lochside",CRONIE Julie,0,home,0,the 22nd October 2019,0,0,40 years,peacefully,"<personal_info_component>
+<name>CRONIE Julie</name> On <demise_date>the 22nd October 2019</demise_date>, <demise_how>peacefully</demise_how> at <demise_place>home</demise_place>, <name>Julie Cronie</name>, aged <age>40 years</age> of <home_town>Burnett Avenue, Lochside</home_town>. 
+</personal_info_component>"
+0,BYRNE JOHN Seafield,0,home,0,Thursday 4th May 2017,0,Johnny,78 years,Unexpectedly,"<personal_info_component>
+<name>BYRNE JOHN Seafield</name> <demise_how>Unexpectedly</demise_how>, at <demise_place>home</demise_place>, on <demise_date>Thursday 4th May 2017</demise_date>, <nick_name>Johnny</nick_name>, aged <age>78 years</age>
+</personal_info_component>"
+0,CROCKETT George,0,F.V.R.H.,0,"Thursday 27th September, 2018",0,George,81 years,Unexpectedly,"<personal_info_component>
+<name>CROCKETT George</name> <demise_how>Unexpectedly</demise_how> at <demise_place>F.V.R.H.</demise_place> on <demise_date>Thursday 27th September, 2018</demise_date>, <nick_name>George</nick_name> aged <age>81 years</age>
+</personal_info_component>"
+Ae Village,PATERSON JAMIE,0,the Queen Elizabeth University Hospital,0,Wednesday 15th June 2016,an illness,Jamie,31 years,Peacefully,"<personal_info_component>
+<name>PATERSON JAMIE</name> <demise_how>Peacefully</demise_how> at <demise_place>the Queen Elizabeth University Hospital</demise_place> on <demise_date>Wednesday 15th June 2016</demise_date>, after <demise_reason>an illness</demise_reason> bravely borne with his family by his side, <nick_name>Jamie</nick_name> aged <age>31 years</age> of <home_town>Ae Village</home_town>. 
+</personal_info_component>"
+0,COUTTS VIOLET,0,"Ward 36, the Royal Alexandra Hospital, Paisley",0,11th April 2017,0,0,0,Peacefully,"<personal_info_component>
+<name>COUTTS VIOLET</name> <demise_how>Peacefully</demise_how> at <demise_place>Ward 36, the Royal Alexandra Hospital, Paisley</demise_place> on <demise_date>11th April 2017</demise_date>. 
+</personal_info_component>"

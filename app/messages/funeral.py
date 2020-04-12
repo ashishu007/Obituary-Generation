@@ -9,7 +9,7 @@ def funeral_component(features):
 
     print(features)
 
-    df = pd.read_csv('./app/messages/data/101_funeral_component.csv')
+    df = pd.read_csv('./app/messages/data/funeral_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)
@@ -56,11 +56,12 @@ def funeral_component(features):
         for i in top_val_soup.find_all():
             # print(i.name, i.string)
             if i.name in features.keys():
-                # print("features[i]", features[i.name])
-                # if i.name == "flowers" or i.name == "guests_list":
-                    # i.string = i.string
-                # else:
                 i.string = features[i.name]
+            # Remove the tags/features from generated text which are not in input
+            elif i.name == "funeral_component" or i.name == "html" or i.name == "body":
+                pass
+            elif i.name not in features.keys():
+                i.string = ""
         
         gen_str = top_val_soup.text
         gen_str = ' '.join(gen_str.split())
