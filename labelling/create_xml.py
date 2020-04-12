@@ -22,12 +22,9 @@ for i in li:
     ctr = 0
     s = t["text"]
     for i in t["labels"]:
-        # print(i)
-        # print(len(i[2]), i[2])
         s = s[:i[0] + ctr] + "<" + i[2] + ">" + s[i[0] + ctr:]
         s = s[:i[1] + len(i[2]) + 2 + ctr] + "</" + i[2] + ">" + s[i[1] + len(i[2]) + ctr + 2:]
         ctr = ctr + ((2 * len(i[2])) + 5)
-    # print(s)
     s = s.replace("\"", "")
     s = s.replace("\\", "")
     new_list.append(s)
