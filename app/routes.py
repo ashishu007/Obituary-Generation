@@ -80,6 +80,7 @@ def send_obits():
     )
 
 
+# This is an useless path when I just tried to incorporate database in the service.
 @app.route('/resultdb', methods = ['POST', 'GET'])
 def add_entry():
     if request.method == 'POST':
