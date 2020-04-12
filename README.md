@@ -48,10 +48,10 @@
 +-- app (flask sevice)
    +-- messages (CBR/Lazy learning part)
       +-- data (Case-Base)
-         +-- 101_funeral_component.csv 
-         +-- 101_personal_component.csv 
-         +-- 101_relations_component.csv 
-         +-- 101_single_component.csv 
+         +-- funeral_component.csv 
+         +-- personal_component.csv 
+         +-- relations_component.csv 
+         +-- basic.csv 
       +-- resources 
          +-- feature_list.csv 
       +-- __init__.py
