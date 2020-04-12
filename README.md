@@ -7,6 +7,10 @@
 ## Input-Output system
 - On `https://localhost:5000` there will be a form for different feature values.
 - After submitting the form you will get a `json` file with a dictionary of features given as input and four possible obituaries.
+- An example of obituaries generated from `basic-retrieval` method.
+![Basic Retrieval](basic.png)
+- An example of obituaries generated from `component-retrieval` method.
+![Component Retrieval](comp.png)
 
 ## TODO
 - ~~Similarity measure in component retrieval.~~ **Done**
