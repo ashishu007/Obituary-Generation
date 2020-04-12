@@ -1,7 +1,17 @@
 ## Instructions to run
-- Run on windows powershell
+- Run on Unix Bash (Linux, Mac):
+    - ```export FLASK_ENV="development"```
+    - ```export FLASK_APP="cbrobit.py"```
+    - ```flask run```
+
+- Run on windows powershell:
     - ```$env:FLASK_ENV="development"```
     - ```$env:FLASK_APP="cbrobit.py"```
+    - ```flask run```
+
+- Run on Windows CMD:
+    - ```set FLASK_ENV="development"```
+    - ```set FLASK_APP="cbrobit.py"```
     - ```flask run```
 
 ## Input-Output system
