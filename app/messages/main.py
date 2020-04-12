@@ -123,7 +123,7 @@ def return_basic_msgs(response):
 
     deceased_geneder = basic_ftrs["gender"]
 
-    msg_lst = single_component(basic_ftrs)
+    msg_lst = basic_generation(basic_ftrs)
 
     corrected_lst = []
     for i in msg_lst:
