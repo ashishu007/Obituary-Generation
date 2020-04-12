@@ -1,39 +1,44 @@
-Feature Name, Feature Component
-name, Personal Info
-age, Personal Info
-demise_place, Personal Info
-demise_date, Personal Info
-demise_how, Personal Info
-home_town, Personal Info
-gender, Personal Info
-nick_name, Personal Info
-parent_gender, Relations
-spouse_name, Relations
-spouse_gender, Relations
-grandparent_gender, Relations
-children_name, Relations
-grandchildren_name, Relations
-great_grandchildren_name, Relations
-great_grandparent_gender, Relations
-siblings_name, Relations
-siblings_gender, Relations
-children_in_law_name, Relations
-parent_in_law_gender, Relations
-siblings_in_law_name, Relations
-siblings_in_law_gender, Relations
-other_relations_names, Relations
-other_relations_types, Relations
-friends_name, Relations
-funeral_place, Funeral
-funeral_date, Funeral
-funeral_time, Funeral
-cemetery_place, Funeral
-cemetery_time, Funeral
-flowers, Funeral
-guests_list, Funeral
-funeral_attire, Funeral
-charity_name, Funeral
-reception_place, Funeral
-reception_time, Funeral
-reception_date, Funeral
-funeral_message, Funeral
+Name,Type
+name,Personal Info
+age,Personal Info
+demise_place,Personal Info
+demise_date,Personal Info
+demise_how,Personal Info
+demise_reason,Personal Info
+home_town,Personal Info
+gender,Personal Info
+nick_name,Personal Info
+work_place,Personal Info
+parent_gender,Relations
+spouse_name,Relations
+spouse_gender,Relations
+grandparent_gender,Relations
+children_name,Relations
+grandchildren_name,Relations
+great_grandchildren_name,Relations
+great_grandparent_gender,Relations
+siblings_name,Relations
+siblings_gender,Relations
+children_in_law_name,Relations
+parent_in_law_gender,Relations
+siblings_in_law_name,Relations
+siblings_in_law_gender,Relations
+other_relations_names,Relations
+other_relations_types,Relations
+children_gender,Relations
+father_name,Relations
+mother_nane,Relations
+friends_name,Relations
+funeral_place,Funeral
+funeral_date,Funeral
+funeral_time,Funeral
+cemetery_place,Funeral
+cemetery_time,Funeral
+flowers,Funeral
+guests_list,Funeral
+funeral_attire,Funeral
+charity_name,Funeral
+reception_place,Funeral
+reception_time,Funeral
+reception_date,Funeral
+funeral_message,Funeral

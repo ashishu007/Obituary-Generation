@@ -4,11 +4,16 @@
 ## Process
 - First use `doccano` to manually label the data and download it in `.jsonl (json lines)` format.
     - `doccano` is found [here](https://github.com/doccano/doccano).
-- Then use `...` script to convert `.jsonl` into `.xml`.
-- Finally use `...` script to convert `.xml` into `.csv`.
+- Then use `create_xml.py` script to convert `.jsonl` into `.xml`.
+- Finally use `create_csv.py` script to convert `.xml` into `.csv`.
 
 ## CSV File
 - The `csv` file is the tabular representation of annotated data.
 - Each row represent a `case` in the `case-base`.
 - Each column is a `feature` used to represent the cases.
 - After generating the `csv` file save it to `./app/messages/data` folder.
+
+## Important
+- Right now the automated conversion of `jsonl` to `xml` is only possible for `basic-retrieval` method.
+- I am trying to develop an automated way for the conversion for `component-retrieval` as well.
+- The only challenging task there is to segregating different sentences.

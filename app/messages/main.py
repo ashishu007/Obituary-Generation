@@ -39,17 +39,18 @@ def create_comp_ftrs(diction):
 
     df = pd.read_csv("./app/messages/resources/feature_list.csv")
 
+
     p = []
     r = []
     f = []
 
     for id, row in df.iterrows():
-        if row["Feature Component"] == "Personal Info":
-            p.append(row["Feature Name"])
-        elif row["Feature Component"] == "Relations":
-            r.append(row["Feature Name"])
+        if row["Type"] == "Personal Info":
+            p.append(row["Name"])
+        elif row["Type"] == "Relations":
+            r.append(row["Name"])
         else:
-            f.append(row["Feature Name"])
+            f.append(row["Name"])
 
     # p = ["name", "age", "demise_place", "demise_date", "demise_how", "home_town", "gender", "nick_name"]
     # r = ["parent_gender", "spouse_name", "spouse_gender", "grandparent_gender", "children_name", "grandchildren_name", "great_grandchildren_name", "great_grandparent_gender",
