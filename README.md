@@ -47,11 +47,11 @@
 ```
 +-- app (flask sevice)
    +-- messages (CBR/Lazy learning part)
-      +-- data (Case-Base)
-         +-- funeral_component.csv 
-         +-- personal_component.csv 
-         +-- relations_component.csv 
-         +-- basic.csv 
+         +-- data (Case-Base)
+         +-- basic.csv
+         +-- personal_info_component.csv
+         +-- funeral_component.csv
+         +-- relations_component.csv
       +-- resources 
          +-- feature_list.csv 
       +-- __init__.py
