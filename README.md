@@ -1,10 +1,13 @@
 ## Instructions to run
+- First, install the required libraries:
+   - `pip install -r requirements.txt`
+
 - Run on Unix Bash (Linux, Mac):
     - ```export FLASK_ENV="development"```
     - ```export FLASK_APP="cbrobit.py"```
     - ```flask run```
 
-- Run on windows powershell:
+- Run on Windows Powershell:
     - ```$env:FLASK_ENV="development"```
     - ```$env:FLASK_APP="cbrobit.py"```
     - ```flask run```
