@@ -1,6 +1,5 @@
 from app.messages.personal_info import personal_info_component
 from app.messages.relations import relations_component
-from app.messages.spouse import spouse_component
 from app.messages.funeral import funeral_component
 from app.messages.basic import basic_generation
 from app.messages.errors import gender_errors

@@ -1,298 +1,298 @@
-name,flowers,reception_place,charity_name,funeral_time,reception_date,funeral_message,reception_time,nick_name,funeral_attire,funeral_date,guests_list,funeral_place,cemetery_place,cemetery_time,text
-0,0,0,0,0,0,0,0,0,0,0,Private,0,0,0,"<funeral_component>
+cemetery_time,funeral_date,reception_place,guests_list,reception_time,cemetery_place,charity_name,reception_date,nick_name,funeral_attire,funeral_time,name,funeral_message,funeral_place,flowers,text
+0,0,0,Private,0,0,0,0,0,0,0,0,0,0,0,"<funeral_component>
 Funeral <guests_list>Private</guests_list>.
 </funeral_component>"
-0,Family flowers only,0,0,1.00pm,0,0,0,0,0,Thursday 25th April,all family and friends are respectfully invited,Falkirk Crematorium,0,0,"<funeral_component>
+0,Thursday 25th April,0,all family and friends are respectfully invited,0,0,0,0,0,0,1.00pm,0,0,Falkirk Crematorium,Family flowers only,"<funeral_component>
 Funeral Service will be held at <funeral_place>Falkirk Crematorium</funeral_place> on <funeral_date>Thursday 25th April</funeral_date>, at <funeral_time>1.00pm</funeral_time> to which <guests_list>all family and friends are respectfully invited</guests_list>. <flowers>Family flowers only</flowers> please.
 </funeral_component>"
-0,Family flowers only,0,0,2pm,0,0,0,0,0,Friday 18th October,all relatives and friends are respectfully invited,Stirling Crematorium,0,0,"<funeral_component>
+0,Friday 18th October,0,all relatives and friends are respectfully invited,0,0,0,0,0,0,2pm,0,0,Stirling Crematorium,Family flowers only,"<funeral_component>
 Funeral service at <funeral_place>Stirling Crematorium</funeral_place> on <funeral_date>Friday 18th October</funeral_date> at <funeral_time>2pm</funeral_time>, to which <guests_list>all relatives and friends are respectfully invited</guests_list>. <flowers>Family flowers only</flowers> please.""
 </funeral_component>"
-0,0,0,"St Michael's Hospital, Linlithgow",10am,0,0,0,0,0,"Friday, April 12",0,"St Michael's RC Church, Linlithgow",Kingscavil Cemetery,11.15am,"<funeral_component>
+11.15am,"Friday, April 12",0,0,0,Kingscavil Cemetery,"St Michael's Hospital, Linlithgow",0,0,0,10am,0,0,"St Michael's RC Church, Linlithgow",0,"<funeral_component>
 Funeral Mass will be held at <funeral_place>St Michael's RC Church, Linlithgow</funeral_place>, on <funeral_date>Friday, April 12</funeral_date>, at <funeral_time>10am</funeral_time>, followed by interment at <cemetery_place>Kingscavil Cemetery</cemetery_place>, arriving at approximately <cemetery_time>11.15am</cemetery_time>. There will be a retiral collection in aid of <charity_name>St Michael's Hospital, Linlithgow</charity_name> for those who wish to donate.
 </funeral_component>"
-0,0,0,0,12:00 noon,0,0,0,0,0,Friday 2nd August,All friends respectfully invited,Ruthwell Church,Churchyard,0,"<funeral_component>
+0,Friday 2nd August,0,All friends respectfully invited,0,Churchyard,0,0,0,0,12:00 noon,0,0,Ruthwell Church,0,"<funeral_component>
 Funeral service at <funeral_place>Ruthwell Church</funeral_place> on <funeral_date>Friday 2nd August</funeral_date> at <funeral_time>12:00 noon</funeral_time>, thereafter to <cemetery_place>Churchyard</cemetery_place>. <guests_list>All friends respectfully invited</guests_list> to attend.""
 </funeral_component>"
-0,ase. Donations if desired ,0,0,11.00am,0,0,0,Tam,0,Thursday 23rd February,All friends are respectfully invited to attend,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Thursday 23rd February,0,All friends are respectfully invited to attend,0,0,0,0,Tam,0,11.00am,0,0,Roucan Loch Crematorium,ase. Donations if desired ,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Thursday 23rd February</funeral_date> at <funeral_time>11.00am</funeral_time>. <guests_list>All friends are respectfully invited to attend</guests_list>. Family flowers only ple<flowers>ase. Donations if desired </flowers>can be given at the service in memory of <nick_name>Tam</nick_name>.
 </funeral_component>"
-0,Family flowers only please,0,British Heart Foundation,12.00 noon,0,0,0,Margaret,0,Thursday 14th March,All friends are respectfully invited to attend,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Thursday 14th March,0,All friends are respectfully invited to attend,0,0,British Heart Foundation,0,Margaret,0,12.00 noon,0,0,Roucan Loch Crematorium,Family flowers only please,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Thursday 14th March</funeral_date> at <funeral_time>12.00 noon</funeral_time>. <guests_list>All friends are respectfully invited to attend</guests_list>. <flowers>Family flowers only please</flowers>, donations if desired for the <charity_name>British Heart Foundation</charity_name> can be given at the service in memory of <nick_name>Margaret</nick_name>.""
 </funeral_component>"
-0,Family flowers only please,0,0,9am,0,0,0,0,0,Friday 9th December,0,Holmsford Bridge Crematorium,0,0,"<funeral_component>
+0,Friday 9th December,0,0,0,0,0,0,0,0,9am,0,0,Holmsford Bridge Crematorium,Family flowers only please,"<funeral_component>
 Funeral on <funeral_date>Friday 9th December</funeral_date> at <funeral_place>Holmsford Bridge Crematorium</funeral_place> at <funeral_time>9am</funeral_time>. <flowers>Family flowers only please</flowers>.
 </funeral_component>"
-0,0,0,Cancer Research UK and Strathcarron Hospice,11.00am,0,0,0,0,0,"Monday 26th June, 2017",all friends are respectfully invited,"Callander Kirk, Callander",Callander Cemetery,0,"<funeral_component>
+0,"Monday 26th June, 2017",0,all friends are respectfully invited,0,Callander Cemetery,Cancer Research UK and Strathcarron Hospice,0,0,0,11.00am,0,0,"Callander Kirk, Callander",0,"<funeral_component>
 Funeral service will be help at <funeral_place>Callander Kirk, Callander</funeral_place> on <funeral_date>Monday 26th June, 2017</funeral_date> at <funeral_time>11.00am</funeral_time> and thereafter to <cemetery_place>Callander Cemetery</cemetery_place> to which <guests_list>all friends are respectfully invited</guests_list>. Donations if desired to <charity_name>Cancer Research UK and Strathcarron Hospice</charity_name>.
 </funeral_component>"
-0,Family flowers only please,0,Strathcarron Hospice,0,0,"For funeral arrangements, please contact David Henderson-Lloyd Funeral Directors on 01786 813231",0,0,0,0,0,0,0,0,"<funeral_component>
+0,0,0,0,0,0,Strathcarron Hospice,0,0,0,0,0,"For funeral arrangements, please contact David Henderson-Lloyd Funeral Directors on 01786 813231",0,Family flowers only please,"<funeral_component>
 <flowers>Family flowers only please</flowers>, donations if desired, to be given to <charity_name>Strathcarron Hospice</charity_name>. <funeral_message>For funeral arrangements, please contact David Henderson-Lloyd Funeral Directors on 01786 813231</funeral_message>.
 </funeral_component>"
-0,0,0,0,11am,0,0,0,0,0,Saturday 5th November,all family and friends are respectfully invited,Woodside Crematorium,0,0,"<funeral_component>
+0,Saturday 5th November,0,all family and friends are respectfully invited,0,0,0,0,0,0,11am,0,0,Woodside Crematorium,0,"<funeral_component>
 Funeral service to which <guests_list>all family and friends are respectfully invited</guests_list> at <funeral_place>Woodside Crematorium</funeral_place> on <funeral_date>Saturday 5th November</funeral_date> at <funeral_time>11am</funeral_time>.
 </funeral_component>"
-0,Family flowers only please,0,Kidney Foundation,0,0,For funeral times please contact Henry Dorricott Funeral Services on 01698 882 170.,0,0,0,0,0,0,0,0,"<funeral_component>
+0,0,0,0,0,0,Kidney Foundation,0,0,0,0,0,For funeral times please contact Henry Dorricott Funeral Services on 01698 882 170.,0,Family flowers only please,"<funeral_component>
 <flowers>Family flowers only please</flowers>, donations if desired to <charity_name>Kidney Foundation</charity_name>. <funeral_message>For funeral times please contact Henry Dorricott Funeral Services on 01698 882 170.</funeral_message>
 </funeral_component>"
-0,Family flowers only please,St. Michaels and South Parish Church,St. Michaels Church Fabric Fund,0,"today, Friday 9th September",0,1.15pm,Ann,0,0,All friends are respectfully invited to attend,Caerlaverock Cemetery,0,0,"<funeral_component>
+0,0,St. Michaels and South Parish Church,All friends are respectfully invited to attend,1.15pm,0,St. Michaels Church Fabric Fund,"today, Friday 9th September",Ann,0,0,0,0,Caerlaverock Cemetery,Family flowers only please,"<funeral_component>
 Service at <reception_place>St. Michaels and South Parish Church</reception_place>, <reception_date>today, Friday 9th September</reception_date> at <reception_time>1.15pm</reception_time>. Funeral thereafter to <funeral_place>Caerlaverock Cemetery</funeral_place>. <guests_list>All friends are respectfully invited to attend</guests_list>. <flowers>Family flowers only please</flowers>. Donations if desired to <charity_name>St. Michaels Church Fabric Fund</charity_name> can be given at the service in memory of <nick_name>Ann</nick_name>.
 </funeral_component>"
-0,0,0,"Cardiac Arrest Ward at Little France Royal Infirmary, Edinburgh",10.30am,0,0,0,0,0,Wednesday 11th January,0,St. Mark's Church,"St. Thomas, Cambusbarron",11.15am,"<funeral_component>
+11.15am,Wednesday 11th January,0,0,0,"St. Thomas, Cambusbarron","Cardiac Arrest Ward at Little France Royal Infirmary, Edinburgh",0,0,0,10.30am,0,0,St. Mark's Church,0,"<funeral_component>
 Funeral service to be held on <funeral_date>Wednesday 11th January</funeral_date> at <funeral_place>St. Mark's Church</funeral_place> at <funeral_time>10.30am</funeral_time>, thereafter to <cemetery_place>St. Thomas, Cambusbarron</cemetery_place> at <cemetery_time>11.15am</cemetery_time>. Donations to <charity_name>Cardiac Arrest Ward at Little France Royal Infirmary, Edinburgh</charity_name>
 </funeral_component>"
-0,Family flowers only,0,British Heart Foundation,1.00pm,0,0,0,William,0,Wednesday 13th December,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Wednesday 13th December,0,All friends,0,0,British Heart Foundation,0,William,0,1.00pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Wednesday 13th December</funeral_date> at <funeral_time>1.00pm</funeral_time>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations if desired to the <charity_name>British Heart Foundation</charity_name> will be received at the service in memory of <nick_name>William</nick_name>.
 </funeral_component>"
-0,Family flowers only,0,Strathcarron Hospice,10am,0,0,0,0,0,Wednesday 31st May,0,Our Lady and St Ninians RC Church,Bannockburn Cemetery,11.15am,"<funeral_component>
+11.15am,Wednesday 31st May,0,0,0,Bannockburn Cemetery,Strathcarron Hospice,0,0,0,10am,0,0,Our Lady and St Ninians RC Church,Family flowers only,"<funeral_component>
 Funeral Mass will take place on <funeral_date>Wednesday 31st May</funeral_date> at <funeral_place>Our Lady and St Ninians RC Church</funeral_place> at <funeral_time>10am</funeral_time>, thereafter to <cemetery_place>Bannockburn Cemetery</cemetery_place> for <cemetery_time>11.15am</cemetery_time>. <flowers>Family flowers only</flowers> please, however donations to <charity_name>Strathcarron Hospice</charity_name> will be gratefully received.
 </funeral_component>"
-0,0,0,0,10am,0,0,0,0,0,Thursday 3rd August,all family and friends,St. Mary's R.C. Church,St. Thomas Cemetery,0,"<funeral_component>
+0,Thursday 3rd August,0,all family and friends,0,St. Thomas Cemetery,0,0,0,0,10am,0,0,St. Mary's R.C. Church,0,"<funeral_component>
 Funeral service will be held on <funeral_date>Thursday 3rd August</funeral_date> at <funeral_time>10am</funeral_time> at <funeral_place>St. Mary's R.C. Church</funeral_place>, thereafter to <cemetery_place>St. Thomas Cemetery</cemetery_place>, to which <guests_list>all family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,Family flowers only,0,British Heart Foundation,2.30pm,0,0,0,0,0,Friday 24th June,all family and friends,Falkirk Crematorium,0,0,"<funeral_component>
+0,Friday 24th June,0,all family and friends,0,0,British Heart Foundation,0,0,0,2.30pm,0,0,Falkirk Crematorium,Family flowers only,"<funeral_component>
 Funeral service will take place on <funeral_date>Friday 24th June</funeral_date> at <funeral_place>Falkirk Crematorium</funeral_place> at <funeral_time>2.30pm</funeral_time>, to which <guests_list>all family and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please, but donations if so desired in aid of <charity_name>British Heart Foundation</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,"ward 32, Ninewells Hospital and Cornhill Macmillan Centre, Perth",11am,0,0,0,0,0,Monday 28th November,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Monday 28th November,0,all family and friends,0,0,"ward 32, Ninewells Hospital and Cornhill Macmillan Centre, Perth",0,0,0,11am,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 Funeral on <funeral_date>Monday 28th November</funeral_date> service in <funeral_place>Perth Crematorium</funeral_place> at <funeral_time>11am</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please but if desired a retiring collection will be taken at the Crematorium for <charity_name>ward 32, Ninewells Hospital and Cornhill Macmillan Centre, Perth</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,British Heart Foundation,11.30am,0,0,0,0,0,Today Friday 30th September,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Today Friday 30th September,0,all family and friends,0,0,British Heart Foundation,0,0,0,11.30am,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 Funeral <funeral_date>Today Friday 30th September</funeral_date> service in <funeral_place>Perth Crematorium</funeral_place> at <funeral_time>11.30am</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited <flowers>Family flowers only</flowers> please but if desired a retiring collection will be taken at the Crematorium for the <charity_name>British Heart Foundation</charity_name>.
 </funeral_component>"
-0,0,0,0,12:30pm,0,0,0,0,touch of blue,Thursday 31st January 2019,all friends,"South Lanarkshire Crematorium, Sydes Brae, Blantyre, G72 0TL",0,0,"<funeral_component>
+0,Thursday 31st January 2019,0,all friends,0,0,0,0,0,touch of blue,12:30pm,0,0,"South Lanarkshire Crematorium, Sydes Brae, Blantyre, G72 0TL",0,"<funeral_component>
 Funeral service on <funeral_date>Thursday 31st January 2019</funeral_date> at <funeral_place>South Lanarkshire Crematorium, Sydes Brae, Blantyre, G72 0TL</funeral_place> at <funeral_time>12:30pm</funeral_time> to which <guests_list>all friends</guests_list> are respectfully invited. At the request of the family we would ask that all mourners attending the service wear a <funeral_attire>touch of blue</funeral_attire>.
 </funeral_component>"
-0,No flowers,0,0,1.30pm,0,0,0,Winn,0,"Tuesday, February 6th",all family and friends,"the Knox Chapel, St John's Kirk",0,0,"<funeral_component>
+0,"Tuesday, February 6th",0,all family and friends,0,0,0,0,Winn,0,1.30pm,0,0,"the Knox Chapel, St John's Kirk",No flowers,"<funeral_component>
 A service to celebrate <nick_name>Winn</nick_name>'s life will be held in <funeral_place>the Knox Chapel, St John's Kirk</funeral_place> on <funeral_date>Tuesday, February 6th</funeral_date> at <funeral_time>1.30pm</funeral_time>, to which <guests_list>all family and friends</guests_list> are welcome. <flowers>No flowers</flowers>, please.
 </funeral_component>"
-0,Family flowers only,0,0,2pm,0,0,0,0,0,Monday 5th March,all family and friends,Woodside Crematorium,0,0,"<funeral_component>
+0,Monday 5th March,0,all family and friends,0,0,0,0,0,0,2pm,0,0,Woodside Crematorium,Family flowers only,"<funeral_component>
 Funeral service, to which <guests_list>all family and friends</guests_list> are respectfully invited, at <funeral_place>Woodside Crematorium</funeral_place>, on <funeral_date>Monday 5th March</funeral_date> at <funeral_time>2pm</funeral_time>. <flowers>Family flowers only</flowers> please.
 </funeral_component>"
-0,0,0,0,9.30am,0,0,0,0,0,Tuesday 5th November 2019,All family and friends,"St Ignatius RC Church, Wishaw",Cambusnethan Cemetery,0,"<funeral_component>
+0,Tuesday 5th November 2019,0,All family and friends,0,Cambusnethan Cemetery,0,0,0,0,9.30am,0,0,"St Ignatius RC Church, Wishaw",0,"<funeral_component>
 Funeral Mass <funeral_time>9.30am</funeral_time>, <funeral_date>Tuesday 5th November 2019</funeral_date> at <funeral_place>St Ignatius RC Church, Wishaw</funeral_place> followed by Full Committal at <cemetery_place>Cambusnethan Cemetery</cemetery_place>. <guests_list>All family and friends</guests_list> welcome.
 </funeral_component>"
-0,Family flowers only,0,the Stroke Ward (D7) at Dumfries Infirmary,2pm,0,0,0,Isabel,0,Wednesday 21st March ,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Wednesday 21st March ,0,All friends,0,0,the Stroke Ward (D7) at Dumfries Infirmary,0,Isabel,0,2pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Wednesday 21st March </funeral_date>at <funeral_time>2pm</funeral_time>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired to <charity_name>the Stroke Ward (D7) at Dumfries Infirmary</charity_name> will be received at the service in memory of <nick_name>Isabel</nick_name>.
 </funeral_component>"
-0,0,0,0,1.30pm,0,0,0,0,0,Thursday 28th February,0,Portland Funeral Parlour,Kilmarnock Cemetery,0,"<funeral_component>
+0,Thursday 28th February,0,0,0,Kilmarnock Cemetery,0,0,0,0,1.30pm,0,0,Portland Funeral Parlour,0,"<funeral_component>
 Funeral service at <funeral_place>Portland Funeral Parlour</funeral_place> on <funeral_date>Thursday 28th February</funeral_date> at <funeral_time>1.30pm</funeral_time> followed by interment at <cemetery_place>Kilmarnock Cemetery</cemetery_place>
 </funeral_component>"
-0,Family flowers only,0,Accord Hospice,10.30am,0,0,0,0,0,Wednesday 29th May,all friends,Craigton Crematorium,0,0,"<funeral_component>
+0,Wednesday 29th May,0,all friends,0,0,Accord Hospice,0,0,0,10.30am,0,0,Craigton Crematorium,Family flowers only,"<funeral_component>
 Funeral Service, to which <guests_list>all friends</guests_list> are respectfully invited, to be held at <funeral_place>Craigton Crematorium</funeral_place> on <funeral_date>Wednesday 29th May</funeral_date> at <funeral_time>10.30am</funeral_time>. <flowers>Family flowers only</flowers>. Donations in lieu of flowers to <charity_name>Accord Hospice</charity_name>.
 </funeral_component>"
-0,0,British Legion Club Irvine,0,1.30pm,0,0,0,0,0,Thursday 13th April 2017,all,"R B Steele's, Ballot Road, Irvine","Kilmarnock Cemetery, Grassyards Road",2.30pm,"<funeral_component>
+2.30pm,Thursday 13th April 2017,British Legion Club Irvine,all,0,"Kilmarnock Cemetery, Grassyards Road",0,0,0,0,1.30pm,0,0,"R B Steele's, Ballot Road, Irvine",0,"<funeral_component>
 Funeral service will take place on <funeral_date>Thursday 13th April 2017</funeral_date> in <funeral_place>R B Steele's, Ballot Road, Irvine</funeral_place> at <funeral_time>1.30pm</funeral_time> and thereafter to <cemetery_place>Kilmarnock Cemetery, Grassyards Road</cemetery_place> for <cemetery_time>2.30pm</cemetery_time>. The family would then ask for you to join them at The <reception_place>British Legion Club Irvine</reception_place> thereafter, and <guests_list>all</guests_list> are welcome.
 </funeral_component>"
-0,Family flowers only,0,Macmillan Cancer Relief,1.00pm,0,0,0,0,0,Tuesday 26th February,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Tuesday 26th February,0,All friends,0,0,Macmillan Cancer Relief,0,0,0,1.00pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Funeral service will take place on <funeral_date>Tuesday 26th February</funeral_date> at <funeral_place>Roucan Loch Crematorium</funeral_place> at <funeral_time>1.00pm</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please. If so desired, donations to <charity_name>Macmillan Cancer Relief</charity_name> may be given at the service.
 </funeral_component>"
-0,0,0,0,1.30pm,0,0,0,0,0,Friday 3rd March 2017,0,Holytown Crematorium,0,0,"<funeral_component>
+0,Friday 3rd March 2017,0,0,0,0,0,0,0,0,1.30pm,0,0,Holytown Crematorium,0,"<funeral_component>
 Funeral service at <funeral_place>Holytown Crematorium</funeral_place> on <funeral_date>Friday 3rd March 2017</funeral_date> at <funeral_time>1.30pm</funeral_time>.
 </funeral_component>"
-0,No flowers,0,Kelton Parish Church,12.45pm,0,0,0,0,0,Friday 6th October,All friends,Kelton Parish Church,0,0,"<funeral_component>
+0,Friday 6th October,0,All friends,0,0,Kelton Parish Church,0,0,0,12.45pm,0,0,Kelton Parish Church,No flowers,"<funeral_component>
 Following a private cremation a service of thanksgiving will be held on <funeral_date>Friday 6th October</funeral_date> in <funeral_place>Kelton Parish Church</funeral_place> at <funeral_time>12.45pm</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>No flowers</flowers> please. If so desired, donations to <charity_name>Kelton Parish Church</charity_name> may be given at the service.
 </funeral_component>"
-0,Family flowers only,0,Alzheimer Scotland and Dumfries & Galloway Sands,2.30pm,0,0,0,0,0,today Wednesday 26th July,All friends,Dryfesdale Church Lockerbie,Roucan Loch Crematorium Dumfries,0,"<funeral_component>
+0,today Wednesday 26th July,0,All friends,0,Roucan Loch Crematorium Dumfries,Alzheimer Scotland and Dumfries & Galloway Sands,0,0,0,2.30pm,0,0,Dryfesdale Church Lockerbie,Family flowers only,"<funeral_component>
 Funeral service <funeral_date>today Wednesday 26th July</funeral_date> at <funeral_place>Dryfesdale Church Lockerbie</funeral_place> at <funeral_time>2.30pm</funeral_time>, thereafter to <cemetery_place>Roucan Loch Crematorium Dumfries</cemetery_place>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired to <charity_name>Alzheimer Scotland and Dumfries &amp; Galloway Sands</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,The Stroke Unit Crosshouse Hospital,2.00pm,0,0,0,0,0,Tuesday 14th June,all friends,"Kilmarnock Independent Funeral Parlour, Church Street, Kilmarnock","Holmsford Bridge Crematorium, Dreghorn",3.00pm,"<funeral_component>
+3.00pm,Tuesday 14th June,0,all friends,0,"Holmsford Bridge Crematorium, Dreghorn",The Stroke Unit Crosshouse Hospital,0,0,0,2.00pm,0,0,"Kilmarnock Independent Funeral Parlour, Church Street, Kilmarnock",Family flowers only,"<funeral_component>
 Funeral service will be held at <funeral_place>Kilmarnock Independent Funeral Parlour, Church Street, Kilmarnock</funeral_place> on <funeral_date>Tuesday 14th June</funeral_date> at <funeral_time>2.00pm</funeral_time>. Funeral thereafter to <cemetery_place>Holmsford Bridge Crematorium, Dreghorn</cemetery_place> for <cemetery_time>3.00pm</cemetery_time>, <guests_list>all friends</guests_list> are respectfully invited.<flowers>Family flowers only</flowers> please, in lieu, donations for <charity_name>The Stroke Unit Crosshouse Hospital</charity_name> would be appreciated.
 </funeral_component>"
-0,Family flowers only,0,Alzheimer Scotland,2pm,0,0,0,0,0,Friday 14th October,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Friday 14th October,0,all family and friends,0,0,Alzheimer Scotland,0,0,0,2pm,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 Funeral on <funeral_date>Friday 14th October</funeral_date> service in <funeral_place>Perth Crematorium</funeral_place> at <funeral_time>2pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please but if desired a retiring collection will be taken at the Crematorium for <charity_name>Alzheimer Scotland</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,0,1pm,0,0,0,0,0,Wednesday 15th November,all,West Lothian Crematorium,0,0,"<funeral_component>
+0,Wednesday 15th November,0,all,0,0,0,0,0,0,1pm,0,0,West Lothian Crematorium,Family flowers only,"<funeral_component>
 The Funeral service will be held on <funeral_date>Wednesday 15th November</funeral_date> at <funeral_time>1pm</funeral_time> at <funeral_place>West Lothian Crematorium</funeral_place>, to which <guests_list>all</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please as there will be a retiral collection in lieu of flowers.
 </funeral_component>"
-0,Family flowers only,0,Cancer Research UK,12 noon,0,0,0,Margaret,0,Tuesday 26th March,all friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Tuesday 26th March,0,all friends,0,0,Cancer Research UK,0,Margaret,0,12 noon,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Tuesday 26th March</funeral_date> at <funeral_time>12 noon</funeral_time> to which <guests_list>all friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please. Donations if desired for <charity_name>Cancer Research UK</charity_name> will be gratefully received in memory of <nick_name>Margaret</nick_name>.
 </funeral_component>"
-0,0,0,0,10am,0,0,0,Tom,0,Monday 11th November,all,West Lothian Crematorium,0,0,"<funeral_component>
+0,Monday 11th November,0,all,0,0,0,0,Tom,0,10am,0,0,West Lothian Crematorium,0,"<funeral_component>
 The funeral service will be held on <funeral_date>Monday 11th November</funeral_date> at <funeral_time>10am</funeral_time> at <funeral_place>West Lothian Crematorium</funeral_place> to which <guests_list>all</guests_list> are respectfully invited. Grateful thanks are extended to all who cared for <nick_name>Tom</nick_name> with such care and dignity.
 </funeral_component>"
-0,Family flowers only,0,Singleton Park Care Home (Residents Fund),12 noon,0,0,0,0,0,Monday 20th March,all friends,Wamphray Parish Church,Wamphray Churchyard Cemetery,0,"<funeral_component>
+0,Monday 20th March,0,all friends,0,Wamphray Churchyard Cemetery,Singleton Park Care Home (Residents Fund),0,0,0,12 noon,0,0,Wamphray Parish Church,Family flowers only,"<funeral_component>
 Service to be held in <funeral_place>Wamphray Parish Church</funeral_place> on <funeral_date>Monday 20th March</funeral_date> at <funeral_time>12 noon</funeral_time>, thereafter to <cemetery_place>Wamphray Churchyard Cemetery</cemetery_place> to which <guests_list>all friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired to <charity_name>Singleton Park Care Home (Residents Fund)</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,0,11.15am,0,0,0,0,0,Monday 2nd July,0,Masonhill Crematorium,0,0,"<funeral_component>
+0,Monday 2nd July,0,0,0,0,0,0,0,0,11.15am,0,0,Masonhill Crematorium,Family flowers only,"<funeral_component>
 The family will be celebrating his life at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Monday 2nd July</funeral_date> at <funeral_time>11.15am</funeral_time>. <flowers>Family flowers only</flowers> please.
 </funeral_component>"
-0,Family flowers only,0,F.V.R.H. Ward B12,10.45am,0,0,0,0,0,Friday 16th November,0,Falkirk Crematorium,0,0,"<funeral_component>
+0,Friday 16th November,0,0,0,0,F.V.R.H. Ward B12,0,0,0,10.45am,0,0,Falkirk Crematorium,Family flowers only,"<funeral_component>
 <flowers>Family flowers only</flowers> please but if desired donations kindly received will go to <charity_name>F.V.R.H. Ward B12</charity_name>. Funeral will take place on <funeral_date>Friday 16th November</funeral_date> at <funeral_place>Falkirk Crematorium</funeral_place> at <funeral_time>10.45am</funeral_time>
 </funeral_component>"
-0,Family flowers only,0,Marie Curie and Macmillan Nurses,2pm,0,0,0,Dougie,0,Tuesday 6th February 2018,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Tuesday 6th February 2018,0,All friends,0,0,Marie Curie and Macmillan Nurses,0,Dougie,0,2pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Tuesday 6th February 2018</funeral_date> at <funeral_time>2pm</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations if desired for the <charity_name>Marie Curie and Macmillan Nurses</charity_name> can be given at the service in memory of <nick_name>Dougie</nick_name>.
 </funeral_component>"
-0,0,0,0,9.30am,0,0,0,0,0,Thursday 14th March,All family and friends,0,Woodside Crematorium,0,"<funeral_component>
-Funeral Mass on <funeral_date>Thursday 14th March</funeral_date> at <funeral_time>9.30am</funeral_time> thereafter to <cemetery_place>Woodside Crematorium</cemetery_place>. <guests_list>All family and friends</guests_list> are respectfully invited.
+0,Thursday 14th March,Vigil at St. James RC Church Paisley,All family and friends,6pm,Woodside Crematorium,0,Wednesday 13th March,0,0,9.30am,0,0,0,0,"<funeral_component>
+Reception and <reception_place>Vigil at St. James RC Church Paisley</reception_place> on <reception_date>Wednesday 13th March</reception_date> at <reception_time>6pm</reception_time>. Funeral Mass on <funeral_date>Thursday 14th March</funeral_date> at <funeral_time>9.30am</funeral_time> thereafter to <cemetery_place>Woodside Crematorium</cemetery_place>. <guests_list>All family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,0,0,0,2.00pm,0,0,0,0,0,"today, Thursday 22nd March",All friends,Kirkcudbright Parish Church,St. Cuthbert's Churchyard,0,"<funeral_component>
+0,"today, Thursday 22nd March",0,All friends,0,St. Cuthbert's Churchyard,0,0,0,0,2.00pm,0,0,Kirkcudbright Parish Church,0,"<funeral_component>
 Funeral service will be held in <funeral_place>Kirkcudbright Parish Church</funeral_place> <funeral_date>today, Thursday 22nd March</funeral_date>, at <funeral_time>2.00pm</funeral_time>. followed by interment in <cemetery_place>St. Cuthbert's Churchyard</cemetery_place>. <guests_list>All friends</guests_list> are respectfully invited to attend.
 </funeral_component>"
-0,0,0,0,10.30,0,0,0,0,0,Tuesday 23rd October 2018,0,Masonhill Crematorium,0,0,"<funeral_component>
+0,Tuesday 23rd October 2018,0,0,0,0,0,0,0,0,10.30,0,0,Masonhill Crematorium,0,"<funeral_component>
 Funeral service will take place at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Tuesday 23rd October 2018</funeral_date> at <funeral_time>10.30</funeral_time>. Sadly missed by all.
 </funeral_component>"
-0,Family flowers only,0,John's chosen charities,11.30 a.m.,0,0,0,John,0,Monday 23rd January,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Monday 23rd January,0,all family and friends,0,0,John's chosen charities,0,John,0,11.30 a.m.,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 A celebration of <nick_name>John</nick_name>'s life will be held at <funeral_place>Perth Crematorium</funeral_place>, on <funeral_date>Monday 23rd January</funeral_date> at <funeral_time>11.30 a.m.</funeral_time>, to which <guests_list>all family and friends</guests_list> are welcome. <flowers>Family flowers only</flowers> please, but if so desired, donations may be given on leaving the crematorium for <charity_name>John's chosen charities</charity_name>.
 </funeral_component>"
-0,0,St. Mary's R.C. Church,0,9.30am,"Monday, 20th November",0,6.00pm,0,0,Tuesday 21st November,0,0,Kilbarchan Cemetery,0,"<funeral_component>
+0,Tuesday 21st November,St. Mary's R.C. Church,0,6.00pm,Kilbarchan Cemetery,0,"Monday, 20th November",0,0,9.30am,0,0,0,0,"<funeral_component>
 Fortified by Rites of the Holy Church R.I.P. Reception and Vigil prayers at <reception_place>St. Mary's R.C. Church</reception_place> on <reception_date>Monday, 20th November</reception_date> at <reception_time>6.00pm</reception_time>. Funeral Mass on <funeral_date>Tuesday 21st November</funeral_date> at <funeral_time>9.30am</funeral_time>, thereafter to <cemetery_place>Kilbarchan Cemetery</cemetery_place>.
 </funeral_component>"
-0,Family flowers only,0,British Heart Foundation,3pm,0,0,0,0,0,Thursday 10th November,all family and friends,Woodside Crematorium,0,0,"<funeral_component>
+0,Thursday 10th November,0,all family and friends,0,0,British Heart Foundation,0,0,0,3pm,0,0,Woodside Crematorium,Family flowers only,"<funeral_component>
 Funeral service, to which <guests_list>all family and friends</guests_list> are respectfully invited, at <funeral_place>Woodside Crematorium</funeral_place> on <funeral_date>Thursday 10th November</funeral_date> at <funeral_time>3pm</funeral_time>. <flowers>Family flowers only</flowers> please. Donations in lieu if desired to the <charity_name>British Heart Foundation</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,"RNLI may be sent to: R.W. Percival, Heath Street, Buxton, SK17 6LT. Tel: 01298 23056 www.percivalfunerals.co.uk",2pm,0,0,0,Margaret,0,"15th March, 2019",0,Macclesfield Crematorium,0,0,"<funeral_component>
+0,"15th March, 2019",0,0,0,0,"RNLI may be sent to: R.W. Percival, Heath Street, Buxton, SK17 6LT. Tel: 01298 23056 www.percivalfunerals.co.uk",0,Margaret,0,2pm,0,0,Macclesfield Crematorium,Family flowers only,"<funeral_component>
 Funeral Service to take place at <funeral_place>Macclesfield Crematorium</funeral_place> on <funeral_date>15th March, 2019</funeral_date> at <funeral_time>2pm</funeral_time>. <flowers>Family flowers only</flowers> please. Donations in memory of <nick_name>Margaret</nick_name> for <charity_name>RNLI may be sent to: R.W. Percival, Heath Street, Buxton, SK17 6LT. Tel: 01298 23056 www.percivalfunerals.co.uk</charity_name>
 </funeral_component>"
-0,Family flowers only,0,Kidney Association,10.30am,0,0,0,0,0,Friday 1st December,all friends,"Thomas Cuthell & Sons, Funeral Parlour, Broad Street, Denny",Hills of Dunipace Cemetery,11.15am,"<funeral_component>
+11.15am,Friday 1st December,0,all friends,0,Hills of Dunipace Cemetery,Kidney Association,0,0,0,10.30am,0,0,"Thomas Cuthell & Sons, Funeral Parlour, Broad Street, Denny",Family flowers only,"<funeral_component>
 Funeral service will be held at <funeral_place>Thomas Cuthell &amp; Sons, Funeral Parlour, Broad Street, Denny</funeral_place> on <funeral_date>Friday 1st December</funeral_date> at <funeral_time>10.30am</funeral_time>, to which <guests_list>all friends</guests_list> are respectfully invited, followed by interment at <cemetery_place>Hills of Dunipace Cemetery</cemetery_place>, arriving approximately <cemetery_time>11.15am</cemetery_time>. <flowers>Family flowers only</flowers> please as there will be a retiral collection for those wishing to donate to <charity_name>Kidney Association</charity_name>.
 </funeral_component>"
-0,0,0,Alzheimer's Scotland,11.00,0,0,0,0,0,Thursday 14th February,all relatives and friends,Allan Park South Church,St Thomas Cemetery,0,"<funeral_component>
+0,Thursday 14th February,0,all relatives and friends,0,St Thomas Cemetery,Alzheimer's Scotland,0,0,0,11.00,0,0,Allan Park South Church,0,"<funeral_component>
 Funeral service at the <funeral_place>Allan Park South Church</funeral_place> on <funeral_date>Thursday 14th February</funeral_date> at <funeral_time>11.00</funeral_time>. Thereafter to <cemetery_place>St Thomas Cemetery</cemetery_place> to which <guests_list>all relatives and friends</guests_list> are respectfully invited. Donations if so desired to <charity_name>Alzheimer's Scotland</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,Prostate Cancer research,10.00am,0,0,0,Jim,0,Thursday 5th April,all friends are,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Thursday 5th April,0,all friends are,0,0,Prostate Cancer research,0,Jim,0,10.00am,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Thursday 5th April</funeral_date> at <funeral_time>10.00am</funeral_time> to which <guests_list>all friends are</guests_list> respectfully invited. <flowers>Family flowers only</flowers> please. Donations if desired for <charity_name>Prostate Cancer research</charity_name> will be gratefully received in memory of <nick_name>Jim</nick_name>.
 </funeral_component>"
-0,0,0,0,2pm,0,0,0,0,0,Wednesday 3rd January 2018,all,Thomas Brown Service Room,Loaninghill Cemetery,2.45pm,"<funeral_component>
+2.45pm,Wednesday 3rd January 2018,0,all,0,Loaninghill Cemetery,0,0,0,0,2pm,0,0,Thomas Brown Service Room,0,"<funeral_component>
 Service to which <guests_list>all</guests_list> are welcome, will be held at <funeral_place>Thomas Brown Service Room</funeral_place> on <funeral_date>Wednesday 3rd January 2018</funeral_date> at <funeral_time>2pm</funeral_time>, thereafter to <cemetery_place>Loaninghill Cemetery</cemetery_place> at <cemetery_time>2.45pm</cemetery_time>.
 </funeral_component>"
-0,0,0,0,3:00pm,0,0,0,0,0,Thursday 7th February,all family and friends,Woodside Crematorium,0,0,"<funeral_component>
+0,Thursday 7th February,0,all family and friends,0,0,0,0,0,0,3:00pm,0,0,Woodside Crematorium,0,"<funeral_component>
 Funeral Service at <funeral_place>Woodside Crematorium</funeral_place> on <funeral_date>Thursday 7th February</funeral_date> at <funeral_time>3:00pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,0,0,0,11:45am,0,0,0,0,0,Wednesday 28th August,0,"St Maurs Glencairn Church, Kilmaurs","Masonhill Crematorium, Ayr",1:15pm,"<funeral_component>
+1:15pm,Wednesday 28th August,0,0,0,"Masonhill Crematorium, Ayr",0,0,0,0,11:45am,0,0,"St Maurs Glencairn Church, Kilmaurs",0,"<funeral_component>
 Funeral service on <funeral_date>Wednesday 28th August</funeral_date> at <funeral_place>St Maurs Glencairn Church, Kilmaurs</funeral_place> at <funeral_time>11:45am</funeral_time>. Thereafter, at <cemetery_place>Masonhill Crematorium, Ayr</cemetery_place>, at <cemetery_time>1:15pm</cemetery_time>. Sleep tight.
 </funeral_component>"
-0,Family flowers only,0,Charity,11am,0,0,0,Bobby,0,Thursday 13th July,All friends,the Crichton Memorial Church,Roucan Loch Crematorium,0,"<funeral_component>
+0,Thursday 13th July,0,All friends,0,Roucan Loch Crematorium,Charity,0,Bobby,0,11am,0,0,the Crichton Memorial Church,Family flowers only,"<funeral_component>
 Service at <funeral_place>the Crichton Memorial Church</funeral_place> on <funeral_date>Thursday 13th July</funeral_date> at <funeral_time>11am</funeral_time>. Cremation thereafter at <cemetery_place>Roucan Loch Crematorium</cemetery_place>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations if desired to <charity_name>Charity</charity_name> will be received at the service in memory of <nick_name>Bobby</nick_name>.
 </funeral_component>"
-0,Family flowers only,0,Access Adventure,12noon,0,0,0,0,0,Monday 13th February,all friends,"Roucan Loch Crematorium, Dumfries",0,0,"<funeral_component>
+0,Monday 13th February,0,all friends,0,0,Access Adventure,0,0,0,12noon,0,0,"Roucan Loch Crematorium, Dumfries",Family flowers only,"<funeral_component>
 Funeral will be held on <funeral_date>Monday 13th February</funeral_date> at <funeral_time>12noon</funeral_time> at <funeral_place>Roucan Loch Crematorium, Dumfries</funeral_place> to which <guests_list>all friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers>. A retiral collection will be offered for <charity_name>Access Adventure</charity_name>.
 </funeral_component>"
-0,0,0,0,10am,0,0,0,0,0,Monday 19th June,All,St. Leonards RC Church,South Lanarkshire Crematorium,11am,"<funeral_component>
+11am,Monday 19th June,0,All,0,South Lanarkshire Crematorium,0,0,0,0,10am,0,0,St. Leonards RC Church,0,"<funeral_component>
 Funeral service will take place at <funeral_place>St. Leonards RC Church</funeral_place> on <funeral_date>Monday 19th June</funeral_date>, at <funeral_time>10am</funeral_time>, then a committal at <cemetery_place>South Lanarkshire Crematorium</cemetery_place> at <cemetery_time>11am</cemetery_time>. <guests_list>All</guests_list> Welcome.
 </funeral_component>"
-Mary,Family flowers only,0,Crossroads Care,11.15am,0,0,0,0,0,Monday 5th June,All friends,Thornhill Parish Church,Morton Cemetery,0,"<funeral_component>
+0,Monday 5th June,0,All friends,0,Morton Cemetery,Crossroads Care,0,0,0,11.15am,Mary,0,Thornhill Parish Church,Family flowers only,"<funeral_component>
 Service at <funeral_place>Thornhill Parish Church</funeral_place> on <funeral_date>Monday 5th June</funeral_date> at <funeral_time>11.15am</funeral_time> followed by interment at <cemetery_place>Morton Cemetery</cemetery_place>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please. A retiring collection will be taken for <charity_name>Crossroads Care</charity_name> in memory of <name>Mary</name> at the service.
 </funeral_component>"
-0,Family flowers only,0,Cancer Research,0,0,0,0,John,0,0,All friends,Dumfries High Cemetery,0,0,"<funeral_component>
-Funeral thereafter to <funeral_place>Dumfries High Cemetery</funeral_place>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired for <charity_name>Cancer Research</charity_name> can be given at the service in memory of <nick_name>John</nick_name>.
+0,"today, Friday 9th February",0,All friends,0,Dumfries High Cemetery,Cancer Research,0,John,0,9.30am,0,0,"William Jardine Chapel of Rest, 23 Terregles Street, Dumfries",Family flowers only,"<funeral_component>
+Service at <funeral_place>William Jardine Chapel of Rest, 23 Terregles Street, Dumfries</funeral_place> <funeral_date>today, Friday 9th February</funeral_date>, at <funeral_time>9.30am</funeral_time>, thereafter to <cemetery_place>Dumfries High Cemetery</cemetery_place>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired for <charity_name>Cancer Research</charity_name> can be given at the service in memory of <nick_name>John</nick_name>.
 </funeral_component>"
-0,Family flowers only,0,0,3pm,0,0,0,0,0,Thursday 4th May,0,West Lothian Crematorium,0,0,"<funeral_component>
+0,Thursday 4th May,0,0,0,0,0,0,0,0,3pm,0,0,West Lothian Crematorium,Family flowers only,"<funeral_component>
 Funeral on <funeral_date>Thursday 4th May</funeral_date>, <funeral_time>3pm</funeral_time> at <funeral_place>West Lothian Crematorium</funeral_place>. <flowers>Family flowers only</flowers> please.
 </funeral_component>"
-0,0,0,all friends,4pm,0,0,0,0,0,Tuesday 23rd January,0,Woodside Crematorium,0,0,"<funeral_component>
+0,Tuesday 23rd January,0,0,0,0,all friends,0,0,0,4pm,0,0,Woodside Crematorium,0,"<funeral_component>
 Funeral service at <funeral_place>Woodside Crematorium</funeral_place> on <funeral_date>Tuesday 23rd January</funeral_date> at <funeral_time>4pm</funeral_time>, to which <charity_name>all friends</charity_name> are respectfully invited.
 </funeral_component>"
-0,Family flowers only,0,Alzheimer Scotland,11.00am,0,0,0,0,0,Tuesday 2nd April,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Tuesday 2nd April,0,All friends,0,0,Alzheimer Scotland,0,0,0,11.00am,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Funeral service will take place on <funeral_date>Tuesday 2nd April</funeral_date> in <funeral_place>Roucan Loch Crematorium</funeral_place> at <funeral_time>11.00am</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please. If so desired, donations to <charity_name>Alzheimer Scotland</charity_name> may be given at the service.
 </funeral_component>"
-Jennifer,Family flowers only,0,Marie Curie,11am,0,0,0,0,0,Friday 25th May,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Friday 25th May,0,All friends,0,0,Marie Curie,0,0,0,11am,Jennifer,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Friday 25th May</funeral_date> at <funeral_time>11am</funeral_time>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations if desired can be given at the service for <charity_name>Marie Curie</charity_name> in memory of <name>Jennifer</name>.
 </funeral_component>"
-0,Family Flowers only,0,The Ayrshire Hospice,11.30 am,0,0,0,0,0,Friday 25th January,all family and friends,"Kay Park Parish Church, Kilmarnock","Masonhill Crematorium, Ayr",13.15pm,"<funeral_component>
+13.15pm,Friday 25th January,0,all family and friends,0,"Masonhill Crematorium, Ayr",The Ayrshire Hospice,0,0,0,11.30 am,0,0,"Kay Park Parish Church, Kilmarnock",Family Flowers only,"<funeral_component>
 Funeral service to which <guests_list>all family and friends</guests_list> are respectfully invited at <funeral_place>Kay Park Parish Church, Kilmarnock</funeral_place> on <funeral_date>Friday 25th January</funeral_date> at <funeral_time>11.30 am</funeral_time>, thereafter to <cemetery_place>Masonhill Crematorium, Ayr</cemetery_place> at <cemetery_time>13.15pm</cemetery_time>. <flowers>Family Flowers only</flowers> please. A collection will be taken on retiral for <charity_name>The Ayrshire Hospice</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,Prostate Cancer UK,3.00pm,0,0,0,0,0,Tuesday 6th November,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Tuesday 6th November,0,all family and friends,0,0,Prostate Cancer UK,0,0,0,3.00pm,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 Funeral on <funeral_date>Tuesday 6th November</funeral_date>, service in <funeral_place>Perth Crematorium</funeral_place> at <funeral_time>3.00pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please but if desired a retiring collection will be taken for <charity_name>Prostate Cancer UK</charity_name>.
 </funeral_component>"
-0,0,0,0,3pm,0,0,0,0,0,Wednesday 10th January,all family and friends,Woodside Crematorium,0,0,"<funeral_component>
+0,Wednesday 10th January,0,all family and friends,0,0,0,0,0,0,3pm,0,0,Woodside Crematorium,0,"<funeral_component>
 Funeral Service to which <guests_list>all family and friends</guests_list> are respectfully invited at <funeral_place>Woodside Crematorium</funeral_place>, on <funeral_date>Wednesday 10th January</funeral_date> at <funeral_time>3pm</funeral_time>.
 </funeral_component>"
-0,0,0,Strathcarron Hospice,12 noon,0,0,0,0,0,Thursday 1st February,all relatives and friends,Our Lady & St. Ninians R.C. Church,Bannockburn Cemetery,0,"<funeral_component>
+0,Thursday 1st February,0,all relatives and friends,0,Bannockburn Cemetery,Strathcarron Hospice,0,0,0,12 noon,0,0,Our Lady & St. Ninians R.C. Church,0,"<funeral_component>
 Funeral service at <funeral_place>Our Lady &amp; St. Ninians R.C. Church</funeral_place> on <funeral_date>Thursday 1st February</funeral_date> at <funeral_time>12 noon</funeral_time>, thereafter to <cemetery_place>Bannockburn Cemetery</cemetery_place>, to which <guests_list>all relatives and friends</guests_list> are respectfully invited. Donations in lieu of flowers to <charity_name>Strathcarron Hospice</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,The Guide Dogs for the Blind,12.30pm,0,0,0,0,0,Thursday 7th February,all family and friends,Perth Crematorium,0,0,"<funeral_component>
+0,Thursday 7th February,0,all family and friends,0,0,The Guide Dogs for the Blind,0,0,0,12.30pm,0,0,Perth Crematorium,Family flowers only,"<funeral_component>
 Funeral on <funeral_date>Thursday 7th February</funeral_date>, service in <funeral_place>Perth Crematorium</funeral_place> at <funeral_time>12.30pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please, but if desired a retiring collection will be taken at the crematorium for <charity_name>The Guide Dogs for the Blind</charity_name>.
 </funeral_component>"
-0,0,0,0,12 noon,0,0,0,0,0,Thursday 27th June 2019,all family and friends,0,Woodside Crematorium,0,"<funeral_component>
+0,Thursday 27th June 2019,0,all family and friends,0,Woodside Crematorium,0,0,0,0,12 noon,0,0,0,0,"<funeral_component>
 Funeral service to which <guests_list>all family and friends</guests_list> are welcome will take place at <cemetery_place>Woodside Crematorium</cemetery_place> on <funeral_date>Thursday 27th June 2019</funeral_date> at <funeral_time>12 noon</funeral_time>.
 </funeral_component>"
-0,Family flowers only,0,British Heart Foundation,3pm,0,0,0,David,0,"today, Friday 25th August",All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,"today, Friday 25th August",0,All friends,0,0,British Heart Foundation,0,David,0,3pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> <funeral_date>today, Friday 25th August</funeral_date>, at <funeral_time>3pm</funeral_time>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations if desired to the <charity_name>British Heart Foundation</charity_name> will be received at the service in memory of <nick_name>David</nick_name>.
 </funeral_component>"
-0,0,0,0,12.30pm,0,0,0,0,0,Monday 11th June 2018,0,Holmsford Bridge Crematorium,0,0,"<funeral_component>
+0,Monday 11th June 2018,0,0,0,0,0,0,0,0,12.30pm,0,0,Holmsford Bridge Crematorium,0,"<funeral_component>
 Funeral Service on <funeral_date>Monday 11th June 2018</funeral_date> at <funeral_place>Holmsford Bridge Crematorium</funeral_place> at <funeral_time>12.30pm</funeral_time>.
 </funeral_component>"
-0,Family flowers only,0,Richmond House Care Home Fund,11.00am,0,0,0,0,0,Monday 3rd July,all friends,Crieff Parish Church,0,0,"<funeral_component>
+0,Monday 3rd July,0,all friends,0,0,Richmond House Care Home Fund,0,0,0,11.00am,0,0,Crieff Parish Church,Family flowers only,"<funeral_component>
 Funeral service, to which <guests_list>all friends</guests_list> are respectfully invited, at <funeral_place>Crieff Parish Church</funeral_place>, on <funeral_date>Monday 3rd July</funeral_date> at <funeral_time>11.00am</funeral_time>. Private cremation thereafter. <flowers>Family flowers only</flowers> please, but donations may be given at the Church door, if so desired, in aid of <charity_name>Richmond House Care Home Fund</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,0,11.00am,0,0,0,David,0,Friday 18th October 2019,All friends,St John's Church,Roucan Loch Crematorium,2.00pm,"<funeral_component>
+2.00pm,Friday 18th October 2019,0,All friends,0,Roucan Loch Crematorium,0,0,David,0,11.00am,0,0,St John's Church,Family flowers only,"<funeral_component>
 Service at <funeral_place>St John's Church</funeral_place> on <funeral_date>Friday 18th October 2019</funeral_date> at <funeral_time>11.00am</funeral_time>. Committal thereafter to <cemetery_place>Roucan Loch Crematorium</cemetery_place> at <cemetery_time>2.00pm</cemetery_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired can be given at the service in memory of <nick_name>David</nick_name>.
 </funeral_component>"
-0,Family flowers only,0,Chest Heart and Stroke Scotland,11.15am,0,0,0,0,0,Tuesday 13th August 2019,0,Masonhill Crematorium,0,0,"<funeral_component>
+0,Tuesday 13th August 2019,0,0,0,0,Chest Heart and Stroke Scotland,0,0,0,11.15am,0,0,Masonhill Crematorium,Family flowers only,"<funeral_component>
 The funeral service will take place at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Tuesday 13th August 2019</funeral_date> at <funeral_time>11.15am</funeral_time>. <flowers>Family flowers only</flowers> please, in lieu of flowers donations to <charity_name>Chest Heart and Stroke Scotland</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,Alzheimer Scotland,2.00pm,0,0,0,0,0,Tuesday 8th November,all relatives and friends,Masonhill Crematorium,0,0,"<funeral_component>
+0,Tuesday 8th November,0,all relatives and friends,0,0,Alzheimer Scotland,0,0,0,2.00pm,0,0,Masonhill Crematorium,Family flowers only,"<funeral_component>
 Funeral service at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Tuesday 8th November</funeral_date> at <funeral_time>2.00pm</funeral_time>, to which <guests_list>all relatives and friends</guests_list> are respectfully invited. <flowers>Family flowers only</flowers> please. Donations, if desired, to <charity_name>Alzheimer Scotland</charity_name>.
 </funeral_component>"
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"<funeral_component>
 For funeral arrangements, please contact David Henderson-Lloyd Funeral Directors on 01786 813231. Family flowers only please, donations if desired, to be given to F.V.R.H. Stroke and Heart Unit.
 </funeral_component>"
-0,0,0,0,10am,0,0,0,0,0,Friday 10th May,all friends,St. Matthews Church,Kilmarnock Cemetery,11.15am,"<funeral_component>
+11.15am,Friday 10th May,0,all friends,0,Kilmarnock Cemetery,0,0,0,0,10am,0,0,St. Matthews Church,0,"<funeral_component>
 Service at <funeral_place>St. Matthews Church</funeral_place> on <funeral_date>Friday 10th May</funeral_date> at <funeral_time>10am</funeral_time> funeral thereafter to <cemetery_place>Kilmarnock Cemetery</cemetery_place> arriving at <cemetery_time>11.15am</cemetery_time> to which <guests_list>all friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,Family flowers only,0,0,12.30pm,0,0,0,0,0,Wednesday 8th November 2017,All,"Mortonhall Crematorium, Edinburgh",0,0,"<funeral_component>
+0,Wednesday 8th November 2017,0,All,0,0,0,0,0,0,12.30pm,0,0,"Mortonhall Crematorium, Edinburgh",Family flowers only,"<funeral_component>
 Funeral service to be held at <funeral_time>12.30pm</funeral_time>, on <funeral_date>Wednesday 8th November 2017</funeral_date> at <funeral_place>Mortonhall Crematorium, Edinburgh</funeral_place>. <guests_list>All</guests_list> welcome. <flowers>Family flowers only</flowers>.
 </funeral_component>"
-0,0,St. Michael's Church,0,10.00 a.m.,Wednesday 3rd April,0,6.30 p.m.,0,0,Thursday 4th,0,0,Dumbarton Cemetery,0,"<funeral_component>
+0,Thursday 4th,St. Michael's Church,0,6.30 p.m.,Dumbarton Cemetery,0,Wednesday 3rd April,0,0,10.00 a.m.,0,0,0,0,"<funeral_component>
 Reception and Vigil at <reception_place>St. Michael's Church</reception_place> on <reception_date>Wednesday 3rd April</reception_date> at <reception_time>6.30 p.m.</reception_time> Funeral Mass on <funeral_date>Thursday 4th</funeral_date> at <funeral_time>10.00 a.m.</funeral_time> thereafter to <cemetery_place>Dumbarton Cemetery</cemetery_place>.
 </funeral_component>"
-0,family flowers only,0,The Ayrshire Hospice,3.30pm,0,0,0,0,0,Friday 19th October,all family and friends,Masonhill Crematorium,0,0,"<funeral_component>
+0,Friday 19th October,0,all family and friends,0,0,The Ayrshire Hospice,0,0,0,3.30pm,0,0,Masonhill Crematorium,family flowers only,"<funeral_component>
 Funeral service shall take place at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Friday 19th October</funeral_date> at <funeral_time>3.30pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited, <flowers>family flowers only</flowers> there will be a retiral collection in lieu of flowers if desired to <charity_name>The Ayrshire Hospice</charity_name>.
 </funeral_component>"
-0,0,0,0,1.15pm,0,0,0,0,0,Friday 5th January 2018,All family and friends,"Masonhill Crematorium, Ayr",0,0,"<funeral_component>
+0,Friday 5th January 2018,0,All family and friends,0,0,0,0,0,0,1.15pm,0,0,"Masonhill Crematorium, Ayr",0,"<funeral_component>
 Funeral service at <funeral_place>Masonhill Crematorium, Ayr</funeral_place> on <funeral_date>Friday 5th January 2018</funeral_date> at <funeral_time>1.15pm</funeral_time>. <guests_list>All family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,0,0,0,12.30pm,0,0,0,0,0,Monday 14th October 2019,all family and friends,"Holmsford Bridge Crematorium, Dreghorn",0,0,"<funeral_component>
+0,Monday 14th October 2019,0,all family and friends,0,0,0,0,0,0,12.30pm,0,0,"Holmsford Bridge Crematorium, Dreghorn",0,"<funeral_component>
 Funeral service will be held on <funeral_date>Monday 14th October 2019</funeral_date> at <funeral_place>Holmsford Bridge Crematorium, Dreghorn</funeral_place> at <funeral_time>12.30pm</funeral_time> to which <guests_list>all family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,0,0,0,12 noon,0,0,0,0,0,Tuesday 1 May,0,Masonhill Crematorium,0,0,"<funeral_component>
+0,Tuesday 1 May,0,0,0,0,0,0,0,0,12 noon,0,0,Masonhill Crematorium,0,"<funeral_component>
 Funeral service at <funeral_place>Masonhill Crematorium</funeral_place> on <funeral_date>Tuesday 1 May</funeral_date> at <funeral_time>12 noon</funeral_time>.
 </funeral_component>"
-0,0,Our Lady of Lourdes R.C. Church,0,11.00am,"Wednesday, 29th June 2016",0,7.00pm,0,0,"Thursday, 30th June",0,0,Philipshill Cemetery,0,"<funeral_component>
+0,"Thursday, 30th June",Our Lady of Lourdes R.C. Church,0,7.00pm,Philipshill Cemetery,0,"Wednesday, 29th June 2016",0,0,11.00am,0,0,0,0,"<funeral_component>
 Reception and Vigil will take place on <reception_date>Wednesday, 29th June 2016</reception_date>, at <reception_place>Our Lady of Lourdes R.C. Church</reception_place>, at <reception_time>7.00pm</reception_time>. Requiem Mass at <funeral_time>11.00am</funeral_time>, on <funeral_date>Thursday, 30th June</funeral_date> and thereafter at <cemetery_place>Philipshill Cemetery</cemetery_place>.
 </funeral_component>"
-0,Family flowers only,0,0,11.00am,0,0,0,0,0,Friday 30th November,all,"Woodside Crematorium, Paisley",0,0,"<funeral_component>
+0,Friday 30th November,0,all,0,0,0,0,0,0,11.00am,0,0,"Woodside Crematorium, Paisley",Family flowers only,"<funeral_component>
 Funeral service to which <guests_list>all</guests_list> are invited at <funeral_place>Woodside Crematorium, Paisley</funeral_place> on <funeral_date>Friday 30th November</funeral_date> at <funeral_time>11.00am</funeral_time>. <flowers>Family flowers only</flowers> please.
 </funeral_component>"
-0,0,0,Dementia Scotland,12 noon,0,0,0,0,0,Thursday 17th May,0,"Our Lady & St. Ninians Catholic Church, Bannockburn","St. Thomas Cemetery, Cambusbarron",0,"<funeral_component>
+0,Thursday 17th May,0,0,0,"St. Thomas Cemetery, Cambusbarron",Dementia Scotland,0,0,0,12 noon,0,0,"Our Lady & St. Ninians Catholic Church, Bannockburn",0,"<funeral_component>
 Funeral service on <funeral_date>Thursday 17th May</funeral_date> at <funeral_place>Our Lady &amp; St. Ninians Catholic Church, Bannockburn</funeral_place> at <funeral_time>12 noon</funeral_time>, thereafter to <cemetery_place>St. Thomas Cemetery, Cambusbarron</cemetery_place>. There will be a retiral collection in aid of <charity_name>Dementia Scotland</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,The British Heart Foundation,12noon,0,0,0,0,0,Wednesday 5th June,all friends and family,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Wednesday 5th June,0,all friends and family,0,0,The British Heart Foundation,0,0,0,12noon,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Funeral will be held on <funeral_date>Wednesday 5th June</funeral_date> at <funeral_place>Roucan Loch Crematorium</funeral_place> at <funeral_time>12noon</funeral_time> to which <guests_list>all friends and family</guests_list> are invited to attend. <flowers>Family flowers only</flowers> please, donations if desired to <charity_name>The British Heart Foundation</charity_name>.
 </funeral_component>"
-0,Family flowers only,0,Strathcarron Hospice and Beatson Cancer Care,1pm,0,0,0,0,0,Friday 5th May,0,Bonnybridge St. Helen's Parish Church,0,0,"<funeral_component>
+0,Friday 5th May,0,0,0,0,Strathcarron Hospice and Beatson Cancer Care,0,0,0,1pm,0,0,Bonnybridge St. Helen's Parish Church,Family flowers only,"<funeral_component>
 Funeral service will be held at <funeral_place>Bonnybridge St. Helen's Parish Church</funeral_place> on <funeral_date>Friday 5th May</funeral_date> at <funeral_time>1pm</funeral_time>. <flowers>Family flowers only</flowers> please, donations would be appreciated to <charity_name>Strathcarron Hospice and Beatson Cancer Care</charity_name>.
 </funeral_component>"
-0,Family flowers only,0, ,3.00pm,0,0,0,Jim,0,Friday 5th July 2019,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Friday 5th July 2019,0,All friends,0,0, ,0,Jim,0,3.00pm,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Friday 5th July 2019</funeral_date> at <funeral_time>3.00pm</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend. <flowers>Family flowers only</flowers> please, donations if desired can be given<charity_name> </charity_name>at the service in memory of <nick_name>Jim</nick_name>.
 </funeral_component>"
-0,No flowers,0,0,2pm,0,0,0,0,0,Friday 23rd June,all,West Lothian Crematorium,0,0,"<funeral_component>
+0,Friday 23rd June,0,all,0,0,0,0,0,0,2pm,0,0,West Lothian Crematorium,No flowers,"<funeral_component>
 Sadly missed. Funeral service to be held at <funeral_place>West Lothian Crematorium</funeral_place> on <funeral_date>Friday 23rd June</funeral_date> <funeral_time>2pm</funeral_time>, which <guests_list>all</guests_list> are welcome. <flowers>No flowers</flowers> please.
 </funeral_component>"
-0,0,0,Camphill Blair Drummond,11.00am,0,0,0,0,kilts,Tuesday August 15th 2017,all friends,"Ardoch Parish Church, Braco",Braco New Cemetery,0,"<funeral_component>
+0,Tuesday August 15th 2017,0,all friends,0,Braco New Cemetery,Camphill Blair Drummond,0,0,kilts,11.00am,0,0,"Ardoch Parish Church, Braco",0,"<funeral_component>
 Funeral service at <funeral_place>Ardoch Parish Church, Braco</funeral_place> on <funeral_date>Tuesday August 15th 2017</funeral_date> at <funeral_time>11.00am</funeral_time>, interment thereafter at <cemetery_place>Braco New Cemetery</cemetery_place>, <guests_list>all friends</guests_list> respectfully invited (<funeral_attire>kilts</funeral_attire> welcome). Donations if so desired to <charity_name>Camphill Blair Drummond</charity_name>.
 </funeral_component>"
-0,0,0,0,11.15am,0,0,0,0,0,Saturday 13th January,All family and friends,Falkirk Crematorium,0,0,"<funeral_component>
+0,Saturday 13th January,0,All family and friends,0,0,0,0,0,0,11.15am,0,0,Falkirk Crematorium,0,"<funeral_component>
 Funeral service at <funeral_place>Falkirk Crematorium</funeral_place> on <funeral_date>Saturday 13th January</funeral_date> at <funeral_time>11.15am</funeral_time>. <guests_list>All family and friends</guests_list> welcome.
 </funeral_component>"
-0,0,0,Multiple Sclerosis Society Scotland,1pm,0,0,0,0,0,Monday 15th October,0,Woodside Crematorium,0,0,"<funeral_component>
+0,Monday 15th October,0,0,0,0,Multiple Sclerosis Society Scotland,0,0,0,1pm,0,0,Woodside Crematorium,0,"<funeral_component>
 Funeral Service at <funeral_place>Woodside Crematorium</funeral_place> on <funeral_date>Monday 15th October</funeral_date> at <funeral_time>1pm</funeral_time>. Donations in lieu of flowers, if so desired to <charity_name>Multiple Sclerosis Society Scotland</charity_name>.
 </funeral_component>"
-0,0,0,Thrombosis UK,12 noon,0,0,0,0,0,Thursday 6th September,all relatives and friends,The Allan Church,Bannockburn Cemetery,0,"<funeral_component>
+0,Thursday 6th September,0,all relatives and friends,0,Bannockburn Cemetery,Thrombosis UK,0,0,0,12 noon,0,0,The Allan Church,0,"<funeral_component>
 Funeral service at <funeral_place>The Allan Church</funeral_place>, on <funeral_date>Thursday 6th September</funeral_date> at <funeral_time>12 noon</funeral_time>, thereafter to <cemetery_place>Bannockburn Cemetery</cemetery_place>, to which <guests_list>all relatives and friends</guests_list> are respectfully invited. Donations if so desired to <charity_name>Thrombosis UK</charity_name>.
 </funeral_component>"
-0,0,0,0,12.00 noon,0,0,0,0,0,"Wednesday, 6th November 2019",All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,"Wednesday, 6th November 2019",0,All friends,0,0,0,0,0,0,12.00 noon,0,0,Roucan Loch Crematorium,0,"<funeral_component>
 Service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Wednesday, 6th November 2019</funeral_date> at <funeral_time>12.00 noon</funeral_time>. <guests_list>All friends</guests_list> are respectfully invited to attend.
 </funeral_component>"
-0,0,Church,0,9.30am,Thursday 11th May,0,4pm,0,0,Friday 12th May,0,"St. Peter's RC Church, Carmondean","Boghead Cemetery, Bathgate",11am,"<funeral_component>
+11am,Friday 12th May,Church,0,4pm,"Boghead Cemetery, Bathgate",0,Thursday 11th May,0,0,9.30am,0,0,"St. Peter's RC Church, Carmondean",0,"<funeral_component>
 Funeral Mass at <funeral_place>St. Peter's RC Church, Carmondean</funeral_place> on <funeral_date>Friday 12th May</funeral_date> at <funeral_time>9.30am</funeral_time>, thereafter to <cemetery_place>Boghead Cemetery, Bathgate</cemetery_place>, arriving <cemetery_time>11am</cemetery_time>. Reception into <reception_place>Church</reception_place> on <reception_date>Thursday 11th May</reception_date>, at <reception_time>4pm</reception_time>.
 </funeral_component>"
-0,0,0,0,10am,0,0,0,0,0,Saturday 6th October,all family and friends,Dunblane Cathedral,Dunblane New Cemetery,0,"<funeral_component>
+0,Saturday 6th October,0,all family and friends,0,Dunblane New Cemetery,0,0,0,0,10am,0,0,Dunblane Cathedral,0,"<funeral_component>
 Funeral service in <funeral_place>Dunblane Cathedral</funeral_place> on <funeral_date>Saturday 6th October</funeral_date> at <funeral_time>10am</funeral_time> followed by an interment thereafter in <cemetery_place>Dunblane New Cemetery</cemetery_place>, to which <guests_list>all family and friends</guests_list> are respectfully invited.
 </funeral_component>"
-0,Family flowers only,0,Beatson Cancer Charity and Dumfries & Galloway Canine Rescue Centre,10.30am,0,0,0,0,0,Friday 24th June,All friends,Roucan Loch Crematorium,0,0,"<funeral_component>
+0,Friday 24th June,0,All friends,0,0,Beatson Cancer Charity and Dumfries & Galloway Canine Rescue Centre,0,0,0,10.30am,0,0,Roucan Loch Crematorium,Family flowers only,"<funeral_component>
 Funeral service at <funeral_place>Roucan Loch Crematorium</funeral_place> on <funeral_date>Friday 24th June</funeral_date> at <funeral_time>10.30am</funeral_time>. <guests_list>All friends</guests_list> respectfully invited to attend. <flowers>Family flowers only</flowers> please. Donations in lieu if desired to <charity_name>Beatson Cancer Charity and Dumfries &amp; Galloway Canine Rescue Centre</charity_name>.
 </funeral_component>"
-0,0,0,0,3pm,0,0,0,0,0,Thursday 20th April 2017,all friends,"Woodside Crematorium, Paisley",0,0,"<funeral_component>
+0,Thursday 20th April 2017,0,all friends,0,0,0,0,0,0,3pm,0,0,"Woodside Crematorium, Paisley",0,"<funeral_component>
 Funeral Service to which <guests_list>all friends</guests_list> are respectfully invited at <funeral_place>Woodside Crematorium, Paisley</funeral_place> on <funeral_date>Thursday 20th April 2017</funeral_date> at <funeral_time>3pm</funeral_time>.
 </funeral_component>"
