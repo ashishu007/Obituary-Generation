@@ -30,7 +30,9 @@
 - ~~Similarity measure in component retrieval.~~ **Done**
 - Edge cases:
    - Orthology: Things like one full stops only (mostly occurs in `component-retrieval`).
+      - Possible solution: Deep learning based solution adaptaion.
    - ~~Morphology: Things like appropriate use of 'he' or 'she'.~~ **Done**
+      - ~~Possible solution: Adding the rule-based error handling.~~ **Done**
    - Modify the feature list to handle edge-cases with a special care for _relations_ section.
 - Maybe break the obituary into two sections, 'funeral' and 'non-funeral', for sending it back.
 - Try to add message about previous life.
