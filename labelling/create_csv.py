@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import jsonlines, re, string
+import jsonlines, re
 from bs4 import BeautifulSoup
 
 infile = open("./resources/xml-tagged.xml","r")
