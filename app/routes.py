@@ -1,3 +1,5 @@
+# File to define all the routes available in flask app
+
 from app import app
 from flask import render_template, request
 from app.messages.main import return_comp_messages, return_basic_msgs
@@ -7,19 +9,23 @@ from app.models import Features
 from app import db
 from datetime import datetime
 
+# Show the input form
 @app.route('/')
 def hello_world():
     return render_template("index.html")
 
+# After getting the input values in the form, show the output
 @app.route('/result', methods=['POST','GET'])
 def send_obits():
+    # get the values from form
     if request.method == 'POST':
         result = request.form
+        # convert the ImmutableDict into dictionary object for better handling
         r = result.to_dict(flat=False)
         print(r)
 
+    # store all the features as attribute-value pairs in one dictionary
     ftrs = {}
-
     for key, val in r.items():
         if len(val[0]) != 0:
             if key == "demise_date" or key == "funeral_date":
@@ -30,6 +36,7 @@ def send_obits():
             else:
                 ftrs[key] = val[0]
 
+    # add the gender specific relation values in features dictionary
     if ftrs["gender"] == "M":
         print("inside if M")
         if "spouse_name" in list(ftrs.keys()):
@@ -62,6 +69,7 @@ def send_obits():
 
     print(ftrs)
 
+    # check for the retrieval method 
     if r["ret_met"][0] == "basic":
         print("Its basic")
         lst = return_basic_msgs(ftrs)

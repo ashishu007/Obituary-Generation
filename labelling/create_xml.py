@@ -1,13 +1,17 @@
+# create the xml file from jsonlines file
+
 import pandas as pd
 import numpy as np
 import jsonlines, re, string
 from bs4 import BeautifulSoup
 
+# load the jsonlines file
 objs = []
 with jsonlines.open('./resources/tagged.json1') as reader:
     for obj in reader:
         objs.append(obj)
 
+# extract only labels and text for each object in the file
 li = []
 for i in objs:
     di = {
@@ -16,6 +20,7 @@ for i in objs:
     }
     li.append(di)
 
+# for each text in the add the xml tags before and after the feature valuue 
 new_list = []
 for i in li:
     t = i

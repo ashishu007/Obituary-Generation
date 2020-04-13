@@ -1,3 +1,7 @@
+# generate the funeral component text
+# input: dictionary of features
+# output: four generated messages
+
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
@@ -5,40 +9,37 @@ import re
 
 def funeral_component(features):
     funeral_strings = []
-    # funeral_string = ""
+    # print(features)
 
-    print(features)
-
+    # load the case-base for funeral component
     df = pd.read_csv('./app/messages/data/funeral_component.csv')
     key_vals = list(df)
     key_vals.remove('text')
     # print(key_vals)
     # print(features.keys())
     
-    scores = []
-    
+    # apply the similarity measure and rank the samples in case-base 
+    # according to decreasing order of their similarity with the input features
+    scores = []    
     for i in range(len(df)):
         # print(df["text"][i])
         score = 0
         for j in key_vals:
-            # print(j)
-            # if j == "flower_score" or j == "guest_score":
-            #     if df[j][i] != str(0) and (j in features.keys()):
-            #         if df[j][i] == features[j]:
-            #             score += 1
-            # else:
+            # If the feature is present in the sample from case-base as well as the target case
+            # increase the score
             if df[j][i] != str(0) and (j in features.keys()):
                 score += 1
-
-            # Now check if there are some features which are present in train but not in test, then reduce the score
-            # for those train samples
+            # Now check if there are some features which are present in sample from case-base but not in target case
+            # then reduce the score for those samples
             if df[j][i] != str(0) and (j not in features.keys()):
                 score -= 1
 
         scores.append(score)
     
+    # select top four similar cases 
     tops = sorted(range(len(scores)), key=lambda i: scores[i])[-4:]
     
+    # for each case in the top 4 
     for rank in tops:
         top_ind = rank
         # top_ind = tops[0]
@@ -53,6 +54,7 @@ def funeral_component(features):
             
         # print(top_str)
         
+        # generate the texts
         for i in top_val_soup.find_all():
             # print(i.name, i.string)
             if i.name in features.keys():

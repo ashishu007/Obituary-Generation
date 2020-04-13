@@ -1,3 +1,9 @@
+# generate the personal_info component text
+# input: dictionary of features
+# output: four generated messages
+
+# other comments similar as funeral.py
+
 import pandas as pd
 import numpy as np
 from bs4 import BeautifulSoup
