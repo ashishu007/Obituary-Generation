@@ -18,7 +18,8 @@
     - ```flask run```
 
 ## Input-Output system
-- On `https://localhost:5000` there will be a form for different feature values.
+- On `https://localhost:5000` there will be a form for different feature values. A screen capture is shown here:
+![Basic Retrieval](/labelling/resources/input-form.png)
 - After submitting the form you will get a `json` file with a dictionary of features given as input and four possible obituaries.
 - An example of obituaries generated from `basic-retrieval` method.
 ![Basic Retrieval](/labelling/resources/basic.png)
@@ -30,8 +31,7 @@
 - Edge cases:
    - Orthology: Things like one full stops only (mostly occurs in `component-retrieval`).
    - ~~Morphology: Things like appropriate use of 'he' or 'she'.~~ **Done**
-- Modify the feature list to handle edge-cases.
-   - Special care for relations section.
+   - Modify the feature list to handle edge-cases with a special care for _relations_ section.
 - Maybe break the obituary into two sections, 'funeral' and 'non-funeral', for sending it back.
 - Try to add message about previous life.
 - ~~Add the framework for data labelling.~~ **Done**
