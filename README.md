@@ -37,6 +37,14 @@
    +-- create_xml.py
    +-- README.md
 
++-- reports (technical reports)
+   +-- images
+      +-- basic.png (example output from basic-retrieval method).
+      +-- comps.png (example output from component-retrieval method).
+      +-- input-form.png (screen capture of input form).
+   +-- flask-app-report.pdf.
+   +-- ICCBR-accepted-paper.pdf.
+
 +-- migrations (database: useless)
 
 +-- cbrobit.py (main flask file)
