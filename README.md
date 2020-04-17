@@ -2,7 +2,7 @@
 ```
 +-- app (flask sevice)
    +-- messages (CBR/Lazy learning part)
-         +-- data (Case-Base)
+      +-- data (Case-Base)
          +-- basic.csv
          +-- personal_info_component.csv
          +-- funeral_component.csv
