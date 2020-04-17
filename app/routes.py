@@ -36,38 +36,7 @@ def send_obits():
             else:
                 ftrs[key] = val[0]
 
-    # add the gender specific relation values in features dictionary
-    if ftrs["gender"] == "M":
-        print("inside if M")
-        if "spouse_name" in list(ftrs.keys()):
-            ftrs["spouse_gender"] = "husband"
-        if "children_name" in list(ftrs.keys()):
-            ftrs["parent_gender"] = "father"
-        if "grandchildren_name" in list(ftrs.keys()):
-            ftrs["grandparent_gender"] = "papa"
-        if "great_grandchildren_name" in list(ftrs.keys()):
-            ftrs["great_grandparent_gender"] = "great papa"
-        if "children_in_law_name" in list(ftrs.keys()):
-            ftrs["parent_in_law_gender"] = "father in law"
-        if "siblings_name" in list(ftrs.keys()):
-            ftrs["siblings_gender"] = "brother"
-
-    if ftrs["gender"] == "F":
-        print("inside if F")
-        if "spouse_name" in list(ftrs.keys()):
-            ftrs["spouse_gender"] = "wife"
-        if "children_name" in list(ftrs.keys()):
-            ftrs["parent_gender"] = "mother"
-        if "grandchildren_name" in list(ftrs.keys()):
-            ftrs["grandparent_gender"] = "nana"
-        if "great_grandchildren_name" in list(ftrs.keys()):
-            ftrs["great_grandparent_gender"] = "great nana"
-        if "children_in_law_name" in list(ftrs.keys()):
-            ftrs["parent_in_law_gender"] = "mother in law"
-        if "siblings_name" in list(ftrs.keys()):
-            ftrs["siblings_gender"] = "sister"
-
-    print(ftrs)
+    print("Feature list before gender specific features", ftrs)
 
     # check for the retrieval method 
     if r["ret_met"][0] == "basic":

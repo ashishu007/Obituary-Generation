@@ -77,9 +77,9 @@
 ![Basic Retrieval](/reports/images/input-form.png)
 - After submitting the form you will get a `json` file with a dictionary of features given as input and four possible obituaries.
 - An example of obituaries generated from `basic-retrieval` method.
-![Basic Retrieval](/reports/images/basic.png)
+![Basic Retrieval](/reports/images/basic-out.png)
 - An example of obituaries generated from `component-retrieval` method.
-![Component Retrieval](/reports/images/comp.png)
+![Component Retrieval](/reports/images/comp-out.png)
 
 ## Technical Reports
 - A technical report about Flask-app can be found [here](/reports/flask-app-report.pdf).
