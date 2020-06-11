@@ -29,10 +29,10 @@ def funeral_component(features):
             # increase the score
             if df[j][i] != str(0) and (j in features.keys()):
                 score += 1
-            # Now check if there are some features which are present in sample from case-base but not in target case
-            # then reduce the score for those samples
-            if df[j][i] != str(0) and (j not in features.keys()):
-                score -= 1
+            # # Now check if there are some features which are present in sample from case-base but not in target case
+            # # then reduce the score for those samples
+            # if df[j][i] != str(0) and (j not in features.keys()):
+            #     score -= 1
 
         scores.append(score)
     

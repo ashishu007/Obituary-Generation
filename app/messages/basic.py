@@ -48,10 +48,10 @@ def basic_generation(features):
                 if df[j][i] != str(0) and (j in features.keys()):
                     score += 1
 
-            # Now check if there are some features which are present in train but not in test, then reduce the score
-            # for those train samples
-            if df[j][i] != str(0) and (j not in features.keys()):
-                score -= 1
+            # # Now check if there are some features which are present in train but not in test, then reduce the score
+            # # for those train samples
+            # if df[j][i] != str(0) and (j not in features.keys()):
+            #     score -= 1
 
         scores.append(score)
     # print(scores)
