@@ -108,3 +108,16 @@
 ## Longer Goal
 - Add more data.
 - Add Active Learning for data labelling.
+
+## Citation
+
+```latex
+@inproceedings{upadhyay2020case,
+  title={Case-Based Approach to Automated Natural Language Generation for Obituaries},
+  author={Upadhyay, Ashish and Massie, Stewart and Clogher, Sean},
+  booktitle={International Conference on Case-Based Reasoning},
+  pages={279--294},
+  year={2020},
+  organization={Springer}
+}
+```
